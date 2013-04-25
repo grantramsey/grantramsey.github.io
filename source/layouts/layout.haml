@@ -1,0 +1,13 @@
+!!! 5
+!= cc_html(:lang => 'en') do  
+  %head
+    %meta{ :charset => "utf-8" }/
+    %meta{ :name => "viewport", :content => "width=device-width" }/
+    %title= data.page.title || "Ramsey Lab"
+    = stylesheet_link_tag "app"
+    = javascript_include_tag 'vendor/custom.modernizr'
+
+  %body{ :id => data.page.unique ? data.page.unique : 'nonunique' }
+    ~ yield
+    /= partial 'layouts/footer'
+    = javascript_include_tag "app"
