@@ -11,7 +11,6 @@ header {
   margin-top: 2em;
     
   h1 {
-    color: white;
     font-weight: normal;
     font-size: emCalc(34px);
     text-transform: uppercase;
@@ -21,6 +20,10 @@ header {
     margin-bottom: 10px;
     padding-left: 18px;
     padding-right: 18px;
+
+    &, & a, & a:link, & a:hover, & a:visited, & a:active {
+      color: white;
+    }
 
     @media only screen and (min-width: 900px) {
       @include grid-column(7);
