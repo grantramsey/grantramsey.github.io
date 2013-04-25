@@ -28,7 +28,7 @@ $body-font-family: "PT Sans", "Myriad Pro", "Helvetica Neue", "Helvetica", Helve
 // $text-direction: ltr;
 
 // We use these as default colors throughout
-// $primary-color: #2ba6cb;
+$primary-color: #666666;
 // $secondary-color: #e9e9e9;
 // $alert-color: #c60f13;
 // $success-color: #5da423;
@@ -92,7 +92,7 @@ $header-font-family: "PT Sans", "Myriad Pro", "Helvetica Neue", "Helvetica", Hel
 // $header-line-height: 1.4;
 // $header-top-margin: .2em;
 // $header-bottom-margin: .5em;
-// $header-text-rendering: optimizeLegibility;
+$header-text-rendering: inherit;
 
 // We use these to control header font sizes
 // $h1-font-size: emCalc(44px);
