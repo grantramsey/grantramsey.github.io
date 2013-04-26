@@ -9,6 +9,10 @@
 
   %body{ :id => data.page.unique ? data.page.unique : 'nonunique' }
     = partial 'layouts/header'
-    ~ yield
-    /= partial 'layouts/footer'
+    
+    .row
+      .small-12.columns
+        = yield
+
+    %footer/
     = javascript_include_tag 'app'

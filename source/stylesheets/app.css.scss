@@ -35,10 +35,10 @@ header {
       font-size: emCalc(28px);
       
       padding-left: 9px;
-      padidng-right: 9px;
+      padding-right: 9px;
     }
     @media only screen and (max-width: 450px) {
-      font-size: emCalc(24px);
+      font-size: emCalc(20px);
     }
 
     em {
@@ -76,4 +76,42 @@ header {
       padding-left: 18px;
     }
   }
+}
+
+nav {
+  @include grid-row;
+  
+  margin-top: 0.8em;
+  margin-bottom: 5em;
+  
+  ul {
+    list-style-type: none;
+    
+    li a {
+      @include grid-column(2);
+      text-align: center;
+      
+      @media only screen and (max-width: 450px) {
+        @include grid-column(4);
+        padding-top: 0.2em;
+        padding-bottom: 0.2em;
+      }
+      
+      &:hover, &.active {
+        font-weight: bold;
+        background-color: #e6e6e6;
+      }
+    }
+  }
+}
+
+footer {
+  @include grid-row;
+  
+  margin-top: 3em;
+}
+
+.front_image {
+  margin-left: 10%;
+  width: 80%;
 }

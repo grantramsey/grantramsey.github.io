@@ -1,4 +1,3 @@
 
-# Index
-
-Testing
+{:.front_image}
+![](front.jpg)
