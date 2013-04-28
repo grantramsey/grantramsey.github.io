@@ -10,9 +10,9 @@ task :preview do
   system("bundle exec middleman server")
 end
 
-# desc "Deploy to the live site via git"
-# task :deploy => [ :build ] do
-#   system("bundle exec middleman deploy")
-# end
+desc "Deploy to the live site via git"
+task :deploy => [ :build ] do
+  system("bundle exec middleman deploy")
+end
 
 task :default => [ :build ]
