@@ -44,8 +44,8 @@ configure :build do
   set :jpegoptim_options, false
 end
 
-#activate :deploy do |deploy|
-#  deploy.method = :git
-#  deploy.remote = "git@github.com:cpence/cpence.github.com.git"
-#  deploy.branch = "master"
-#end
+activate :deploy do |deploy|
+  deploy.method = :git
+  deploy.remote = "git@github.com:grantramsey/grantramsey.github.com.git"
+  deploy.branch = "master"
+end
