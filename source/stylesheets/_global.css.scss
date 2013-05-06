@@ -24,6 +24,9 @@ header {
       color: white;
     }
 
+    @media only screen and (max-width: 899px) {
+      text-align: center;
+    }
     @media only screen and (min-width: 900px) {
       @include grid-column(7);
       
