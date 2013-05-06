@@ -113,6 +113,14 @@ footer {
   margin-top: 3em;
 }
 
+/* Don't shrink these by 10px (why have the variables, then?) */
+h1 { font-size: $h1-font-size; }
+h2 { font-size: $h2-font-size; }
+h3 { font-size: $h3-font-size; }
+h4 { font-size: $h4-font-size; }
+h5 { font-size: $h5-font-size; }
+h6 { font-size: $h6-font-size; }
+
 h1 {
   margin-top: 2em;
 }
