@@ -10,7 +10,7 @@
   %body{ :id => data.page.unique ? data.page.unique : 'nonunique' }
     = partial 'layouts/header'
     
-    .row
+    .row#main-content
       .small-12.columns
         = yield
 
