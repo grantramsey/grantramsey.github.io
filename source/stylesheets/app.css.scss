@@ -6,7 +6,10 @@
 /* Styles for the menu and other global bits */
 @import "global";
 
-.front_image {
-  margin-left: 10%;
-  width: 80%;
+/* On large screens, add some margin to the front-page image */
+@media only screen and (min-width: 768px) {
+  .front_image {
+    margin-left: 10%;
+    width: 80%;
+  }
 }
