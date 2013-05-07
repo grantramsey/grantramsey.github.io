@@ -1,3 +1,6 @@
+---
+unique: teaching
+---
 
 # Future courses
 
