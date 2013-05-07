@@ -113,6 +113,9 @@ footer {
   margin-top: 3em;
 }
 
+a { font-weight: bold; }
+a:hover { text-decoration: underline; }
+
 /* Don't shrink these by 10px (why have the variables, then?) */
 h1 { font-size: $h1-font-size; }
 h2 { font-size: $h2-font-size; }
