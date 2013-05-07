@@ -50,7 +50,7 @@ Central questions in this project are: What distinguishes the moral emotions fro
 
 ## Related publications:
 
-Coming soon.  Michael Deem and I are writing a series of papers on the nature and origin of the moral emotions, especially the self-conscious moral emotions—shame, remorse, regret, guilt—and their associated expressions.
+*   Coming soon.  Michael Deem and I are writing a series of papers on the nature and origin of the moral emotions, especially the self-conscious moral emotions—shame, remorse, regret, guilt—and their associated expressions.
 
 
 # The evoText Project
@@ -59,7 +59,7 @@ Charles Pence and I are constructing a tool for the automated text mining and an
 
 ## Website:
 
-The evoText website <http://www.evotext.org/> is still in beta.  Over the next two years, we plan to implement the analysis tools and add a comprehensive set of journal articles.
+*   The evoText website <http://www.evotext.org/> is still in beta.  Over the next two years, we plan to implement the analysis tools and add a comprehensive set of journal articles.
 
 
 # The Evolution Working Group
