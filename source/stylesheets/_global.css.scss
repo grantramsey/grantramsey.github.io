@@ -24,6 +24,7 @@ header {
       font-weight: normal;
       color: white;
     }
+    & a:hover { text-decoration: none; }
 
     @media only screen and (max-width: 899px) {
       text-align: center;
@@ -103,6 +104,7 @@ nav {
       
       &:hover, &.active {
         font-weight: bold;
+        text-decoration: none;
         background-color: #e6e6e6;
       }
     }
