@@ -52,3 +52,26 @@
     }
   }
 }
+
+#research #main-content {
+  p:first-child {
+    text-align: center;
+    margin-left: 0;
+  }
+  
+  p {
+    margin-left: 2em;
+  }
+  
+  h2 {
+    margin-left: 3em;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin-left: 7em;
+    text-indent: -1.5em;
+    
+    font-size: 95%;
+  }
+}
