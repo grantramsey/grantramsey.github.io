@@ -11,9 +11,9 @@
 
 %nav
   %ul
-    %li= link_to 'People', '/people.html'
-    %li= link_to 'Research', '/research.html'
-    %li= link_to 'Papers', '/papers.html'
-    %li= link_to 'Teaching', '/teaching.html'
-    %li= link_to 'News', '/news.html'
-    %li= link_to 'About', '/about.html'
+    %li{ :class => (data.page.unique && data.page.unique == 'people') ? 'active' : nil }= link_to 'People', '/people.html'
+    %li{ :class => (data.page.unique && data.page.unique == 'research') ? 'active' : nil }= link_to 'Research', '/research.html'
+    %li{ :class => (data.page.unique && data.page.unique == 'papers') ? 'active' : nil }= link_to 'Papers', '/papers.html'
+    %li{ :class => (data.page.unique && data.page.unique == 'teaching') ? 'active' : nil }= link_to 'Teaching', '/teaching.html'
+    %li{ :class => (data.page.unique && data.page.unique == 'news') ? 'active' : nil }= link_to 'News', '/news.html'
+    %li{ :class => (data.page.unique && data.page.unique == 'about') ? 'active' : nil }= link_to 'About', '/about.html'
