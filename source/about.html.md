@@ -4,7 +4,7 @@ unique: about
 
 # About the Lab
 
-Philosophy is traditionally an individualistic pursuit driven by armchair reflections. Although there is certainly a place for this kind of philosophy, I feel that philosophy of biology is best approached through collaborative efforts within philosophy and across the disciplinary divides. I thus draw from the sciences and promote a “lab” culture in my students by encouraging both individual-level pursuits, but also larger, lab-level collaborative pursuits. One example of such collaborative efforts is evoText <www.evotext.org>, a powerful evolutionary text analysis tool that we are currently building. An extension of the Ramsey Lab is the Evolution Working Group (EWG), which has collaboratively published a series of book reviews (see [Research](/research.html) for a list of EWG publications).
+Philosophy is traditionally an individualistic pursuit driven by armchair reflections. Although there is certainly a place for this kind of philosophy, I feel that philosophy of biology is best approached through collaborative efforts within philosophy and across the disciplinary divides. I thus draw from the sciences and promote a “lab” culture in my students by encouraging both individual-level pursuits, but also larger, lab-level collaborative pursuits. One example of such collaborative efforts is [evoText,](http://www.evotext.org/) a powerful evolutionary text analysis tool that we are currently building. An extension of the Ramsey Lab is the Evolution Working Group (EWG), which has collaboratively published a series of book reviews (see [Research](/research.html) for a list of EWG publications).
 
 I am always on the lookout for talented undergrads wishing to pursue a PhD in the philosophy of biology. If you are interested in joining my lab, please send me an email at grant.ramsey@nd.edu. My mailing address is: 100 Malloy Hall; Department of Philosophy; University of Notre Dame; Notre Dame, IN 46556.
 
@@ -16,7 +16,7 @@ I grew up in the wilds of northern California, where I developed a deep apprecia
 
 # Photography
 
-I am passionate about photography. I regularly teach a seminar on photographic theory and, when I get a chance, pursue photographic projects of my own. To see some of my photography, visit my photography website, <www.grantramsey.com>.
+I am passionate about photography. I regularly teach a seminar on photographic theory and, when I get a chance, pursue photographic projects of my own. To see some of my photography, [visit my photography website.](http://www.grantramsey.com/)
 
 
 # About the Rhino illustration
