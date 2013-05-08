@@ -2,7 +2,7 @@
 unique: papers
 ---
 
-[Click here for a PDF of the complete list of Ramsey Lab publications.](/papers/list.pdf)
+[Click here for a PDF of the complete list of Ramsey Lab publications,](/papers/list.pdf) or click the download icons below for individual papers.
 
 
 # Books (as editor)
@@ -41,4 +41,4 @@ unique: papers
 # Other miscellaneous publications
 
 *   Lombardi, A. (1998) _Respecting the Knowledge: Ethnobotany of Western Washington._  Olympia: Washington State Capital Museum.  (Illustrated by Grant Ramsey.)
-*   Ramsey, G., Longino, J., and Kugler, C. (1998) Formicidae: _Rogeria creightoni._ http://academic.evergreen.edu/projects/ants/genera/Rogeria/SPECIES/belti/belti.html. (One of 13 published web pages on the ant genus Rogeria. See full list of species here: <http://academic.evergreen.edu/projects/ants/genera/Rogeria/Specieslist.html>)
+*   Ramsey, G., Longino, J., and Kugler, C. (1998) Formicidae: _Rogeria creightoni._ <http://academic.evergreen.edu/projects/ants/genera/Rogeria/SPECIES/belti/belti.html>. (One of 13 published web pages on the ant genus Rogeria. See full list of species here: <http://academic.evergreen.edu/projects/ants/genera/Rogeria/Specieslist.html>)
