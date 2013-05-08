@@ -23,9 +23,9 @@ header {
     &, & a, & a:link, & a:hover, & a:visited, & a:active {
       font-weight: normal;
       text-decoration: none;
+      background-color: $primary-color;
       color: white;
     }
-    & a:hover { text-decoration: none; }
 
     @media only screen and (max-width: 899px) {
       text-align: center;
