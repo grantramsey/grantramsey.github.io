@@ -86,7 +86,13 @@ nav {
   @include grid-row;
   
   margin-top: 0.8em;
-  margin-bottom: 4em;
+  
+  /* Include a rather hefty margin below the navbar on desktops, but tighten
+     it up on the mobile site */
+  margin-bottom: 2em;
+  @media only screen and (min-width: 768px) {
+    margin-bottom: 4em;
+  }
   
   ul {
     list-style-type: none;
