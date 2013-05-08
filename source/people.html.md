@@ -30,6 +30,8 @@ unique: people
 
 2.  ![](people/deem.jpg)
     : **Michael Deem**
+    
+      <https://sites.google.com/a/nd.edu/michael-j-deem/>
 
       Dissertation: _Minding the Rules: A Scientific and Philosophical Defense of Moral Intuitionism_
 
