@@ -2,7 +2,7 @@
 unique: people
 ---
 
-# Lab Director
+# Lab director
 
 1.  ![](people/ramsey.jpg)
     : **Grant Ramsey**
