@@ -43,8 +43,8 @@ unique: people
 
 # Lab collaborators
 
-1.  ![](people/bateson.jpg)
-    : **Meredith Bateson**
+1.  ![](people/bastian.jpg)
+    : **Meredith Bastian**
 
       <http://www.philadelphiazoo.org>
 
@@ -62,7 +62,7 @@ unique: people
       *   [Ramsey, G. and Brandon, R. (2011) "Why reciprocal altruism is not a kind of group selection." _Biology and Philosophy_ 26: 385-400.](/papers/2011-bp-reciprocal-altruism.pdf) [DOI: 10.1007/s10539-011-9261-7.](http://dx.doi.org/10.1007/s10539-011-9261-7)
       *   [Brandon, R. and Ramsey, G. (2007) "What's Wrong with the Emergentist Statistical Interpretation of Natural Selection and Random Drift?" In: D. Hull and M. Ruse (eds.) _Cambridge Companion to the Philosophy of Biology,_ Cambridge: Cambridge University Press.](/papers/2007-ccpb-emergentist-statistical-interpretation.pdf)
 
-3.  ![](images/peterson.jpg)
+3.  ![](people/peterson.jpg)
     : **Anne Siebels Peterson**
 
       <http://philosophy.nd.edu/people/students/anne-peterson/>
@@ -73,7 +73,7 @@ unique: people
 
       *   [Ramsey, G. and Peterson, A. (2012) "Sameness in biology." _Philosophy of Science_ 77: 255-275.](/papers/2012-ps-sameness-in-biology.pdf) [DOI: 10.1086/664744.](http://dx.doi.org/10.1086/664744)
 
-4.  ![](images/vanschaik.jpg)
+4.  ![](people/vanschaik.jpg)
     : **Carel van Schaik**
 
       <http://www.aim.uzh.ch/Members/profofinstitute/vanschaik.html>
