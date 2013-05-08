@@ -5,6 +5,12 @@
     %meta{ :name => 'viewport', :content => 'width=device-width' }/
     %title= data.page.title || 'Ramsey Lab'
     = stylesheet_link_tag 'app'
+    
+    :css
+      <!--[if lt IE 8]>
+        <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons_ie7.css">
+      <![endif]-->
+    
     = javascript_include_tag 'modernizr'
 
   %body{ :id => data.page.unique ? data.page.unique : 'nonunique' }

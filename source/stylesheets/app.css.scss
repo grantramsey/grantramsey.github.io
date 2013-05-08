@@ -3,6 +3,9 @@
 @import "settings";
 @import "foundation";
 
+/* Foundation icons */
+@import "general_enclosed_foundicons";
+
 /* Styles for the menu and other global bits */
 @import "global";
 
@@ -27,10 +30,43 @@
     text-align: center;
   }
   
-  ul {
+  & > ul {
     list-style-type: decimal;
-
     margin-left: 4em;
+    
+    & > li {
+      a:first-child {
+        display: inline;
+        width: auto;
+        height: auto;
+        
+        position: relative;
+        top: 3px;
+        margin-right: 3px;
+        
+        line-height: inherit;
+        vertical-align: baseline;
+        
+        background-image: none;
+        background-position: 0 0;
+        background-repeat: repeat;
+
+        &, &:hover {
+          color: #666;
+          background-color: $body-bg;
+          text-decoration: none;
+        }
+      }
+      
+      a:first-child:before {
+        font-family: $fontName;
+        font-weight: normal;
+        font-style: normal;
+        text-decoration: inherit;
+
+        content: "\f017";
+      }
+    }
   }
 }
 
