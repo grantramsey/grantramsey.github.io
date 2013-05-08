@@ -22,6 +22,7 @@ header {
 
     &, & a, & a:link, & a:hover, & a:visited, & a:active {
       font-weight: normal;
+      text-decoration: none;
       color: white;
     }
     & a:hover { text-decoration: none; }
@@ -100,6 +101,7 @@ nav {
     li a {
       @include grid-column(2);
       text-align: center;
+      text-decoration: none;
       font-weight: normal;
       
       @media only screen and (max-width: 450px) {
@@ -128,8 +130,8 @@ footer {
   margin-top: 3em;
 }
 
-a { font-weight: bold; }
-a:hover { text-decoration: underline; }
+/* Give the links a background color shift instead of foreground */
+a:hover { background-color: #f0f0f0; }
 
 /* Don't shrink these by 10px (why have the variables, then?) */
 h1 { font-size: $h1-font-size; }
