@@ -147,3 +147,16 @@ h6 { font-size: $h6-font-size; }
 h1 {
   margin-top: 2em;
 }
+
+/* Download icons */
+a.foundicon-down-arrow {
+  position: relative;
+  top: 3px;
+  margin-right: 3px;
+
+  &, &:hover {
+    color: #666;
+    background-color: $body-bg;
+    text-decoration: none;
+  }
+}

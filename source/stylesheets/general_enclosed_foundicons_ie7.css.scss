@@ -7,11 +7,6 @@
   font-style: normal;
 }
 
-/* our custom icon needs to go here, unfortunately */
-#papers #main-content > ul > li a:first-child {
-  *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = "&#xf017;"); 
-}
-
 @include ie-class(settings,"000");
 @include ie-class(heart,"001");
 @include ie-class(star,"002");
