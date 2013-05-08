@@ -2,7 +2,7 @@
 unique: papers
 ---
 
-[Click here for a PDF of the complete list of Ramsey Lab publications,](/papers/list.pdf) or click the download icons below for individual papers.
+[Click here for a PDF of the complete list of Ramsey Lab publications,](/papers/list.pdf) or click the download icons below [download-icon](#) for individual papers.
 
 
 # Books (as editor)
