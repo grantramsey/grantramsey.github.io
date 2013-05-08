@@ -130,6 +130,9 @@ footer {
   margin-top: 3em;
 }
 
+/* A hack for the long-links problem on iPhones */
+a { word-wrap: break-word; overflow-wrap: break-word; }
+
 /* Give the links a background color shift instead of foreground */
 a:hover { background-color: #f0f0f0; }
 
