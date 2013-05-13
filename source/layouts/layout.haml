@@ -19,6 +19,15 @@
     %link{ rel: "icon", type: "image/ico", href: "/favicon.ico" }
 
     = javascript_include_tag 'modernizr'
+    
+    :javascript
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-40834466-1', 'theramseylab.org');
+      ga('send', 'pageview');
 
   %body{ :id => data.page.unique ? data.page.unique : 'nonunique' }
     = partial 'layouts/header'
