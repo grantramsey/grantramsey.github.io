@@ -7,7 +7,7 @@ unique: people
 1.  ![](people/ramsey.jpg)
     : **Grant Ramsey**
       
-      For more information, see the About tab or download his CV.
+      For more information, see the [About page](/about.html) or [download his CV.](/ramsey-cv.pdf)
 
 
 # Current graduate students
