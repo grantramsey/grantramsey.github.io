@@ -6,7 +6,7 @@ unique: about
 
 Philosophy is traditionally an individualistic pursuit driven by armchair reflections. Although there is certainly a place for this kind of philosophy, I feel that philosophy of biology is best approached through collaborative efforts within philosophy and across the disciplinary divides. I thus draw from the sciences and promote a “lab” culture in my students by encouraging both individual-level pursuits, but also larger, lab-level collaborative pursuits. One example of such collaborative efforts is [evoText,](http://www.evotext.org/) a powerful evolutionary text analysis tool that we are currently building. An extension of the Ramsey Lab is the Evolution Working Group (EWG), which has collaboratively published a series of book reviews (see [Research](/research.html) for a list of EWG publications).
 
-I am always on the lookout for talented undergrads wishing to pursue a PhD in the philosophy of biology. If you are interested in joining my lab, please send me an email at <grant.ramsey@nd.edu>. My mailing address is: 100 Malloy Hall; Department of Philosophy; University of Notre Dame; Notre Dame, IN 46556.
+I am always on the lookout for talented undergrads wishing to pursue a PhD in the philosophy of biology. If you are interested in joining my lab, please send me an email at <grant@theramseylab.org>. My mailing address is: 100 Malloy Hall; Department of Philosophy; University of Notre Dame; Notre Dame, IN 46556.
 
 
 # About me
