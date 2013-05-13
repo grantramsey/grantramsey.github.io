@@ -2,9 +2,13 @@
 unique: news
 ---
 
-# Upcoming events
+# News and upcoming events
 
-[Add]
+*   Grant Ramsey was awarded an F+ Fellowship by [KU Leuven](http://www.kuleuven.be/english/) and will be a visiting faculty member this summer.
+*   Grant Ramsey was awarded a sabbatical at the [National Evolutionary Synthesis Center](http://nescent.org/) and will be in residence spring 2014.
+*   Grant Ramsey and Michael Deem will present a talk titled "Guilt by association?" at the "Philosophy, Cultural Evolution, and the Emotions"" conference at [KU Leuven, Belgium](http://www.kuleuven.be/english/) on 28 June.
+*   Charles Pence will present a paper titled "Process and Product Concepts of Natural Selection and Genetic Drift" at the biennial meeting of the [International Society for the History, Philosophy, and Social Studies of Biology](http://ishpssb.org/) in [Montpellier, France,](http://www.ishpssb2013.org/) on 12 July.
+*   Grant Ramsey will present a talk titled "Can altruism be unified?" at the biennial meeting of the [International Society for the History, Philosophy, and Social Studies of Biology](http://ishpssb.org/) in [Montpellier, France,](http://www.ishpssb2013.org/) on 9 July.
 
 # Hot off the press
 
