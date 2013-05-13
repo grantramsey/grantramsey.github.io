@@ -34,8 +34,7 @@ configure :build do
   activate :minify_javascript
   activate :relative_assets
   
-  # Not until we have source/favicon_base.png
-  #activate :favicon_maker
+  activate :favicon_maker
   
   activate :image_optim
   set :pngout_options, false
