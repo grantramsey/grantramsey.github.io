@@ -7,12 +7,6 @@ gem "middleman-favicon-maker"
 gem "middleman-deploy", '>= 0.0.9'
 gem "middleman-imageoptim"
 
-if RUBY_PLATFORM.downcase.include? 'darwin'
-  gem 'rb-fsevent'
-else
-  gem 'rb-inotify'
-end
-
 gem "haml", ">= 4"
 gem "kramdown"
 gem "zurb-foundation"
