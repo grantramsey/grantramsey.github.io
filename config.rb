@@ -35,12 +35,6 @@ configure :build do
   activate :relative_assets
   
   activate :favicon_maker
-  
-  activate :image_optim
-  set :pngout_options, false
-  set :optipng_options, false
-  set :advpng_options, false
-  set :jpegoptim_options, false
 end
 
 activate :deploy do |deploy|

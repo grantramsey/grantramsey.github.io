@@ -5,8 +5,8 @@ gem "rake"
 gem "middleman", ">= 3.1.0.beta.1"
 gem "middleman-favicon-maker"
 gem "middleman-deploy", '>= 0.0.9'
-gem "middleman-imageoptim"
 
+gem "json"
 gem "haml", ">= 4"
 gem "kramdown"
 gem "zurb-foundation"
