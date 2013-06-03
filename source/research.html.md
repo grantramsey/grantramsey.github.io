@@ -18,8 +18,8 @@ Central questions in this project are: What is the nature of key concepts in evo
 *   [download-icon](/papers/2013-bjps-organisms-traits-subdivisions-advance-access.pdf) Ramsey, G. (2013) "Organisms, traits, and population subdivisions: two arguments against the causal conception of fitness?" _British Journal for the Philosophy of Science._ [DOI: 10.1093/bjps/axs010.](http://dx.doi.org/10.1093/bjps/axs010)
 *   [download-icon](/papers/2012-syn-driftability-advance-access.pdf) Ramsey, G. (2012) "Driftability." _Synthese._ [DOI: 10.1007/s11229-012-0232-6.](http://dx.doi.org/10.1007/s11229-012-0232-6)
 *   [download-icon](http://dx.doi.org/10.1086/664744) Ramsey, G. and Peterson, A. (2012) "Sameness in biology." _Philosophy of Science_ 77: 255-275.](/papers/2012-ps-sameness-in-biology.pdf) [DOI: 10.1086/664744.
-*   [download-icon](/papers/2007-bp-fundamental-constraint.pdf) Ramsey, G. (2007) "The Fundamental Constraint on the evolution of culture." _Biology and Philosophy_ 22: 401-414. [DOI: 10.1007/s10539-006-9038-6.](http://dx.doi.org/10.1007/s10539-006-9038-6)
 *   [download-icon](/papers/2007-ccpb-emergentist-statistical-interpretation.pdf) Brandon, R. and Ramsey, G. (2007) "What's Wrong with the Emergentist Statistical Interpretation of Natural Selection and Random Drift?" In: D. Hull and M. Ruse (eds.) _Cambridge Companion to the Philosophy of Biology,_ Cambridge: Cambridge University Press.
+*   [download-icon](/papers/2006-shpbbs-block-fitness.pdf) Ramsey, G. (2006) "Block fitness." _Studies in History and Philosophy of Biological and Biomedical Sciences_ 37: 484-498. [DOI: 10.1016/j.shpsc.2006.06.009.](http://dx.doi.org/10.1016/j.shpsc.2006.06.009)
 
 
 # Behavior in humans and other animals
