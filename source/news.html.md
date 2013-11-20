@@ -4,6 +4,7 @@ unique: news
 
 # News and upcoming events
 
+*   CHarles Pence and Grant Ramsey were awarded the [2013 Sir Karl Popper Essay Prize](http://www.thebsps.org/society/bsps/popper_prize.html).
 *   CHarles Pence was awarded a pre-doctoral visiting fellowship at the [National Evolutionary Synthesis Center](http://nescent.org/) and is in residence this fall.
 *   Grant Ramsey was awarded a sabbatical at the [National Evolutionary Synthesis Center](http://nescent.org/) and will be in residence spring 2014.
 
