@@ -5,8 +5,10 @@ unique: news
 # News and upcoming events
 
 *   Charles Pence and Grant Ramsey were awarded the [2013 Sir Karl Popper Essay Prize](http://www.thebsps.org/society/bsps/popper_prize.html).
-*   Charles Pence was awarded a pre-doctoral visiting fellowship at the [National Evolutionary Synthesis Center](http://nescent.org/) and is in residence this fall.
-*   Grant Ramsey was awarded a sabbatical at the [National Evolutionary Synthesis Center](http://nescent.org/) and will be in residence spring 2014.
+*   Michael Deem will give a talk titled "Truth, Evolution, and the Limits of Cognitive Reliability" in the [Department of Philosophy at the Universith of St. Thomas](http://www.stthomas.edu/philosophy/), St. Paul, MN. February 10, 2014.
+*   Grant Ramsey will give a talk titled "Is human nature the subject of the human sciences?" in the [Department of Philosophy at the Duke University](http://philosophy.duke.edu), Durham, NC. February 14, 2014.
+*   Grant Ramsey will give a talk titled "Is human nature the subject of the human sciences?" at the [Center for Professional and Applied Ethics, University of North Carolina](http://ethics.uncc.edu), Charlotte, NC. February 11, 2014.
+*   Grant Ramsey was awarded a sabbatical at the [National Evolutionary Synthesis Center](http://nescent.org/) and is in residence spring 2014.
 
 # Hot off the press
 
@@ -22,5 +24,5 @@ unique: news
 *   Grant Ramsey and Michael Deem: "Guilt by Association?" Invited talk. Cultural Evolution and the Emotions Conference, Leuven, Belgium, May 29, 2013.
 *   Grant Ramsey: "Fitness, Selection, and the Causes of Evolution." Invited talk. Center for Philosophical Psychology, University of Antwerp, Antwerp, Belgium. May 22, 2013.
 *   Grant Ramsey: "Human Nature in a Post-Essentialist World." Invited talk. Department of Philosophy, University of Maryland, College Park. March 7, 2013.
-*   Charles Pence: "It's Okay to Call Genetic Drift a 'Force'." Symposium.  American Philosophical Association Eastern Division Meeting, Atlanta, GA.   December 29, 2012 (commentators: Lindley Darden and Lindsay Craig).
-*   Michael Deem: "Dehorning the Darwinian Dilemma for Realist Theories of Value." Colloquium. APA Eastern Division Meeting, Atlanta, GA. December 28, 2012.
+*   Charles Pence: "Coming to Terms with Chance in Evolution." Invited Talk.  [Department of Philosophy and Religion, Lousian State University](http://uiswcmsweb.prod.lsu.edu/hss/prs/index.html), Baton Rouge, LA. February 3, 2012.
+
