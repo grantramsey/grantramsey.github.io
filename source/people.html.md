@@ -38,7 +38,6 @@ unique: people
 3.  ![](people/chen.jpg)
     : **Bohang Chen**
 
-      (starting fall 2013)
 
       Dissertation: TBA
 
