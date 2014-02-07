@@ -6,7 +6,7 @@ unique: news
 
 *   Charles Pence and Grant Ramsey were awarded the [2013 Sir Karl Popper Essay Prize](http://www.thebsps.org/society/bsps/popper_prize.html).
 *   Michael Deem will give a talk titled "Truth, Evolution, and the Limits of Cognitive Reliability" in the [Department of Philosophy at the Universith of St. Thomas](http://www.stthomas.edu/philosophy/), St. Paul, MN. February 10, 2014.
-*   Grant Ramsey will give a talk titled "Is human nature the subject of the human sciences?" in the [Department of Philosophy at the Duke University](http://philosophy.duke.edu), Durham, NC. February 14, 2014.
+*   Grant Ramsey will give a talk titled "Is human nature the subject of the human sciences?" in the [Department of Philosophy at Duke University](http://philosophy.duke.edu), Durham, NC. February 14, 2014.
 *   Grant Ramsey will give a talk titled "Is human nature the subject of the human sciences?" at the [Center for Professional and Applied Ethics, University of North Carolina](http://ethics.uncc.edu), Charlotte, NC. February 11, 2014.
 *   Grant Ramsey was awarded a sabbatical at the [National Evolutionary Synthesis Center](http://nescent.org/) and is in residence spring 2014.
 
