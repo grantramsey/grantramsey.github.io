@@ -5,9 +5,10 @@ unique: news
 # News and upcoming events
 
 *   Charles Pence and Grant Ramsey were awarded the [2013 Sir Karl Popper Essay Prize](http://www.thebsps.org/society/bsps/popper_prize.html).
-*   Michael Deem will give a talk titled "Attending to Vulnerability: A Case for Directive Prenatal Genetic Counseling" in the [Department of Philosophy at Saint Louis Universith](http://www.slu.edu/x24973.xml), St. Louis, MO. February 28, 2014.
+*   Michael Deem will give a talk titled "Attending to Vulnerability: A Case for Directive Prenatal Genetic Counseling" in the [Department of Philosophy at Saint Louis University](http://www.slu.edu/x24973.xml), St. Louis, MO. February 28, 2014.
 *   Grant Ramsey will give a talk titled "Is human nature the subject of the human sciences?" in the [Department of Philosophy at Duke University](http://philosophy.duke.edu), Durham, NC. February 28, 2014.
-*   Michael Deem will give a talk titled "Vulnerability in Context" in the [Graduate School of Public and International Affairs](http://socialsciences.uottawa.ca/api/), University of Ottawa, Ottawa, Canada. October 9-10, 2014.
+*   Grant Ramsey will give a talk titled "Is human nature the subject of the human sciences?" in the [Human Nature(s) Conference](https://sites.google.com/a/nd.edu/conferenceonhumannature/) at the [University of Notre Dame](https://www.nd.edu), Durham, NC. April 3-5, 2014.
+*   Michael Deem will give a talk titled "Attending to Vulnerability: A Case for Directive Prenatal Genetic Counseling" in the Vulnerability in Context  at the [Graduate School of Public and International Affairs](http://socialsciences.uottawa.ca/api/), University of Ottawa, Ottawa, Canada. October 9-10, 2014.
 *   Michael Deem and Grant Ramsey, along with [Cailin O'Connor](http://www.lps.uci.edu/lps_bios/cailino), [Kyle Stanford](http://www.lps.uci.edu/lps_bios/stanford), and [Edouard Machery](http://www.pitt.edu/~machery/), will give a talk in a symposium titled "Moral Emotions: Origins, Approaches, and Ethics" at the [Biennial Meeting of the Philosophy of Science Association](http://www.philsci.org/psa-biennial-meeting), in Chicago, IL. November 6-8, 2014.
 *   Grant Ramsey was awarded a sabbatical at the [National Evolutionary Synthesis Center](http://nescent.org/) and is in residence spring 2014.
 
@@ -22,7 +23,7 @@ unique: news
 # Recent lectures
 
 *   Grant Ramsey: "Is human nature the subject of the human sciences?" Invited talk. [Center for Professional and Applied Ethics, University of North Carolina](http://ethics.uncc.edu), Charlotte, NC. February 11, 2014.
-*   Michael Deem: "Truth, Evolution, and the Limits of Cognitive Reliability" Invited talk [Department of Philosophy at the Universith of St. Thomas](http://www.stthomas.edu/philosophy/), St. Paul, MN. February 10, 2014.
+*   Michael Deem: "Truth, Evolution, and the Limits of Cognitive Reliability" Invited talk [Department of Philosophy at the University of St. Thomas](http://www.stthomas.edu/philosophy/), St. Paul, MN. February 10, 2014.
 *   Charles Pence: "Coming to Terms with Chance in Evolution." Invited talk.  [Department of Philosophy and Religion, Lousian State University](http://uiswcmsweb.prod.lsu.edu/hss/prs/index.html), Baton Rouge, LA. February 3, 2014.
 *   Michael Deem: "Human Evolution and Cognitive Reliability." Indiana Philosophical Association Fall Meeting. IUPUI, Indianapolis, IN. October 12, 2013.
 *   Grant Ramsey and Michael Deem: "Guilt by Association?" Invited talk. Cultural Evolution and the Emotions Conference, Leuven, Belgium, May 29, 2013.
