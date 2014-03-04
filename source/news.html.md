@@ -6,6 +6,7 @@ unique: news
 # Announcements
 
 *   Congrats to Charles Pence, who accepted a tenure track job at [LSU's](http://www.lsu.edu) [Department of Philosophy and Religious Studies](http://uiswcmsweb.prod.lsu.edu/hss/prs/).
+*   Congrats to Anne Peterson, who accepted a tenure track job at [The Demartment of Philosophy](http://philosophy.utah.edu) at the [University of Utah](http://www.utah.edu).
 *   Charles Pence and Grant Ramsey were awarded the [2013 Sir Karl Popper Essay Prize](http://www.thebsps.org/society/bsps/popper_prize.html).
 *   Grant Ramsey was awarded a sabbatical at the [National Evolutionary Synthesis Center](http://nescent.org/) and is in residence spring 2014.
 
@@ -13,7 +14,7 @@ unique: news
 
 
 *   Grant Ramsey will give a talk titled "Is human nature the subject of the human sciences?" in the [Human Nature(s) Conference](https://sites.google.com/a/nd.edu/conferenceonhumannature/) at the [University of Notre Dame](https://www.nd.edu), Durham, NC. April 3-5, 2014.
-*   Michael Deem and Grant Ramsey will give a talk titled "Guilt by Association?" in the [Georgetown University Philosophy Conference on Emotions and Emotionality](https://sites.google.com/site/guphilosophyconference2014/home) at the [Georgetown University](http://www.georgetown.edu), Washington D.C. April 12, 2014.
+*   Michael Deem and Grant Ramsey will give a talk titled "Guilt by Association?" in the [Georgetown University Philosophy Conference on Emotions and Emotionality](https://sites.google.com/site/guphilosophyconference2014/home) at [Georgetown University](http://www.georgetown.edu), Washington D.C. April 12, 2014.
 *   Grant Ramsey will give a talk titled "Human nature, culture, and the human sciences" in the [Transfusion and Transformation: the Creative Potential of Interdisciplinary Knowledge Exchange conference](https://www.dur.ac.uk/ias/2014conference/) in the [Institute for Advanced Study](https://www.dur.ac.uk/ias/) at the [Durham University](https://www.dur.ac.uk), Durham, UK. July 15-17, 2014.
 *   Michael Deem will give a talk titled "Attending to Vulnerability: A Case for Directive Prenatal Genetic Counseling" in the Vulnerability in Context Workshop at the [Graduate School of Public and International Affairs](http://socialsciences.uottawa.ca/api/), University of Ottawa, Ottawa, Canada. October 9-10, 2014.
 *   Michael Deem and Grant Ramsey, along with [Cailin O'Connor](http://www.lps.uci.edu/lps_bios/cailino), [Kyle Stanford](http://www.lps.uci.edu/lps_bios/stanford), and [Edouard Machery](http://www.pitt.edu/~machery/), will give a talk in a symposium titled "Moral Emotions: Origins, Approaches, and Ethics" at the [Biennial Meeting of the Philosophy of Science Association](http://www.philsci.org/psa-biennial-meeting), in Chicago, IL. November 6-8, 2014.
