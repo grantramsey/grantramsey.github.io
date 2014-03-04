@@ -25,9 +25,9 @@ unique: news
 
 *   [download-icon](/papers/2013-ps-human-nature.pdf)Ramsey, G. (2013) "Human nature in a post-essentialist world." _Philosophy of Science_ 80: 983-993. [DOI: 10.1086/673902.](http://dx.doi.org/10.1086/673902)
 *   [download-icon](/papers/2013-els-fitness-philosophical-problems.pdf) Ramsey, G. and Pence, C. H. (2013) "Fitness: philosophical problems." In: _eLS._ Chichester: John Wiley & Sons, Ltd. [DOI: 10.1002/9780470015902.a0003443.pub2](http://dx.doi.org/10.1002/9780470015902.a0003443.pub2)
-*   [download-icon](/papers/2013-ptib-fitness-differences.pdf) Ramsey, G. (2013) "Can fitness differences be a cause of evolution?" _Philosophy & Theory in Biology._ 5:e401. <http://hdl.handle.net/2027/spo.6959004.0005.001>.
+*   [download-icon](/papers/2013-ptib-fitness-differences.pdf) Ramsey, G. (2013) "Can fitness differences be a cause of evolution?" _Philosophy & Theory in Biology_ 5:e401. <http://hdl.handle.net/2027/spo.6959004.0005.001>.
 *   [download-icon](/papers/2013-bjps-new-foundation.pdf) Pence, C.H. and Ramsey, G. (2013) "A new foundation for the propensity interpretation of fitness." _British Journal for the Philosophy of Science_ 64:851-881. [DOI: 10.1093/bjps/axs037.](http://dx.doi.org/10.1093/bjps/axs037)
-*   [download-icon](/papers/2013-bjps-organisms-traits-subdivisions.pdf) Ramsey, G. (2013) "Organisms, traits, and population subdivisions: two arguments against the causal conception of fitness?" _British Journal for the Philosophy of Science._ 64: 589-608 [DOI: 10.1093/bjps/axs010.](http://dx.doi.org/10.1093/bjps/axs010)
+*   [download-icon](/papers/2013-bjps-organisms-traits-subdivisions.pdf) Ramsey, G. (2013) "Organisms, traits, and population subdivisions: two arguments against the causal conception of fitness?" _British Journal for the Philosophy of Science_ 64: 589-608 [DOI: 10.1093/bjps/axs010.](http://dx.doi.org/10.1093/bjps/axs010)
 *   [download-icon](/papers/2013-bp-culture-humans-animals.pdf) Ramsey, G. (2013) "Culture in humans and other animals." _Biology and Philosophy_ 27: 457-479. [DOI: 10.1007/s10539-012-9347-x.](http://dx.doi.org/10.1007/s10539-012-9347-x)
 *   [download-icon](/papers/2013-syn-driftability.pdf) Ramsey, G. (2013) "Driftability." _Synthese_ 190: 3909-3928. [DOI: 10.1007/s11229-012-0232-6.](http://dx.doi.org/10.1007/s11229-012-0232-6)
 
