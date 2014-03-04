@@ -14,9 +14,9 @@ Central questions in this project are: What is the nature of key concepts in evo
 *   Ramsey, G. and Pence, C. H. (Under contract) "Chance in evolution from Darwin to contemporary biology." In: G. Ramsey and C.H. Pence (eds.) _Chance in Evolution._ Chicago: University of Chicago Press.
 *   [download-icon](/papers/2013-els-fitness-philosophical-problems.pdf) Ramsey, G. and Pence, C. H. (2013) "Fitness: philosophical problems." In: _eLS._ Chichester: John Wiley & Sons, Ltd. [DOI: 10.1002/9780470015902.a0003443.pub2](http://dx.doi.org/10.1002/9780470015902.a0003443.pub2)
 *   [download-icon](/papers/2013-ptib-fitness-differences.pdf) Ramsey, G. (2013) "Can fitness differences be a cause of evolution?" _Philosophy & Theory in Biology._ 5:e401. <http://hdl.handle.net/2027/spo.6959004.0005.001>.
-*   [download-icon](/papers/2013-bjps-new-foundation-advance-access.pdf) Pence, C.H. and Ramsey, G. (2013) "A new foundation for the propensity interpretation of fitness." _British Journal for the Philosophy of Science._ 64(4): 851-881. [DOI: 10.1093/bjps/axs037.](http://dx.doi.org/10.1093/bjps/axs037)
-*   [download-icon](/papers/2013-bjps-organisms-traits-subdivisions-advance-access.pdf) Ramsey, G. (2013) "Organisms, traits, and population subdivisions: two arguments against the causal conception of fitness?" _British Journal for the Philosophy of Science._ [DOI: 10.1093/bjps/axs010.](http://dx.doi.org/10.1093/bjps/axs010)
-*   [download-icon](/papers/2012-syn-driftability-advance-access.pdf) Ramsey, G. (2012) "Driftability." _Synthese._ [DOI: 10.1007/s11229-012-0232-6.](http://dx.doi.org/10.1007/s11229-012-0232-6)
+*   [download-icon](/papers/2013-bjps-new-foundation.pdf) Pence, C.H. and Ramsey, G. (2013) "A new foundation for the propensity interpretation of fitness." _British Journal for the Philosophy of Science._ 64(4): 851-881. [DOI: 10.1093/bjps/axs037.](http://dx.doi.org/10.1093/bjps/axs037)
+*   [download-icon](/papers/2013-bjps-organisms-traits-subdivisions.pdf) Ramsey, G. (2013) "Organisms, traits, and population subdivisions: two arguments against the causal conception of fitness?" _British Journal for the Philosophy of Science._ 64: 589-608 [DOI: 10.1093/bjps/axs010.](http://dx.doi.org/10.1093/bjps/axs010)
+*   [download-icon](/papers/2013-syn-driftability.pdf) Ramsey, G. (2013) "Driftability." _Synthese_ 190: 3909-3928. [DOI: 10.1007/s11229-012-0232-6.](http://dx.doi.org/10.1007/s11229-012-0232-6)
 *   [download-icon](http://dx.doi.org/10.1086/664744) Ramsey, G. and Peterson, A. (2012) "Sameness in biology." _Philosophy of Science_ 77: 255-275.](/papers/2012-ps-sameness-in-biology.pdf) [DOI: 10.1086/664744.
 *   [download-icon](/papers/2007-ccpb-emergentist-statistical-interpretation.pdf) Brandon, R. and Ramsey, G. (2007) "What's Wrong with the Emergentist Statistical Interpretation of Natural Selection and Random Drift?" In: D. Hull and M. Ruse (eds.) _Cambridge Companion to the Philosophy of Biology,_ Cambridge: Cambridge University Press.
 *   [download-icon](/papers/2006-shpbbs-block-fitness.pdf) Ramsey, G. (2006) "Block fitness." _Studies in History and Philosophy of Biological and Biomedical Sciences_ 37: 484-498. [DOI: 10.1016/j.shpsc.2006.06.009.](http://dx.doi.org/10.1016/j.shpsc.2006.06.009)
@@ -40,7 +40,7 @@ Central questions in this project are: What is human nature? Can human nature be
 
 ## Related publications:
 
-*   Ramsey, G. (In press) "Human nature in a post-essentialist world." _Philosophy of Science._
+*   [download-icon](/papers/2013-ps-human-nature.pdf)Ramsey, G. (2013) "Human nature in a post-essentialist world." _Philosophy of Science_ 80: 983-993. [DOI: 10.1086/673902.](http://dx.doi.org/10.1086/673902)
 *   [download-icon](/papers/2012-pt-human-nature-enhancement.pdf) Ramsey, G. (2012) "How human nature can inform human enhancement." _Philosophy and Technology_ 25: 479-483. [DOI: 10.1007/s13347-012-0087-2.](http://dx.doi.org/10.1007/s13347-012-0087-2)
 
 
