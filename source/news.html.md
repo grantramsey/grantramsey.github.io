@@ -13,8 +13,9 @@ unique: news
 # Upcoming talks
 
 
-*   Grant Ramsey will give a talk titled "Is human nature the subject of the human sciences?" in the [Human Nature(s) Conference](https://sites.google.com/a/nd.edu/conferenceonhumannature/) at the [University of Notre Dame](https://www.nd.edu), Notre Dame, IN. April 3-5, 2014.
+
 *   Michael Deem and Grant Ramsey will give a talk titled "Guilt by Association?" in the [Georgetown University Philosophy Conference on Emotions and Emotionality](https://sites.google.com/site/guphilosophyconference2014/home) at [Georgetown University](http://www.georgetown.edu), Washington D.C. April 12, 2014.
+*   Charles Pence and Grant Ramsey will give a talk titled "Using evoText to plumb the depths of the evolutionary literature" at the [National Evolutionary Synthesis Center](http://nescent.org/) in Durham N.C. May 7, 2014.
 *   Grant Ramsey will give a talk titled "Human nature, culture, and the human sciences" in the [Transfusion and Transformation: the Creative Potential of Interdisciplinary Knowledge Exchange conference](https://www.dur.ac.uk/ias/2014conference/) in the [Institute for Advanced Study](https://www.dur.ac.uk/ias/) at the [Durham University](https://www.dur.ac.uk), Durham, UK. July 15-17, 2014.
 *   Michael Deem will give a talk titled "Attending to Vulnerability: A Case for Directive Prenatal Genetic Counseling" in the Vulnerability in Context Workshop at the [Graduate School of Public and International Affairs](http://socialsciences.uottawa.ca/api/), University of Ottawa, Ottawa, Canada. October 9-10, 2014.
 *   Michael Deem and Grant Ramsey, along with [Cailin O'Connor](http://www.lps.uci.edu/lps_bios/cailino), [Kyle Stanford](http://www.lps.uci.edu/lps_bios/stanford), and [Edouard Machery](http://www.pitt.edu/~machery/), will give a talk in a symposium titled "Moral Emotions: Origins, Approaches, and Ethics" at the [Biennial Meeting of the Philosophy of Science Association](http://www.philsci.org/psa-biennial-meeting), in Chicago, IL. November 6-8, 2014.
@@ -33,6 +34,7 @@ unique: news
 
 # Recent lectures
 
+*   Grant Ramsey: "Is human nature the subject of the human sciences?" [Human Nature(s) Conference](https://sites.google.com/a/nd.edu/conferenceonhumannature/) at the [University of Notre Dame](https://www.nd.edu), Notre Dame, IN. April 3-5, 2014.
 *   Grant Ramsey: "Is human nature the subject of the human sciences?" Invited talk. [Department of Philosophy at Duke University](http://philosophy.duke.edu), Durham, NC. February 28, 2014.
 *   Michael Deem: "Attending to Vulnerability: A Case for Directive Prenatal Genetic Counseling" Invited talk. [Department of Philosophy at Saint Louis University](http://www.slu.edu/x24973.xml), St. Louis, MO. February 28, 2014.
 *   Grant Ramsey: "Is human nature the subject of the human sciences?" Invited talk. [Center for Professional and Applied Ethics, University of North Carolina](http://ethics.uncc.edu), Charlotte, NC. February 11, 2014.
