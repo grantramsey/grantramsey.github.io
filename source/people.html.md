@@ -21,8 +21,8 @@ unique: people
 
       Lab publications:
 
-      *   Ramsey, G. and Pence, C. H. (In press) "Fitness: philosophical problems." In: _eLS._ Chichester: John Wiley & Sons Ltd. <http://www.els.net>.
-      *   [download-icon](/papers/2013-bjps-new-foundation-advance-access.pdf) Pence, C.H. and Ramsey, G. (2013) "A new foundation for the propensity interpretation of fitness." _British Journal for the Philosophy of Science._ [DOI: 10.1093/bjps/axs037.](http://dx.doi.org/10.1093/bjps/axs037)
+      *   [download-icon](/papers/2013-els-fitness-philosophical-problems.pdf) Ramsey, G. and Pence, C. H. (2013) "Fitness: philosophical problems." In: _eLS._ Chichester: John Wiley & Sons, Ltd. [DOI: 10.1002/9780470015902.a0003443.pub2](http://dx.doi.org/10.1002/9780470015902.a0003443.pub2)
+      *   [download-icon](/papers/2013-bjps-new-foundation.pdf) Pence, C.H. and Ramsey, G. (2013) "A new foundation for the propensity interpretation of fitness." _British Journal for the Philosophy of Science_ 64:851-881. [DOI: 10.1093/bjps/axs037.](http://dx.doi.org/10.1093/bjps/axs037)
       *   [download-icon](/papers/2013-ed-stern-review.pdf) Hollocher, H., Pence, C. H., Ramsey, G., and Wirth, M. M. (2013) "A path to success? A Review of Evolution, Development, and the Predictable Genome by David L. Stern." _Evolution and Development_ 15(1): 80–82. [DOI: 10.1111/ede.12016.](http://dx.doi.org/10.1111/ede.12016)
       *   [download-icon](/papers/2011-qrb-boyd-review.pdf) Hollocher, H., Fuentes, A., Pence, C. H., Ramsey, G., Sportiello, D. J., and Wirth, M. M. (2011) "[Review of] On the Origin of Stories: Evolution, Cognition, and Fiction." _The Quarterly Review of Biology_ 86(2): 137-138. [DOI: 10.1086/659913.](http://dx.doi.org/10.1086/659913)
       *   [download-icon](/papers/2011-ps-sober-review.pdf) Pence, C. H., Hollocher, H., Nichols, R., Ramsey, G., Siu, E., and Sportiello, D. J. (2011) "[Review of] Did Darwin Write the Origin Backwards? Philosophical Essays on Darwin’s Theory." _Philosophy of Science_ 78(4): 705-709. [DOI: 10.1086/661775.](http://dx.doi.org/10.1086/661775)
