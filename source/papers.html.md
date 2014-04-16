@@ -2,7 +2,7 @@
 unique: papers
 ---
 
-[Click here for a PDF of the list of Grant Ramsey's publications](/papers/list.pdf), [here for his publications on Google Scholar.](http://scholar.google.com/citations?user=0pTpGjwAAAAJ), or on the download icons below [download-icon](#) for individual papers. 
+[Click here for a PDF of the list of Grant Ramsey's publications](/papers/list.pdf), [here for his publications on Google Scholar](http://scholar.google.com/citations?user=0pTpGjwAAAAJ), or on the  [download-icon](#) below for individual papers. 
 
 # Books (as editor)
 
