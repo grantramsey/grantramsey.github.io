@@ -2,7 +2,7 @@
 unique: papers
 ---
 
-[Click here for a PDF list of publications](/papers/list.pdf), [here for his publications on Google Scholar](http://scholar.google.com/citations?user=0pTpGjwAAAAJ), or on the  [download-icon](#) below to download individual papers. 
+[Click here for a PDF list of publications](/papers/list.pdf), [here for my publications on Google Scholar](http://scholar.google.com/citations?user=0pTpGjwAAAAJ), or on the  [download-icon](#) below to download individual papers. 
 
 # Books (as editor)
 
