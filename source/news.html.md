@@ -13,10 +13,10 @@ unique: news
 # Upcoming talks
 
 
-*   Grant Ramsey will give a talk titled "Is organismic fitness at the basis of evolutionary theory?" at the annual meeting of the [British Society for the Philosophy of Science](http://www.phil.cam.ac.uk/joint-session/bsps) in Cambridge, UK July 10-11, 2014.
-*   Grant Ramsey will give a talk titled "Human nature, culture, and the human sciences" in the [Transfusion and Transformation: the Creative Potential of Interdisciplinary Knowledge Exchange conference](https://www.dur.ac.uk/ias/2014conference/) in the [Institute for Advanced Study](https://www.dur.ac.uk/ias/) at the [Durham University](https://www.dur.ac.uk), Durham, UK. July 15-17, 2014.
-*   Michael Deem will give a talk titled "Attending to Vulnerability: A Case for Directive Prenatal Genetic Counseling" in the Vulnerability in Context Workshop at the [Graduate School of Public and International Affairs](http://socialsciences.uottawa.ca/api/), University of Ottawa, Ottawa, Canada. October 9-10, 2014.
-*   Michael Deem and Grant Ramsey, along with [Cailin O'Connor](http://www.lps.uci.edu/lps_bios/cailino), [Kyle Stanford](http://www.lps.uci.edu/lps_bios/stanford), and [Edouard Machery](http://www.pitt.edu/~machery/), will give a talk in a symposium titled "Moral Emotions: Origins, Approaches, and Ethics" at the [Biennial Meeting of the Philosophy of Science Association](http://www.philsci.org/psa-biennial-meeting), in Chicago, IL. November 6-8, 2014.
+*   Grant Ramsey will give a talk titled "Is organismic fitness at the basis of evolutionary theory?" at the annual meeting of the [British Society for the Philosophy of Science](http://www.phil.cam.ac.uk/joint-session/bsps) in Cambridge, UK, July 10-11, 2014.
+*   Grant Ramsey will give a talk titled "Human nature, culture, and the human sciences" in the [Transfusion and Transformation: the Creative Potential of Interdisciplinary Knowledge Exchange conference](https://www.dur.ac.uk/ias/2014conference/) in the [Institute for Advanced Study](https://www.dur.ac.uk/ias/) at the [Durham University](https://www.dur.ac.uk), Durham, UK, July 15-17, 2014.
+*   Michael Deem will give a talk titled "Attending to Vulnerability: A Case for Directive Prenatal Genetic Counseling" in the Vulnerability in Context Workshop at the [Graduate School of Public and International Affairs](http://socialsciences.uottawa.ca/api/), University of Ottawa, Ottawa, Canada, October 9-10, 2014.
+*   Michael Deem and Grant Ramsey, along with [Cailin O'Connor](http://www.lps.uci.edu/lps_bios/cailino), [Kyle Stanford](http://www.lps.uci.edu/lps_bios/stanford), and [Edouard Machery](http://www.pitt.edu/~machery/), will give a talk in a symposium titled "Moral Emotions: Origins, Approaches, and Ethics" at the [Biennial Meeting of the Philosophy of Science Association](http://www.philsci.org/psa-biennial-meeting), in Chicago, IL, November 6-8, 2014.
 
 
 # Hot off the press
