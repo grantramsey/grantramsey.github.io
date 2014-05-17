@@ -20,12 +20,6 @@ unique: people
 
       Dissertation: _Mechanism and Chance: Toward an Account of Stochastic Mechanism for the Life Sciences_, directed by Lindley Darden
 
-2.  ![](people/chen.jpg)
-    : **Bohang Chen**
-
-
-      Dissertation: TBA
-
 
 # Current graduate students
 
