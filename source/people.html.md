@@ -9,8 +9,6 @@ unique: people
       
       For more information, see the [About page](/about.html) or [download his CV.](/ramsey-cv.pdf)
 
-
-
 # Postdocs
 
 1.  ![](people/desautels.jpg)
@@ -19,7 +17,6 @@ unique: people
       <https://sites.google.com/site/lanedesautels/>
 
       Dissertation: _Mechanism and Chance: Toward an Account of Stochastic Mechanism for the Life Sciences_, directed by Lindley Darden
-
 
 # Current graduate students
 
@@ -35,7 +32,6 @@ unique: people
 
 
       Dissertation: TBA
-
 
 # Alumni
 
