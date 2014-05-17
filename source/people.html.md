@@ -16,7 +16,7 @@ unique: people
     
       <https://sites.google.com/site/lanedesautels/>
 
-      Dissertation: _Mechanism and Chance: Toward an Account of Stochastic Mechanism for the Life Sciences_, directed by [Lindley Darden] (http://faculty.philosophy.umd.edu/LDarden/)
+      Dissertation: _Mechanism and Chance: Toward an Account of Stochastic Mechanism for the Life Sciences_, directed by [Lindley Darden](http://faculty.philosophy.umd.edu/LDarden/)
 
 # Current graduate students
 
