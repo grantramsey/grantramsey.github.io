@@ -10,7 +10,40 @@ unique: people
       For more information, see the [About page](/about.html) or [download his CV.](/ramsey-cv.pdf)
 
 
+
+# Postdocs
+
+1.  ![](people/desautels.jpg)
+    : **Lane DesAutels**
+    
+      <https://sites.google.com/site/lanedesautels/>
+
+      Dissertation: _Mechanism and Chance: Toward an Account of Stochastic Mechanism for the Life Sciences_, directed by Lindley Darden
+
+2.  ![](people/chen.jpg)
+    : **Bohang Chen**
+
+
+      Dissertation: TBA
+
+
 # Current graduate students
+
+1.  ![](people/deem.jpg)
+    : **Michael Deem**
+    
+      <https://sites.google.com/a/nd.edu/michael-j-deem/>
+
+      Dissertation: _Minding the Rules: A Scientific and Philosophical Defense of Moral Intuitionism_
+
+2.  ![](people/chen.jpg)
+    : **Bohang Chen**
+
+
+      Dissertation: TBA
+
+
+# Alumni
 
 1.  ![](people/pence.jpg)
     : **Charles Pence**
@@ -31,19 +64,6 @@ unique: people
       Other lab projects:
       
       *   [The evoText Project](http://www.evotext.org)
-
-2.  ![](people/deem.jpg)
-    : **Michael Deem**
-    
-      <https://sites.google.com/a/nd.edu/michael-j-deem/>
-
-      Dissertation: _Minding the Rules: A Scientific and Philosophical Defense of Moral Intuitionism_
-
-3.  ![](people/chen.jpg)
-    : **Bohang Chen**
-
-
-      Dissertation: TBA
 
 
 # Lab collaborators
