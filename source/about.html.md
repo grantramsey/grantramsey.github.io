@@ -9,6 +9,12 @@ Philosophy is traditionally an individualistic pursuit driven by armchair reflec
 I am always on the lookout for talented undergrads wishing to pursue a PhD in the philosophy of biology. If you are interested in joining my lab, please send me an email at <grant@theramseylab.org>. My mailing address is: 100 Malloy Hall; Department of Philosophy; University of Notre Dame; Notre Dame, IN 46556.
 
 
+# Lab placement
+
+**Charles Pence**: Charles is the first Ramsey Lab alumnus. During his time at Notre Dame he helped develop [the evoText project](http://www.evotext.org) and worked extensively on conceptual issues at the foundation of evolutionary theory. In 2014 he accepted a tenure track job at [LSU's](http://www.lsu.edu) [Department of Philosophy and Religious Studies](http://uiswcmsweb.prod.lsu.edu/hss/prs/). See his Lab research on the [people tab](http://www.theramseylab.org/people) or at [his website](http://www.charlespence.net).
+
+**Anne Peterson**: Anne's dissertation was advised by [Michael Loux](http://philosophy.nd.edu/people/michael-loux/) but she teamed up with the  Ramsey Lab to work on philosophy of biology, especially conceptual issues related to homology. In 2014 she accepted a tenure track job at [The Department of Philosophy](http://philosophy.utah.edu) at the [University of Utah](http://www.utah.edu). See her lab research on the [people tab](http://www.theramseylab.org/people).
+
 # About me
 
 I grew up in the wilds of northern California, where I developed a deep appreciation for nature and a love of science. I attended college at [The Evergreen State College,](http://www.evergreen.edu/) spending much time in the field studying rocks, plants, and insects. At Evergreen I developed a passion for interdisciplinary studies and discovered the field of philosophy of biology. I then pursued graduate school in philosophy of biology at [Duke University,](http://www.duke.edu) studying under [Robert Brandon](https://fds.duke.edu/db/aas/Philosophy/rbrandon) and [Alex Rosenberg.](http://people.duke.edu/~alexrose/) Upon completing my PhD from Duke, I took a job at the [University of Notre Dame.](http://www.nd.edu/) I now hold an Assistant Professorship in the [Department of Philosophy](http://philosophy.nd.edu/) and am also faculty in the [Program in History and Philosophy of Science](reilly.nd.edu/history-and-philosophy-of-science/) and a Reilly Fellow at the [Reilly Center for Science, Technology, and Values.](http://reilly.nd.edu)
