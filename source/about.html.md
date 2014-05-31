@@ -13,7 +13,7 @@ I am always on the lookout for talented undergrads wishing to pursue a PhD in th
 
 **Charles Pence**: Charles is the first Ramsey Lab alumnus. During his time at Notre Dame he helped develop [the evoText project](http://www.evotext.org) and worked extensively on conceptual issues at the foundation of evolutionary theory. In 2014 he accepted a tenure track job at [LSU's](http://www.lsu.edu) [Department of Philosophy and Religious Studies](http://uiswcmsweb.prod.lsu.edu/hss/prs/). See his Lab research on the [people tab](http://www.theramseylab.org/people) or at [his website](http://www.charlespence.net).
 
-**Anne Peterson**: Anne's dissertation was advised by [Michael Loux](http://philosophy.nd.edu/people/michael-loux/) but she teamed up with the  Ramsey Lab to work on philosophy of biology, especially conceptual issues related to homology. In 2014 she accepted a tenure track job at [The Department of Philosophy](http://philosophy.utah.edu) at the [University of Utah](http://www.utah.edu). See her lab research on the [people tab](http://www.theramseylab.org/people).
+**Anne Siebels Peterson**: Anne's dissertation was advised by [Michael Loux](http://philosophy.nd.edu/people/michael-loux/) but she teamed up with the  Ramsey Lab to work on philosophy of biology, especially conceptual issues related to homology. In 2014 she accepted a tenure track job at [The Department of Philosophy](http://philosophy.utah.edu) at the [University of Utah](http://www.utah.edu). See her lab research on the [people tab](http://www.theramseylab.org/people).
 
 # About me
 
