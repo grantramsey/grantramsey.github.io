@@ -142,7 +142,7 @@ unique: people
 4.  ![](people/wirth.jpg)
     : **Michelle Wirth**
 
-      <http://www3.nd.edu/~streslab/ESP_home.html>
+      <http://www3.nd.edu/~streslab/>
 
       Lab publications:
 
