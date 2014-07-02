@@ -6,7 +6,7 @@ unique: news
 # Announcements
 
 *   Congrats to Charles Pence, who accepted a tenure track job at [LSU's](http://www.lsu.edu) [Department of Philosophy and Religious Studies](http://uiswcmsweb.prod.lsu.edu/hss/prs/).
-*   Congrats to Anne Peterson, who accepted a tenure track job at [The Department of Philosophy](http://philosophy.utah.edu) at the [University of Utah](http://www.utah.edu).
+*   Congrats to Anne Peterson, who accepted a tenure track job in [The Department of Philosophy](http://philosophy.utah.edu) at the [University of Utah](http://www.utah.edu).
 *   Charles Pence and Grant Ramsey were awarded the [2013 Sir Karl Popper Essay Prize](http://www.thebsps.org/society/bsps/popper_prize.html).
 *   Grant Ramsey was awarded a sabbatical at the [National Evolutionary Synthesis Center](http://nescent.org/) and is in residence spring 2014.
 
