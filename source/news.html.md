@@ -8,13 +8,11 @@ unique: news
 *   Congrats to Charles Pence, who accepted a tenure track job at [LSU's](http://www.lsu.edu) [Department of Philosophy and Religious Studies](http://uiswcmsweb.prod.lsu.edu/hss/prs/).
 *   Congrats to Anne Peterson, who accepted a tenure track job in [The Department of Philosophy](http://philosophy.utah.edu) at the [University of Utah](http://www.utah.edu).
 *   Charles Pence and Grant Ramsey were awarded the [2013 Sir Karl Popper Essay Prize](http://www.thebsps.org/society/bsps/popper_prize.html).
-*   Grant Ramsey was awarded a sabbatical at the [National Evolutionary Synthesis Center](http://nescent.org/) and is in residence spring 2014.
+*   Grant Ramsey was awarded a sabbatical at the [National Evolutionary Synthesis Center](http://nescent.org/) and was in residence spring 2014.
 
 # Upcoming talks
 
-
-*   Grant Ramsey will give a talk titled "Is organismic fitness at the basis of evolutionary theory?" at the annual meeting of the [British Society for the Philosophy of Science](http://www.phil.cam.ac.uk/joint-session/bsps) in Cambridge, UK, July 10-11, 2014.
-*   Grant Ramsey will give a talk titled "Human nature, culture, and the human sciences" in the [Transfusion and Transformation: the Creative Potential of Interdisciplinary Knowledge Exchange conference](https://www.dur.ac.uk/ias/2014conference/) in the [Institute for Advanced Study](https://www.dur.ac.uk/ias/) at the [Durham University](https://www.dur.ac.uk), Durham, UK, July 15-17, 2014.
+*   Grant Ramsey and Andreas De Block will give a talk titled "Is cultural fitness hopelessly confused?" in the Human Evolution Behavior Network conference, University of Antwerp, Antwerp, Belgium, October 23-24, 2014.
 *   Michael Deem will give a talk titled "Attending to Vulnerability: A Case for Directive Prenatal Genetic Counseling" in the Vulnerability in Context Workshop at the [Graduate School of Public and International Affairs](http://socialsciences.uottawa.ca/api/), University of Ottawa, Ottawa, Canada, October 9-10, 2014.
 *   Michael Deem and Grant Ramsey, along with [Cailin O'Connor](http://www.lps.uci.edu/lps_bios/cailino), [Kyle Stanford](http://www.lps.uci.edu/lps_bios/stanford), and [Edouard Machery](http://www.pitt.edu/~machery/), will give a talk in a symposium titled "Moral Emotions: Origins, Approaches, and Ethics" at the [Biennial Meeting of the Philosophy of Science Association](http://www.philsci.org/psa-biennial-meeting), in Chicago, IL, November 6-8, 2014.
 
@@ -32,6 +30,8 @@ unique: news
 
 # Recent lectures
 
+*   Grant Ramsey: "Human nature, culture, and the human sciences" [Transfusion and Transformation: the Creative Potential of Interdisciplinary Knowledge Exchange conference](https://www.dur.ac.uk/ias/2014conference/) in the [Institute for Advanced Study](https://www.dur.ac.uk/ias/) at the [Durham University](https://www.dur.ac.uk), Durham, UK, July 16, 2014.
+*   Grant Ramsey: "Is organismic fitness at the basis of evolutionary theory?" at the annual meeting of the [British Society for the Philosophy of Science](http://www.phil.cam.ac.uk/joint-session/bsps), Cambridge, UK, July 11, 2014.
 *   Charles Pence and Grant Ramsey: "Using evoText to plumb the depths of the evolutionary literature" Invited talk. [The National Evolutionary Synthesis Center](http://nescent.org/), Durham N.C. May 7, 2014.
 *   Michael Deem and Grant Ramsey: "Guilt by Association?" [Georgetown University Philosophy Conference on Emotions and Emotionality](https://sites.google.com/site/guphilosophyconference2014/home), [Georgetown University](http://www.georgetown.edu), Washington D.C. April 12, 2014.
 *   Grant Ramsey: "Is human nature the subject of the human sciences?" [Human Nature(s) Conference](https://sites.google.com/a/nd.edu/conferenceonhumannature/) at the [University of Notre Dame](https://www.nd.edu), Notre Dame, IN. April 3-5, 2014.
@@ -42,7 +42,7 @@ unique: news
 *   Charles Pence: "Coming to Terms with Chance in Evolution." Invited talk.  [Department of Philosophy and Religion, Lousian State University](http://uiswcmsweb.prod.lsu.edu/hss/prs/index.html), Baton Rouge, LA. February 3, 2014.
 *   Michael Deem: "Human Evolution and Cognitive Reliability." Indiana Philosophical Association Fall Meeting. IUPUI, Indianapolis, IN. October 12, 2013.
 *   Grant Ramsey and Michael Deem: "Guilt by Association?" Invited talk. Cultural Evolution and the Emotions Conference, Leuven, Belgium, May 29, 2013.
-*   Grant Ramsey: "Fitness, Selection, and the Causes of Evolution." Invited talk. Center for Philosophical Psychology, University of Antwerp, Antwerp, Belgium. May 22, 2013.
+*   Grant Ramsey: "Fitness, Selection, and the Causes of Evolution." Invited talk. Center for Philosophical Psychology, University of Antwerp, Antwerp, Belgium, May 22, 2013.
 *   Grant Ramsey: "Human Nature in a Post-Essentialist World." Invited talk. Department of Philosophy, University of Maryland, College Park. March 7, 2013.
 
 
