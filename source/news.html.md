@@ -12,7 +12,7 @@ unique: news
 
 # Upcoming talks
 
-*   Michael Deem will give a talk titled "Attending to Patient Vulnerability in Genetic Counseling" at the [Fourth Annual WMU Medical Humanities Conference, Western Michigan University, Kalamazoo, MI, September 18-19, 2014.](http://www.wmich.edu/medicalhumanities/conference2014/) (_submitted talk_)
+*   Michael Deem will give a talk titled "Attending to Patient Vulnerability in Genetic Counseling" at the [Fourth Annual WMU Medical Humanities Conference](http://www.wmich.edu/medicalhumanities/conference2014/), Western Michigan University, Kalamazoo, MI, September 18-19, 2014. (_submitted talk_)
 *   Grant Ramsey will give a talk titled "Is cultural fitness hopelessly confused?" in the [Human Evolution Behavior Network conference, University of Antwerp, Antwerp, Belgium, October 23, 2014.](https://www.uantwerpen.be/en/rg/mios/news/conferences/heben-2014/) (_invited plenery talk_)
 *   Michael Deem will give a talk titled "Attending to Vulnerability: A Case for Directive Prenatal Genetic Counseling" in the Vulnerability in Context Workshop at the [Graduate School of Public and International Affairs](http://socialsciences.uottawa.ca/api/), University of Ottawa, Ottawa, Canada, October 9-10, 2014. (_submitted talk_)
 *   Michael Deem and Grant Ramsey, along with [Cailin O'Connor](http://www.lps.uci.edu/lps_bios/cailino), [Jay Odenbaugh](http://college.lclark.edu/live/profiles/76-jay-odenbaugh), and [Edouard Machery](http://www.pitt.edu/~machery/), will give a talk in a symposium titled "Moral Emotions: Origins, Approaches, and Ethics" at the [Biennial Meeting of the Philosophy of Science Association](http://www.philsci.org/psa-biennial-meeting), in Chicago, IL, November 6-8, 2014. (_submitted talk_)
