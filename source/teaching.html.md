@@ -4,13 +4,14 @@ unique: teaching
 
 # Future courses
 
-*   Fall 2014: Image Takers / Image Makers (College Seminar, undergrad)
-*   Fall 2014: Philosophy of Biology (grad seminar)
+*   Spring 2015: In Search of Utopia (College Seminar, undergrad)
+*   Spring 2015: The Life and Work of Darwin (400-level, undergrad)
 
 
 # Current courses
 
-*   Spring 2014: No courses, on leave at the [National Evolutionary Synthesis Center](http://www.nescent.org)
+*   Fall 2014: Image Takers / Image Makers (College Seminar, undergrad)
+*   Fall 2014: Philosophy of Biology (grad seminar)
 
 
 # Past courses
