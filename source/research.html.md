@@ -54,7 +54,7 @@ Central questions in this project are: What distinguishes the moral emotions fro
 
 ## Related publications:
 
-*   Coming soon.  [Michael Deem](http://michaeljdeem.weebly.com), [Cailin O'Connor](http://uci.academia.edu/CailinOConnor), and I are writing papers on the evolution of guilt.
+*   Coming soon.  [Michael Deem](http://michaeljdeem.weebly.com), [Cailin O'Connor](http://uci.academia.edu/CailinOConnor), and I are currently writing papers on the evolution of guilt.
 
 
 # The evoText project
