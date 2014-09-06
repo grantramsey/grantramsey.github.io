@@ -54,7 +54,7 @@ Central questions in this project are: What distinguishes the moral emotions fro
 
 ## Related publications:
 
-*   Coming soon.  Michael Deem and I are writing a series of papers on the nature and origin of the moral emotions, especially the self-conscious moral emotions—shame, remorse, regret, guilt—and their associated expressions.
+*   Coming soon.  [Michael Deem](http://michaeljdeem.weebly.com), [Cailin O'Connor](http://uci.academia.edu/CailinOConnor), and I are writing papers on the evolution of guilt.
 
 
 # The evoText project
