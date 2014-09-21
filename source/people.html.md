@@ -130,7 +130,7 @@ unique: people
 3.  ![](people/peterson.jpg)
     : **Anne Siebels Peterson**
 
-      <http://philosophy.nd.edu/people/students/anne-peterson/>
+      <http://philosophy.utah.edu/profile.php?unid=u0976731>
 
       Dissertation: _Diversification in Aristotle's Metaphysics_
 
