@@ -27,6 +27,10 @@ unique: people
 
       Dissertation: _Minding the Rules: A Scientific and Philosophical Defense of Moral Intuitionism_
 
+      Lab publications:
+
+	  *   Deem, M. and Ramsey, G. (conditionally accepted) "Guilt, gossip, and groups: culture and the evolution of guilt proneness" In: A. De Block H. De Cruz and P. R. Adriaens (eds.) _Cultural evolution, philosophy, and the emotions_ (volume currently under review).
+
 2.  ![](people/chen.jpg)
     : **Bohang Chen**
 
