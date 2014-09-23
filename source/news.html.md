@@ -42,9 +42,4 @@ unique: news
 *   Grant Ramsey: "Is human nature the subject of the human sciences?" Invited talk. [Center for Professional and Applied Ethics, University of North Carolina](http://ethics.uncc.edu), Charlotte, NC. February 11, 2014.
 *   Michael Deem: "Truth, Evolution, and the Limits of Cognitive Reliability" Invited talk [Department of Philosophy at the University of St. Thomas](http://www.stthomas.edu/philosophy/), St. Paul, MN. February 10, 2014.
 *   Charles Pence: "Coming to Terms with Chance in Evolution." Invited talk.  [Department of Philosophy and Religion, Lousian State University](http://uiswcmsweb.prod.lsu.edu/hss/prs/index.html), Baton Rouge, LA. February 3, 2014.
-*   Michael Deem: "Human Evolution and Cognitive Reliability." Indiana Philosophical Association Fall Meeting. IUPUI, Indianapolis, IN. October 12, 2013.
-*   Grant Ramsey and Michael Deem: "Guilt by Association?" Invited talk. Cultural Evolution and the Emotions Conference, Leuven, Belgium, May 29, 2013.
-*   Grant Ramsey: "Fitness, Selection, and the Causes of Evolution." Invited talk. Center for Philosophical Psychology, University of Antwerp, Antwerp, Belgium, May 22, 2013.
-*   Grant Ramsey: "Human Nature in a Post-Essentialist World." Invited talk. Department of Philosophy, University of Maryland, College Park. March 7, 2013.
-
 
