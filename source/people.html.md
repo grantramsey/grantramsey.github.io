@@ -112,6 +112,15 @@ unique: people
       *   [download-icon](/papers/2011-qrb-boyd-review.pdf) Hollocher, H., Fuentes, A., Pence, C. H., Ramsey, G., Sportiello, D. J., and Wirth, M. M. (2011) "[Review of] On the Origin of Stories: Evolution, Cognition, and Fiction." _The Quarterly Review of Biology_ 86(2): 137-138. [DOI: 10.1086/659913.](http://dx.doi.org/10.1086/659913)
       *   [download-icon](/papers/2011-ps-sober-review.pdf) Pence, C. H., Hollocher, H., Nichols, R., Ramsey, G., Siu, E., and Sportiello, D. J. (2011) "[Review of] Did Darwin Write the Origin Backwards? Philosophical Essays on Darwin’s Theory." _Philosophy of Science_ 78(4): 705-709. [DOI: 10.1086/661775.](http://dx.doi.org/10.1086/661775)
       *   [download-icon](/papers/2010-qrb-godfrey-smith-review.pdf) Ramsey, G., Hollocher, H., Fuentes, A., Pence, C. H., and Siu, E. (2010) "[Review of] Darwinian Populations and Natural Selection." _The Quarterly Review of Biology_ 85(4): 499-500. [DOI: 10.1086/656856.](http://dx.doi.org/10.1086/656856)
+ 
+ 4.  ![](people/nadkarni.jpg)
+     : **Nalini Nadkarni**
+
+       <http://nalininadkarni.com>
+
+       Lab publications:
+
+	   *   [download-icon](/papers/2001-cjb-bryophyte-recolonization.pdf) Cobb, A., Nadkarni, N., Ramsey, G., and Svoboda, A. J. (2001) "Recolonization of bigleaf maple branches by epiphytic bryophytes following experimental disturbance." _The Canadian Journal of Botany_ 79: 1-8. [DOI: 10.1139/b00-134](http://dx.doi.org/10.1139/b00-134)
       
 4.  ![](people/nichols.jpg)
     : **Ryan Nichols**
@@ -122,7 +131,7 @@ unique: people
 
       *   [download-icon](/papers/2011-ps-sober-review.pdf) Pence, C. H., Hollocher, H., Nichols, R., Ramsey, G., Siu, E., and Sportiello, D. J. (2011) "[Review of] Did Darwin Write the Origin Backwards? Philosophical Essays on Darwin’s Theory." _Philosophy of Science_ 78(4): 705-709. [DOI: 10.1086/661775.](http://dx.doi.org/10.1086/661775)
 
-4.  ![](people/cailin.jpg)
+4.  ![](people/o'connor.jpg)
     : **Cailin O'Connor**
 
       <http://www.lps.uci.edu/lps_bios/cailino>
