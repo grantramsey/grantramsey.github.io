@@ -54,7 +54,7 @@ Central questions in this project are: What distinguishes the moral emotions fro
 
 ## Related publications:
 
-*   Coming soon.  [Michael Deem](http://michaeljdeem.weebly.com), [Cailin O'Connor](http://uci.academia.edu/CailinOConnor), and I are currently writing papers on the evolution of guilt.
+*   Deem, M. and Ramsey, G. (conditionally accepted) "Guilt, gossip, and groups: culture and the evolution of guilt proneness" In: A. De Block H. De Cruz and P. R. Adriaens (eds.) _Cultural evolution, philosophy, and the emotions_ (volume currently under review).
 
 
 # The evoText project
