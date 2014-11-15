@@ -30,6 +30,7 @@ Central questions in this project are: How are concepts like culture, innovation
 
 ## Related publications:
 
+*   Ramsey, G. (forthcoming) "What is animal culture?" In: K. Andrews and J. Beck (eds.) _Routledge Companion to the Philosophy of Animal Minds._ Routledge Press.
 *   De Block, A. and Ramsey, G. (forthcoming) "The organism-centered approach to cultural evolution." _Topoi_.
 *   [download-icon](/papers/2013-bp-culture-humans-animals.pdf) Ramsey, G. (2013) "Culture in humans and other animals." _Biology and Philosophy_ 27: 457-479. [DOI: 10.1007/s10539-012-9347-x.](http://dx.doi.org/10.1007/s10539-012-9347-x)
 *   [download-icon](/papers/2011-bp-reciprocal-altruism.pdf) Ramsey, G. and Brandon, R. (2011) "Why reciprocal altruism is not a kind of group selection." _Biology and Philosophy_ 26: 385-400. [DOI: 10.1007/s10539-011-9261-7.](http://dx.doi.org/10.1007/s10539-011-9261-7)
