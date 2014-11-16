@@ -14,10 +14,6 @@ unique: news
 # Upcoming talks
 
 
-*   Michael Deem will give a talk titled "Attending to Vulnerability: A Case for Directive Prenatal Genetic Counseling" in the Vulnerability in Context Workshop at the [Graduate School of Public and International Affairs](http://socialsciences.uottawa.ca/api/), University of Ottawa, Ottawa, Canada, October 9-10, 2014. (_submitted talk_)
-*   Grant Ramsey will give a talk titled "Is cultural fitness hopelessly confused?" in the [Human Evolution Behavior Network conference](https://www.uantwerpen.be/en/rg/mios/news/conferences/heben-2014/), University of Antwerp, Antwerpen, Belgium, October 23, 2014. (_invited plenery talk_)
-*   Grant Ramsey will give a talk titled "The causal structure of evolutionary theory" in the [Institute of Philosophy, KU Leuven](http://www.lps.uci.edu), Leuven, Belgium, October 28, 2014. (_invited colloquium talk_)
-*   Michael Deem and Grant Ramsey, along with [Cailin O'Connor](http://www.lps.uci.edu/lps_bios/cailino), [Jay Odenbaugh](http://college.lclark.edu/live/profiles/76-jay-odenbaugh), and [Edouard Machery](http://www.pitt.edu/~machery/), will give a talk in a symposium titled "Moral Emotions: Origins, Approaches, and Ethics" at the [Biennial Meeting of the Philosophy of Science Association](http://www.philsci.org/psa-biennial-meeting), Chicago, IL, November 6-8, 2014. (_submitted talk_)
 *   Grant Ramsey will give a talk titled "The causal structure of evolutionary theory" in the [Department of Logic and Philosophy of Science, UC Irvine](http://www.lps.uci.edu), Irvine, CA, November 21, 2014. (_invited colloquium talk_)
 
 
@@ -34,6 +30,10 @@ unique: news
 
 # Recent lectures
 
+*   Michael Deem and Grant Ramsey: "Guilt as an Evolutionary Problem." Presented along with [Cailin O'Connor](http://www.lps.uci.edu/lps_bios/cailino), [Jay Odenbaugh](http://college.lclark.edu/live/profiles/76-jay-odenbaugh), and [Edouard Machery](http://www.pitt.edu/~machery/), in a symposium titled "Moral Emotions: Origins, Approaches, and Ethics" at the [Biennial Meeting of the Philosophy of Science Association](http://www.philsci.org/psa-biennial-meeting), Chicago, IL, November 8, 2014. (_submitted talk_)
+*   Grant Ramsey: "The possibility of altruism" in the [Institute of Philosophy, KU Leuven](http://www.lps.uci.edu), Leuven, Belgium, October 28, 2014. (_invited colloquium talk_)
+*   Grant Ramsey: "Is cultural fitness hopelessly confused?" in the [Human Evolution Behavior Network conference](https://www.uantwerpen.be/en/rg/mios/news/conferences/heben-2014/), University of Antwerp, Antwerpen, Belgium, October 23, 2014. (_invited plenery talk_)
+*   Michael Deem: "Attending to Vulnerability: A Case for Directive Prenatal Genetic Counseling" in the Vulnerability in Context Workshop at the [Graduate School of Public and International Affairs](http://socialsciences.uottawa.ca/api/), University of Ottawa, Ottawa, Canada, October 9-10, 2014. (_submitted talk_)
 *   Michael Deem: "Attending to Patient Vulnerability in Genetic Counseling" at the [Fourth Annual WMU Medical Humanities Conference](http://www.wmich.edu/medicalhumanities/conference2014/), Western Michigan University, Kalamazoo, MI, September 18-19, 2014. (_submitted talk_)
 *   Grant Ramsey: "Human nature, culture, and the human sciences" at the [Transfusion and Transformation: the Creative Potential of Interdisciplinary Knowledge Exchange conference](https://www.dur.ac.uk/ias/2014conference/) in the [Institute for Advanced Study](https://www.dur.ac.uk/ias/) at the [Durham University](https://www.dur.ac.uk), Durham, UK, July 16, 2014. (_submitted talk_)
 *   Grant Ramsey: "Is organismic fitness at the basis of evolutionary theory?" at the annual meeting of the [British Society for the Philosophy of Science](http://www.phil.cam.ac.uk/joint-session/bsps), Cambridge, UK, July 11, 2014. (_submitted talk_)
