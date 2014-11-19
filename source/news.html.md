@@ -8,7 +8,7 @@ unique: news
 *   The evoText project recently received [some press in NDWorks](/ndworks.pdf).
 *   Congrats to Charles Pence, who accepted a tenure track job at [LSU's](http://www.lsu.edu) [Department of Philosophy and Religious Studies](http://uiswcmsweb.prod.lsu.edu/hss/prs/).
 *   Congrats to Anne Peterson, who accepted a tenure track job in [The Department of Philosophy](http://philosophy.utah.edu) at the [University of Utah](http://www.utah.edu).
-*   Charles Pence and Grant Ramsey were awarded the [2013 Sir Karl Popper Essay Prize](http://www.thebsps.org/society/bsps/popper_prize.html). The prize-winning essay was also the _British Joural for the Prhilosophy of Science's_ [most read paper of July 2014](https://twitter.com/thebjps/status/502013502870269952?refsrc=email). 
+*   Charles Pence and Grant Ramsey were awarded the [2013 Sir Karl Popper Essay Prize](/popperprize.pdf). The prize-winning essay was also the _British Joural for the Prhilosophy of Science's_ [most read paper of July 2014](https://twitter.com/thebjps/status/502013502870269952?refsrc=email). 
 *   Grant Ramsey was awarded a sabbatical at the [National Evolutionary Synthesis Center](http://nescent.org/) and was in residence spring 2014. 
 
 # Upcoming talks
