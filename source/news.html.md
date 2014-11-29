@@ -15,7 +15,7 @@ unique: news
 
 
 *   Grant Ramsey will debate Frans de Waal about ["Anthropomorphism and Anthropodenial" at KU Leuven, Belgium, December 4, 2014.](https://hiw.kuleuven.be/claw/events/agenda/expert-seminar-anthropomorphism-and-anthropodenial) (_invited talk_)
-*   Grant Ramsey will give a talk titled "The structure of evolutionary theory" in the [Department Philosophy, University of Rochester](http://www.rochester.edu/college/PHL/), Rochester, NY, December 19, 2014. (_invited colloquium talk_)
+*   Grant Ramsey will give a talk titled "The structure of evolutionary theory" in the [Department of Philosophy, University of Rochester](http://www.rochester.edu/college/PHL/), Rochester, NY, December 19, 2014. (_invited colloquium talk_)
 *	Grant Ramsey and Charles Pence will present on their evoText Project in a symposium titled "Quantitative Textual Analysis and Philosophy: Hypothesis-Testing and Data-Mining Philosophical Ideas" at the [Pacific APA Annual Conference](http://www.apaonline.org/events/event_details.asp?id=322900), Vancouver, B.C., April 1-5. (_invited symposium talk_)
 
 
