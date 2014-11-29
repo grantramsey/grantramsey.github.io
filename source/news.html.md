@@ -14,9 +14,8 @@ unique: news
 # Upcoming talks
 
 
-*   Grant Ramsey will give a talk titled "The causal structure of evolutionary theory" in the [Department of Logic and Philosophy of Science, UC Irvine](http://www.lps.uci.edu), Irvine, CA, November 21, 2014. (_invited colloquium talk_)
-*   Grant Ramsey will give a talk titled "Is cultural fitness hopelessly confused?" in the Southern California Philosophy of Biology Meeting, UC San Diego, CA, November 22, 2014. (_invited talk_)
-*   Grant Ramsey will debate Frans de Waal about ["Anthropomorphism and Anthropodenial" at KU Leuven, Belgium, December 4, 2014.](http://www.kuleuven.be/oce/page.php?FILE=agenda&LAN=N) (_invited talk_)
+*   Grant Ramsey will debate Frans de Waal about ["Anthropomorphism and Anthropodenial" at KU Leuven, Belgium, December 4, 2014.](https://hiw.kuleuven.be/claw/events/agenda/expert-seminar-anthropomorphism-and-anthropodenial) (_invited talk_)
+*   Grant Ramsey will give a talk titled "The structure of evolutionary theory" in the [Department Philosophy, University of Rochester](http://www.rochester.edu/college/PHL/), Rochester, NY, December 19, 2014. (_invited colloquium talk_)
 *	Grant Ramsey and Charles Pence will present on their evoText Project in a symposium titled "Quantitative Textual Analysis and Philosophy: Hypothesis-Testing and Data-Mining Philosophical Ideas" at the [Pacific APA Annual Conference](http://www.apaonline.org/events/event_details.asp?id=322900), Vancouver, B.C., April 1-5. (_invited symposium talk_)
 
 
@@ -33,6 +32,8 @@ unique: news
 
 # Recent lectures
 
+*   Grant Ramsey: "Is cultural fitness hopelessly confused?" in the Southern California Philosophy of Biology Meeting, UC San Diego, CA, November 22, 2014. (_invited talk_)
+*   Grant Ramsey: "The causal structure of evolutionary theory" in the [Department of Logic and Philosophy of Science, UC Irvine](http://www.lps.uci.edu), Irvine, CA, November 21, 2014. (_invited colloquium talk_)
 *   Michael Deem and Grant Ramsey: "Guilt as an Evolutionary Problem." Presented along with [Cailin O'Connor](http://www.lps.uci.edu/lps_bios/cailino), [Jay Odenbaugh](http://college.lclark.edu/live/profiles/76-jay-odenbaugh), and [Edouard Machery](http://www.pitt.edu/~machery/), in a symposium titled "Moral Emotions: Origins, Approaches, and Ethics" at the [Biennial Meeting of the Philosophy of Science Association](http://www.philsci.org/psa-biennial-meeting), Chicago, IL, November 8, 2014. (_submitted talk_)
 *   Grant Ramsey: "The possibility of altruism" in the [Institute of Philosophy, KU Leuven](http://www.lps.uci.edu), Leuven, Belgium, October 28, 2014. (_invited colloquium talk_)
 *   Grant Ramsey: "Is cultural fitness hopelessly confused?" in the [Human Evolution Behavior Network conference](https://www.uantwerpen.be/en/rg/mios/news/conferences/heben-2014/), University of Antwerp, Antwerpen, Belgium, October 23, 2014. (_invited plenery talk_)
