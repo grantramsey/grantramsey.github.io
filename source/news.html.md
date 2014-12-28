@@ -14,7 +14,6 @@ unique: news
 # Upcoming talks
 
 
-*   Grant Ramsey will give a talk titled "The structure of evolutionary theory" in the [Department of Philosophy, University of Rochester](http://www.rochester.edu/college/PHL/), Rochester, NY, December 19, 2014. (_invited colloquium talk_)
 *	Grant Ramsey and Charles Pence will present on their evoText Project in a symposium titled "Quantitative Textual Analysis and Philosophy: Hypothesis-Testing and Data-Mining Philosophical Ideas" at the [Pacific APA Annual Conference](http://www.apaonline.org/events/event_details.asp?id=322900), Vancouver, B.C., April 4. (_invited symposium talk_)
 
 
@@ -31,6 +30,7 @@ unique: news
 
 # Recent lectures
 
+*   Grant Ramsey: "The structure of evolutionary theory" in the [Department of Philosophy, University of Rochester](http://www.rochester.edu/college/PHL/), Rochester, NY, December 19, 2014. (_invited colloquium talk_)
 *   Grant Ramsey debated Frans de Waal about ["Anthropomorphism and Anthropodenial" at KU Leuven, Belgium, December 4, 2014.](https://hiw.kuleuven.be/claw/events/agenda/expert-seminar-anthropomorphism-and-anthropodenial) (_invited talk_)
 *   Grant Ramsey: "Is cultural fitness hopelessly confused?" in the Southern California Philosophy of Biology Meeting, UC San Diego, CA, November 22, 2014. (_invited talk_)
 *   Grant Ramsey: "The causal structure of evolutionary theory" in the [Department of Logic and Philosophy of Science, UC Irvine](http://www.lps.uci.edu), Irvine, CA, November 21, 2014. (_invited colloquium talk_)
