@@ -4,14 +4,13 @@ unique: teaching
 
 # Future courses
 
-*   Spring 2015: In Search of Utopia (College Seminar, undergrad)
-*   Spring 2015: The Life and Work of Darwin (400-level, undergrad)
+*   On leave Fall 2015 and Spring 2016
 
 
 # Current courses
 
-*   Fall 2014: Image Takers / Image Makers (College Seminar, undergrad)
-*   Fall 2014: Philosophy of Biology (grad seminar)
+*   Spring 2015: In Search of Utopia (College Seminar, undergrad)
+*   Spring 2015: The Life and Work of Darwin (400-level, undergrad)
 
 
 # Past courses
