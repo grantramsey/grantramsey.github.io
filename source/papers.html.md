@@ -11,7 +11,7 @@ unique: papers
 
 # Articles and book chapters
 
-*   Ramsey, G.and De Block, A. (forthcoming) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_.
+*   Ramsey, G. and De Block, A. (forthcoming) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_.
 *   Pence, C. and Ramsey, G. (forthcoming) "Is organismic fitness at the basis of evolutionary theory?" _Philosophy of Science_.
 *   De Block, A. and Ramsey, G. (forthcoming) "The organism-centered approach to cultural evolution." _Topoi_.
 *   Ramsey, G. (forthcoming) "Can altruism be unified?" _Studies in History and Philosophy of Biological and Biomedical Sciences_. 
