@@ -66,7 +66,7 @@ Charles Pence and I are constructing a tool for the automated text mining and an
 
 ## Website:
 
-*   The evoText website <http://www.evotext.org/> is still in beta.  Over the next two years, we plan to implement the analysis tools and add a comprehensive set of journal articles. Click [here](/ndworks.pdf) to read a recent article about evoText.
+*   The evoText website <http://www.evotext.org/> is still in beta.  Over the next two years, we plan to implement the analysis tools and add a comprehensive set of journal articles. Click [here](/ndworks.pdf) to read a recent article about evoText. This work is supported by a [National Science Foundation Scholars Award](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1456573&HistoricalAwards=false).
 
 
 # The Evolution Working Group

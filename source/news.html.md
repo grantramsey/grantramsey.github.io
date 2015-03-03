@@ -5,7 +5,8 @@ unique: news
 
 # Announcements
 
-*   The evoText project recently received [some press in NDWorks](/ndworks.pdf).
+*   Charles Pence and Grant Ramsey were awarded a [National Science Foundation Scholars Award](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1456573&HistoricalAwards=false) for The evoText Project.
+*   The evoText Project recently received [some press in NDWorks](/ndworks.pdf).
 *   Congrats to Charles Pence, who accepted a tenure track job at [LSU's](http://www.lsu.edu) [Department of Philosophy and Religious Studies](http://uiswcmsweb.prod.lsu.edu/hss/prs/).
 *   Congrats to Anne Peterson, who accepted a tenure track job in [The Department of Philosophy](http://philosophy.utah.edu) at the [University of Utah](http://www.utah.edu).
 *   Charles Pence and Grant Ramsey were awarded the [2013 Sir Karl Popper Essay Prize](/popperprize.pdf). The prize-winning essay was also the _British Joural for the Prhilosophy of Science's_ [most read paper of July 2014](https://twitter.com/thebjps/status/502013502870269952?refsrc=email). 
