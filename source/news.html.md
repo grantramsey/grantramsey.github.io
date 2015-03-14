@@ -7,7 +7,7 @@ unique: news
 
 *   Grant Ramsey was awarded a sabbatical at the [National Humanities Center](http://nationalhumanitiescenter.org) and will be in residence August  2015 - June 2016. 
 *   Grant Ramsey was [appointed](/helsinki.pdf) as a research fellow at the Helsinki Collegium for Advanced Studies [Helsinki Collegium for Advanced Studies](http://www.helsinki.fi/collegium/english/) from 1 September 2015 to 31 July 2017. (Declined for National Humanities Center fellowship.) 
-*   Grant Ramsey was awarded a fellowship at the [Pittsburgh Center for Philosophy of Science](http://www.pitt.edu/~pittcntr/) for the 2015/2016 academic year. (Declined for National Humanities Center fellowship.) 
+*   Grant Ramsey was appointed as a fellows at the [Pittsburgh Center for Philosophy of Science](http://www.pitt.edu/~pittcntr/) for the 2015/2016 academic year. (Declined for National Humanities Center fellowship.) 
 *   Charles Pence and Grant Ramsey were awarded a [National Science Foundation Scholars Award](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1456573&HistoricalAwards=false) for The evoText Project.
 *   The evoText Project recently received [some press in NDWorks](/ndworks.pdf).
 *   Congrats to Charles Pence, who accepted a tenure track job at [LSU's](http://www.lsu.edu) [Department of Philosophy and Religious Studies](http://uiswcmsweb.prod.lsu.edu/hss/prs/).
