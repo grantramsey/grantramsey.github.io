@@ -32,7 +32,7 @@ Central questions in this project are: How are concepts like culture, innovation
 
 *   Ramsey, G. and De Block, A. (forthcoming) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_.
 *   Ramsey, G. (forthcoming) "What is animal culture?" In: K. Andrews and J. Beck (eds.) _Routledge Companion to the Philosophy of Animal Minds._ Routledge Press.
-*   De Block, A. and Ramsey, G. (forthcoming) "The organism-centered approach to cultural evolution." _Topoi_.
+*   [download-icon](/papers/2015-topoi-organism-centered.pdf)De Block, A. and Ramsey, G. (2015) "The organism-centered approach to cultural evolution." _Topoi_.
 *   [download-icon](/papers/2013-bp-culture-humans-animals.pdf) Ramsey, G. (2013) "Culture in humans and other animals." _Biology and Philosophy_ 27: 457-479. [DOI: 10.1007/s10539-012-9347-x.](http://dx.doi.org/10.1007/s10539-012-9347-x)
 *   [download-icon](/papers/2011-bp-reciprocal-altruism.pdf) Ramsey, G. and Brandon, R. (2011) "Why reciprocal altruism is not a kind of group selection." _Biology and Philosophy_ 26: 385-400. [DOI: 10.1007/s10539-011-9261-7.](http://dx.doi.org/10.1007/s10539-011-9261-7)
 *   [download-icon](/papers/2007-bp-fundamental-constraint.pdf) Ramsey, G. (2007) "The Fundamental Constraint on the evolution of culture." _Biology and Philosophy_ 22: 401-414. [DOI: 10.1007/s10539-006-9038-6.](http://dx.doi.org/10.1007/s10539-006-9038-6)
