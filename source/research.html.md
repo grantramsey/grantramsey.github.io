@@ -2,7 +2,7 @@
 unique: research
 ---
 
-Research in the Ramsey Lab is focused on the conceptual foundations of evolutionary theory and the study of human and non-human animal behavior, especially how concepts move across the human—non-human boundary.
+Research in the Ramsey Lab is focused on the conceptual foundations of evolutionary theory, the study of human and non-human animal behavior, the moral emotions, and the automated text mining of scientific literature.
 
 # Conceptual foundations of evolutionary theory
 

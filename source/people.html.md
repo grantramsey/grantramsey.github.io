@@ -7,14 +7,15 @@ unique: people
 1.  ![](people/ramsey.jpg)
     : **Grant Ramsey**
       
-      For more information, see the [About page](/about.html) or [download my CV.](/ramsey-cv.pdf)
+      The Ramsey Lab is moving to Belgium! Beginning July 2016, I will be a BOFZAP Research Professor in the [Institute of Philosophy](http://hiw.kuleuven.be/eng) at [KU Leuven](http://www.kuleuven.be/english).
+	  For more information, see the [About page](/about.html) or [download my CV.](/ramsey-cv.pdf)
 
 # Postdocs
 
 1.  ![](people/desautels.jpg)
     : **Lane DesAutels**
     
-      <https://sites.google.com/site/lanedesautels/>
+      <http://lanedesautels.com/>
 
       Dissertation: _Mechanism and Chance: Toward an Account of Stochastic Mechanism for the Life Sciences_, directed by [Lindley Darden](http://faculty.philosophy.umd.edu/LDarden/).
 
@@ -31,11 +32,6 @@ unique: people
 
 	  *   Deem, M. and Ramsey, G. (conditionally accepted) "Guilt, gossip, and groups: culture and the evolution of guilt proneness" In: A. De Block H. De Cruz and P. R. Adriaens (eds.) _Cultural evolution, philosophy, and the emotions_ (volume currently under review).
 
-2.  ![](people/chen.jpg)
-    : **Bohang Chen**
-
-
-      Dissertation: TBA
 
 # Alumni
 
