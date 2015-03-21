@@ -8,7 +8,7 @@ unique: people
     : **Grant Ramsey**
       
       The Ramsey Lab is moving to Belgium! Beginning July 2016, I will be a BOFZAP Research Professor in the [Institute of Philosophy](http://hiw.kuleuven.be/eng) at [KU Leuven](http://www.kuleuven.be/english).
-	  For more information, see the [About page](/about.html) or [download my CV.](/ramsey-cv.pdf)
+	  For more information about the lab, see the [About page](/about.html) or [download my CV.](/ramsey-cv.pdf)
 
 # Postdocs
 
