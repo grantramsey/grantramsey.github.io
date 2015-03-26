@@ -20,7 +20,7 @@ unique: news
 
 
 *	Grant Ramsey and Charles Pence will present on their evoText Project in a symposium titled "Quantitative Textual Analysis and Philosophy: Hypothesis-Testing and Data-Mining Philosophical Ideas" at the [Pacific APA Annual Conference](http://www.apaonline.org/events/event_details.asp?id=322900), Vancouver, B.C., April 4. (_invited symposium talk_)
-
+*	Grant Ramsey will present "Is Human Nature the Subject of the Human Sciences?" at the _Why We Disagree about Human Nature_ conference, Cambridge, UK, December 10-11. (_invited talk_)
 
 # Hot off the press
 
