@@ -62,7 +62,7 @@ Central questions in this project are: What distinguishes the moral emotions fro
 
 # The evoText project
 
-Charles Pence and I are constructing a tool for the automated text mining and analysis of the corpus of evolutionary biology journal articles. The central question in this project is: What insight can we gain about the nature and history of evolutionary biology by applying text analysis tools from the digital humanities to the evolutionary biology literature?
+Charles Pence and I are constructing a tool for the automated text mining and analysis of the evolutionary biology journal articles. The central question in this project is: What insight can we gain about the nature and history of evolutionary biology by applying text analysis tools from the digital humanities to the evolutionary biology literature?
 
 ## Website:
 
