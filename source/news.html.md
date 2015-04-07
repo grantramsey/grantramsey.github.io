@@ -18,8 +18,7 @@ unique: news
 
 # Upcoming talks
 
-
-*	Grant Ramsey and Charles Pence will present on their evoText Project in a symposium titled "Quantitative Textual Analysis and Philosophy: Hypothesis-Testing and Data-Mining Philosophical Ideas" at the [Pacific APA Annual Conference](http://www.apaonline.org/events/event_details.asp?id=322900), Vancouver, B.C., April 4. (_invited symposium talk_)
+*	Grant Ramsey will present "The Nature of Human Nature" at [Université Paris 1](http://www.univ-paris1.fr), Paris, France, June 17. (_invited talk_) 
 *	Grant Ramsey will present "Is Human Nature the Subject of the Human Sciences?" at the _Why We Disagree about Human Nature_ conference, Cambridge, UK, December 10-11. (_invited talk_)
 
 # Hot off the press
@@ -35,6 +34,7 @@ unique: news
 
 # Recent lectures
 
+*	Grant Ramsey and Charles Pence: "Quantitative Textual Analysis and Philosophy: Hypothesis-Testing and Data-Mining Philosophical Ideas" at the [Pacific APA Annual Conference](http://www.apaonline.org/events/event_details.asp?id=322900), Vancouver, B.C., April 4. (_invited symposium talk_)
 *   Grant Ramsey: "The structure of evolutionary theory" in the [Department of Philosophy, University of Rochester](http://www.rochester.edu/college/PHL/), Rochester, NY, December 19, 2014. (_invited colloquium talk_)
 *   Grant Ramsey debated Frans de Waal about ["Anthropomorphism and Anthropodenial" at KU Leuven, Belgium, December 4, 2014.](https://hiw.kuleuven.be/claw/events/agenda/expert-seminar-anthropomorphism-and-anthropodenial) (_invited talk_)
 *   Grant Ramsey: "Is cultural fitness hopelessly confused?" in the Southern California Philosophy of Biology Meeting, UC San Diego, CA, November 22, 2014. (_invited talk_)
