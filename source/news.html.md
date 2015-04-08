@@ -35,7 +35,7 @@ unique: news
 
 # Recent lectures
 
-*	Grant Ramsey and Charles Pence: "Quantitative Textual Analysis and Philosophy: Hypothesis-Testing and Data-Mining Philosophical Ideas" at the [Pacific APA Annual Conference](http://www.apaonline.org/events/event_details.asp?id=322900), Vancouver, B.C., April 4. (_invited symposium talk_)
+*	Grant Ramsey and Charles Pence: "EvoText: A New Text Analysis Tool for the History and Philosophy of Biology" at the _Quantitative Textual Analysis and Philosophy: Hypothesis-Testing and Data-Mining Philosophical Ideas_ symposium at the [Pacific APA Annual Conference](http://www.apaonline.org/events/event_details.asp?id=322900), Vancouver, B.C., April 4. (_invited symposium talk_)
 *   Grant Ramsey: "The structure of evolutionary theory" in the [Department of Philosophy, University of Rochester](http://www.rochester.edu/college/PHL/), Rochester, NY, December 19, 2014. (_invited colloquium talk_)
 *   Grant Ramsey debated Frans de Waal about ["Anthropomorphism and Anthropodenial" at KU Leuven, Belgium, December 4, 2014.](https://hiw.kuleuven.be/claw/events/agenda/expert-seminar-anthropomorphism-and-anthropodenial) (_invited talk_)
 *   Grant Ramsey: "Is cultural fitness hopelessly confused?" in the Southern California Philosophy of Biology Meeting, UC San Diego, CA, November 22, 2014. (_invited talk_)
