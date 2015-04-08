@@ -18,6 +18,7 @@ unique: news
 
 # Upcoming talks
 
+*	Grant Ramsey will present "Kinds of Kinds" at the _Social Kinds as/and Natural Kinds_ workshop at [KU Leuven](http://www.kuleuven.be/english), Belgium, May 26. (_invited talk_) 
 *	Grant Ramsey will present "The Nature of Human Nature" at [Université Paris 1](http://www.univ-paris1.fr), Paris, France, June 17. (_invited talk_) 
 *	Grant Ramsey will present "Is Human Nature the Subject of the Human Sciences?" at the _Why We Disagree about Human Nature_ conference, Cambridge, UK, December 10-11. (_invited talk_)
 
