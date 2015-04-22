@@ -26,7 +26,7 @@ unique: people
     
       <http://michaeljdeem.weebly.com>
 
-      Dissertation: _Minding the Rules: A Scientific and Philosophical Defense of Moral Intuitionism_
+      Dissertation: _Norms and Nature: Engagements between Ethics and the Biological Sciences_
 
       Lab publications:
 

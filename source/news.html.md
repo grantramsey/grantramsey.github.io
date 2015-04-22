@@ -11,10 +11,9 @@ unique: news
 *   Grant Ramsey was awarded a fellowship at the [Pittsburgh Center for Philosophy of Science](http://www.pitt.edu/~pittcntr/) for the 2015 - 2016 academic year. (Declined for National Humanities Center fellowship.) 
 *   Charles Pence and Grant Ramsey were awarded a [National Science Foundation Scholars Award](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1456573&HistoricalAwards=false) for The evoText Project.
 *   The evoText Project recently received [some press in NDWorks](/ndworks.pdf).
-*   Congrats to Charles Pence, who accepted a tenure track job at [LSU's](http://www.lsu.edu) [Department of Philosophy and Religious Studies](http://uiswcmsweb.prod.lsu.edu/hss/prs/).
-*   Congrats to Anne Peterson, who accepted a tenure track job in [The Department of Philosophy](http://philosophy.utah.edu) at the [University of Utah](http://www.utah.edu).
-*   Charles Pence and Grant Ramsey were awarded the [2013 Sir Karl Popper Essay Prize](/popperprize.pdf). The prize-winning essay was also the _British Joural for the Prhilosophy of Science's_ [most read paper of July 2014](https://twitter.com/thebjps/status/502013502870269952?refsrc=email). 
-*   Grant Ramsey was awarded a sabbatical at the [National Evolutionary Synthesis Center](http://nescent.org/) and was in residence spring 2014. 
+*   Michael Deem accepted a tenure track job at [Indiana State University](http://cms.indstate.edu) where he will be Assistant Professor in the [Department of Philosophy](http://www.indstate.edu/philosophy/) and an affiliatd faculty member in the [Center for Genetic Advocacy](http://www.unboundedpossibilities.com/the-center-for-genomic-advocacy.aspx).
+*   Michael Deem accepted a [Pediatric Bioethics and Genomics Postdoctoral Fellowship at Children's Mercy Hospitals and Clinics](http://www.childrensmercy.org) for the 2015 - 2016 academic year.
+
 
 # Upcoming talks
 
