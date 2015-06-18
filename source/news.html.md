@@ -17,7 +17,6 @@ unique: news
 
 # Upcoming talks
 
-*	Grant Ramsey will present "The Nature of Human Nature" at [Université Paris 1](http://www.univ-paris1.fr), Paris, France, June 17. (_invited talk_) 
 *	Grant Ramsey will present "The Nature of Human Nature" at [Universiteit Antwerpen](https://www.uantwerpen.be/en/), Antwerpen, Belgium, June 24. (_invited talk_) 
 *	Grant Ramsey and Lane DesAutels will present "Causal-Possibility Explanations" at the [meeting of the European Philosophy of Science Association](http://philsci.eu/epsa15), [Heinrich Heine University](http://www.uni-duesseldorf.de/home/en/home.html), Duesseldorf, Germany, September 23 to 26, 2015. (_submitted talk_) 
 *	Grant Ramsey will present "Is Human Nature the Subject of the Human Sciences?" at the _Why We Disagree about Human Nature_ conference, Cambridge, UK, December 10-11. (_invited talk_)
@@ -35,6 +34,7 @@ unique: news
 
 # Recent lectures
 
+*	Grant Ramsey: "The Nature of Human Nature" at [Université Paris 1](http://www.univ-paris1.fr), Paris, France, June 17. (_invited talk_) 
 *	Grant Ramsey: "Kinds of Kinds" at the _Social Kinds as/and Natural Kinds_ workshop at [KU Leuven](http://www.kuleuven.be/english), Belgium, May 26. (_invited talk_) 
 *	Grant Ramsey and Charles Pence: "EvoText: A New Text Analysis Tool for the History and Philosophy of Biology" at the _Quantitative Textual Analysis and Philosophy: Hypothesis-Testing and Data-Mining Philosophical Ideas_ symposium at the [Pacific APA Annual Conference](http://www.apaonline.org/events/event_details.asp?id=322900), Vancouver, B.C., April 4, 2015. (_invited symposium talk_)
 *   Grant Ramsey: "The structure of evolutionary theory" in the [Department of Philosophy, University of Rochester](http://www.rochester.edu/college/PHL/), Rochester, NY, December 19, 2014. (_invited colloquium talk_)
