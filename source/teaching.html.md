@@ -9,8 +9,7 @@ unique: teaching
 
 # Current courses
 
-*   Spring 2015: In Search of Utopia (College Seminar, undergrad)
-*   Spring 2015: The Life and Work of Darwin (400-level, undergrad)
+*   None
 
 
 # Past courses
