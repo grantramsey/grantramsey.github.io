@@ -6,7 +6,7 @@ unique: papers
 
 # Books (as editor)
 
-*   Ramsey, G. and Pence, C. H.  (Under contract)  _Chance in Evolution._  Chicago: University of Chicago Press.
+*   Ramsey, G. and Pence, C. H.  (forthcoming)  _Chance in Evolution._  Chicago: University of Chicago Press.
 
 
 # Articles and book chapters
