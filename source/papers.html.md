@@ -13,6 +13,7 @@ unique: papers
 
 *   Ramsey, G. and De Block, A. (forthcoming) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_.
 *   Pence, C. and Ramsey, G. (forthcoming) "Is organismic fitness at the basis of evolutionary theory?" _Philosophy of Science_.
+*   Deem, M. and Ramsey, G. (forthcoming) "Guilt by association?" _Philosophical Psychology_.
 *   Ramsey, G. (forthcoming) "Can altruism be unified?" _Studies in History and Philosophy of Biological and Biomedical Sciences_. 
 *   Ramsey, G. (forthcoming) "What is human nature for?" In: A. Fuentes (ed.) _Verbs, Bones and Brains: Interdisciplinary Perspectives on Human Nature,_ Notre Dame: University of Notre Dame Press.
 *   Ramsey, G. (forthcoming) "What is animal culture?" In: K. Andrews and J. Beck (eds.) _Routledge Companion to the Philosophy of Animal Minds._ Routledge Press.
