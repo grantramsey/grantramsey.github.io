@@ -21,6 +21,19 @@ unique: people
 
 # Current graduate students
 
+1.  ![](people/desmond.jpg)
+    : **Hugh Desmond**
+    
+      <http://hughdesmond.net/>
+
+      Dissertation: _Directionality in Biological Evolution_
+
+      Lab publications:
+
+	  *   _Coming soon._
+
+# Alumni
+
 1.  ![](people/deem.jpg)
     : **Michael Deem**
     
@@ -32,10 +45,8 @@ unique: people
 
 	  *   Deem, M. and Ramsey, G. (forthcoming) "Guilt by association?" _Philosophical Psychology_.
 	  *   Deem, M. and Ramsey, G. (conditionally accepted) "Guilt, gossip, and groups: culture and the evolution of guilt proneness" In: A. De Block H. De Cruz and P. R. Adriaens (eds.) _Cultural evolution, philosophy, and the emotions_ (volume currently under review).
-
-# Alumni
-
-1.  ![](people/pence.jpg)
+	  
+2.  ![](people/pence.jpg)
     : **Charles Pence**
 
       <http://charlespence.net>
@@ -135,7 +146,7 @@ unique: people
 
       Lab publications:
 
-      *   Coming soon.
+      *   _Coming soon._
       
 3.  ![](people/peterson.jpg)
     : **Anne Siebels Peterson**
