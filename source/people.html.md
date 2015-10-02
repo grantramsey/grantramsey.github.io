@@ -18,6 +18,10 @@ unique: people
       <http://lanedesautels.com/>
 
       Dissertation: _Mechanism and Chance: Toward an Account of Stochastic Mechanism for the Life Sciences_, directed by [Lindley Darden](http://faculty.philosophy.umd.edu/LDarden/).
+	  
+      Lab publications:
+
+	  *   _Coming soon._
 
 # Current graduate students
 
@@ -88,6 +92,15 @@ unique: people
 
       *   [download-icon](/papers/2011-bp-reciprocal-altruism.pdf) Ramsey, G. and Brandon, R. (2011) "Why reciprocal altruism is not a kind of group selection." _Biology and Philosophy_ 26: 385-400. [DOI: 10.1007/s10539-011-9261-7.](http://dx.doi.org/10.1007/s10539-011-9261-7)
       *   [download-icon](/papers/2007-ccpb-emergentist-statistical-interpretation.pdf) Brandon, R. and Ramsey, G. (2007) "What's Wrong with the Emergentist Statistical Interpretation of Natural Selection and Random Drift?" In: D. Hull and M. Ruse (eds.) _Cambridge Companion to the Philosophy of Biology,_ Cambridge: Cambridge University Press.
+
+ 4.  ![](people/cobb.jpg)
+     : **Alexander Cobb**
+
+       <http://smart.mit.edu/home.html>
+
+       Lab publications:
+
+	   *   [download-icon](/papers/2001-cjb-bryophyte-recolonization.pdf) Cobb, A., Nadkarni, N., Ramsey, G., and Svoboda, A. J. (2001) "Recolonization of bigleaf maple branches by epiphytic bryophytes following experimental disturbance." _The Canadian Journal of Botany_ 79: 1-8. [DOI: 10.1139/b00-134](http://dx.doi.org/10.1139/b00-134)
 
 2.  ![](people/deblock.jpg)
     : **Andreas De Block**
