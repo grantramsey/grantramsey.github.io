@@ -6,7 +6,7 @@ unique: news
 # Announcements
 
 *   The Ramsey Lab is moving to Belgium! Grant Ramsey accepted a position as BOFZAP Research Professor at the [Institute of Philosophy](http://hiw.kuleuven.be/eng) at [KU Leuven](http://www.kuleuven.be/english), beginning July 2016. 
-*   Grant Ramsey was awarded a sabbatical at the [National Humanities Center](http://nationalhumanitiescenter.org) and will be in residence August  2015 - June 2016. 
+*   Grant Ramsey was awarded a sabbatical at the [National Humanities Center](http://nationalhumanitiescenter.org) and is in residence August  2015 - June 2016. 
 *   Grant Ramsey was [appointed](/helsinki.pdf) as a research fellow at the [Helsinki Collegium for Advanced Studies](http://www.helsinki.fi/collegium/english/) from 1 September 2015 to 31 July 2017. (Declined for National Humanities Center fellowship and KU Leuven BOFZAP Research Professorship.) 
 *   Grant Ramsey was awarded a fellowship at the [Pittsburgh Center for Philosophy of Science](http://www.pitt.edu/~pittcntr/) for the 2015 - 2016 academic year. (Declined for National Humanities Center fellowship.) 
 *   Charles Pence and Grant Ramsey were awarded a [National Science Foundation Scholars Award](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1456573&HistoricalAwards=false) for The evoText Project.
@@ -17,9 +17,7 @@ unique: news
 
 # Upcoming talks
 
-*	Grant Ramsey will present "The Nature of Human Nature" at [Universiteit Antwerpen](https://www.uantwerpen.be/en/), Antwerpen, Belgium, June 24. (_invited talk_) 
-*	Grant Ramsey and Lane DesAutels will present "Causal-Possibility Explanations" at the [meeting of the European Philosophy of Science Association](http://philsci.eu/epsa15), [Heinrich Heine University](http://www.uni-duesseldorf.de/home/en/home.html), Duesseldorf, Germany, September 23 to 26, 2015. (_submitted talk_) 
-*	Grant Ramsey will present "Is Human Nature the Subject of the Human Sciences?" at the _Why We Disagree about Human Nature_ conference, Cambridge, UK, December 10-11. (_invited talk_)
+*	TBA
 
 # Hot off the press
 
@@ -34,6 +32,8 @@ unique: news
 
 # Recent lectures
 
+*	Grant Ramsey and Lane DesAutels: "Causal-Possibility Explanations" at the [meeting of the European Philosophy of Science Association](http://philsci.eu/epsa15), [Heinrich Heine University](http://www.uni-duesseldorf.de/home/en/home.html), Duesseldorf, Germany, September 24, 2015. (_submitted talk_) 
+*	Grant Ramsey: "The Nature of Human Nature" at [Universiteit Antwerpen](https://www.uantwerpen.be/en/), Antwerpen, Belgium, June 24. (_invited talk_) 
 *	Grant Ramsey: "The Nature of Human Nature" at [Université Paris 1](http://www.univ-paris1.fr), Paris, France, June 17. (_invited talk_) 
 *	Grant Ramsey: "Kinds of Kinds" at the _Social Kinds as/and Natural Kinds_ workshop at [KU Leuven](http://www.kuleuven.be/english), Belgium, May 26. (_invited talk_) 
 *	Grant Ramsey and Charles Pence: "EvoText: A New Text Analysis Tool for the History and Philosophy of Biology" at the _Quantitative Textual Analysis and Philosophy: Hypothesis-Testing and Data-Mining Philosophical Ideas_ symposium at the [Pacific APA Annual Conference](http://www.apaonline.org/events/event_details.asp?id=322900), Vancouver, B.C., April 4, 2015. (_invited symposium talk_)
