@@ -21,7 +21,7 @@ unique: news
 
 # Hot off the press
 
-*   Ramsey, G. (forthcoming) "The causal structure of evolutionary theory?" _Australasian Journal of Philosophy_.
+*   Ramsey, G. (forthcoming) "The causal structure of evolutionary theory" _Australasian Journal of Philosophy_.
 *   Ramsey, G. and De Block, A. (forthcoming) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_.
 *   Pence, C. and Ramsey, G. (forthcoming) "Is organismic fitness at the basis of evolutionary theory?" _Philosophy of Science_.
 *   Deem, M. and Ramsey, G. (forthcoming) "Guilt by association?" _Philosophical Psychology_.
