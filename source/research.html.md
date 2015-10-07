@@ -10,6 +10,7 @@ Central questions in this project are: What is the nature of key concepts in evo
 
 ## Related publications:
 
+*   Ramsey, G. (forthcoming) "The causal structure of evolutionary theory?" Australasian Journal of Philosophy_.
 *   Pence, C. and Ramsey, G. (forthcoming) "Is organismic fitness at the basis of evolutionary theory?" _Philosophy of Science_.
 *   Ramsey, G. (forthcoming) "Can altruism be unified?" _Studies in History and Philosophy of Biological and Biomedical Sciences_.
 *   Ramsey, G. and Pence, C. H.  (forthcoming)  _Chance in Evolution._  Chicago: University of Chicago Press.
