@@ -41,7 +41,7 @@ unique: people
 1.  ![](people/deem.jpg)
     : **Michael Deem**
     
-      <http://michaeljdeem.weebly.com>
+      <http://mjdeem.weebly.com>
 
       Dissertation: _Norms and Nature: Engagements between Ethics and the Biological Sciences_
 
