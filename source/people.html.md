@@ -109,7 +109,7 @@ unique: people
 
       Lab publications:
 
-	  *   Ramsey, G. and De Block, A. (forthcoming) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_.
+	  *   [download-icon](/papers/2015-bjps-cultural-fitness-advance-access.pdf) Ramsey, G. and De Block, A. (2015) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_.
 	  *   [download-icon](/papers/2015-topoi-organism-centered.pdf)De Block, A. and Ramsey, G. (2015) "The organism-centered approach to cultural evolution." _Topoi_.
 	  
 4.  ![](people/fuentes.jpg)
