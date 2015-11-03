@@ -17,7 +17,7 @@ unique: papers
 *   Ramsey, G. (forthcoming) "Can altruism be unified?" _Studies in History and Philosophy of Biological and Biomedical Sciences_. 
 *   Ramsey, G. (forthcoming) "What is human nature for?" In: A. Fuentes (ed.) _Verbs, Bones and Brains: Interdisciplinary Perspectives on Human Nature,_ Notre Dame: University of Notre Dame Press.
 *   Ramsey, G. (forthcoming) "What is animal culture?" In: K. Andrews and J. Beck (eds.) _Routledge Companion to the Philosophy of Animal Minds._ Routledge Press.
-*   Ramsey, G. (forthcoming) "Is human nature the subject of the human sciences?" In: T. Lewens (ed.) _Why We Disagree about Human Nature._ Oxford University Press.
+*   Ramsey, G. (forthcoming) "Human nature as the subject of the human sciences" In: T. Lewens (ed.) _Why We Disagree about Human Nature._ Oxford University Press.
 *   Ramsey, G. and Pence, C. H. (Under contract) "Chance in evolution from Darwin to contemporary biology." In: G. Ramsey and C.H. Pence (eds.) _Chance in Evolution._ Chicago: University of Chicago Press.
 *   Deem, M. and Ramsey, G. (conditionally accepted) "Guilt, gossip, and groups: culture and the evolution of guilt proneness" In: A. De Block H. De Cruz and P. R. Adriaens (eds.) _Cultural evolution, philosophy, and the emotions_ (volume currently under review).
 *   [download-icon](/papers/2015-bjps-cultural-fitness-advance-access.pdf) Ramsey, G. and De Block, A. (2015) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_.
