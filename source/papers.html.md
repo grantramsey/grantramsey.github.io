@@ -11,7 +11,6 @@ unique: papers
 
 # Articles and book chapters
 
-*   Ramsey, G. (forthcoming) "The causal structure of evolutionary theory" _Australasian Journal of Philosophy_.
 *   Pence, C. and Ramsey, G. (forthcoming) "Is organismic fitness at the basis of evolutionary theory?" _Philosophy of Science_.
 *   Deem, M. and Ramsey, G. (forthcoming) "Guilt by association?" _Philosophical Psychology_.
 *   Ramsey, G. (forthcoming) "Can altruism be unified?" _Studies in History and Philosophy of Biological and Biomedical Sciences_. 
@@ -20,6 +19,7 @@ unique: papers
 *   Ramsey, G. (forthcoming) "Human nature as the subject of the human sciences" In: T. Lewens (ed.) _Why We Disagree about Human Nature._ Oxford University Press.
 *   Ramsey, G. and Pence, C. H. (2016) "Chance in evolution from Darwin to contemporary biology." In: G. Ramsey and C.H. Pence (eds.) _Chance in Evolution._ Chicago: University of Chicago Press. (expected October 2016)
 *   Deem, M. and Ramsey, G. (conditionally accepted) "Guilt, gossip, and groups: culture and the evolution of guilt proneness" In: A. De Block H. De Cruz and P. R. Adriaens (eds.) _Cultural evolution, philosophy, and the emotions_ (volume currently under review).
+*   [download-icon](/papers/2015-ajp-causal-structure.pdf) Ramsey, G. (2015) "The causal structure of evolutionary theory" _Australasian Journal of Philosophy_.
 *   [download-icon](/papers/2015-bjps-cultural-fitness-advance-access.pdf) Ramsey, G. and De Block, A. (2015) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_.
 *   [download-icon](/papers/2015-topoi-organism-centered.pdf) De Block, A. and Ramsey, G. (2015) "The organism-centered approach to cultural evolution." _Topoi_.
 *   [download-icon](/papers/2013-ps-human-nature.pdf)Ramsey, G. (2013) "Human nature in a post-essentialist world." _Philosophy of Science_ 80: 983-993. [DOI: 10.1086/673902.](http://dx.doi.org/10.1086/673902)
