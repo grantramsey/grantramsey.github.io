@@ -59,7 +59,7 @@ unique: people
 
       Lab publications:
 
-      *   Pence, C. and Ramsey, G. (forthcoming) "Is organismic fitness at the basis of evolutionary theory?" _Philosophy of Science_.
+	  *   [download-icon](/papers/2015-ps-organismic-fitness.pdf) Pence, C. and Ramsey, G. (2015) "Is organismic fitness at the basis of evolutionary theory?" _Philosophy of Science_ 82:1081–1091. [DOI: 10.1086/683442](http://www.jstor.org/stable/10.1086/683442)
       *   [download-icon](/papers/2013-els-fitness-philosophical-problems.pdf) Ramsey, G. and Pence, C. H. (2013) "Fitness: philosophical problems." In: _eLS._ Chichester: John Wiley & Sons, Ltd. [DOI: 10.1002/9780470015902.a0003443.pub2](http://dx.doi.org/10.1002/9780470015902.a0003443.pub2)
       *   [download-icon](/papers/2013-bjps-new-foundation.pdf) Pence, C.H. and Ramsey, G. (2013) "A new foundation for the propensity interpretation of fitness." _British Journal for the Philosophy of Science_ 64:851-881. [DOI: 10.1093/bjps/axs037.](http://dx.doi.org/10.1093/bjps/axs037)
       *   [download-icon](/papers/2013-ed-stern-review.pdf) Hollocher, H., Pence, C. H., Ramsey, G., and Wirth, M. M. (2013) "A path to success? A Review of Evolution, Development, and the Predictable Genome by David L. Stern." _Evolution and Development_ 15(1): 80–82. [DOI: 10.1111/ede.12016.](http://dx.doi.org/10.1111/ede.12016)
