@@ -11,9 +11,10 @@ Central questions in this project are: What is the nature of key concepts in evo
 ## Related publications:
 
 
-*   Ramsey, G. (forthcoming) "Can altruism be unified?" _Studies in History and Philosophy of Biological and Biomedical Sciences_.
+
 *   Ramsey, G. and Pence, C. H.  (2016)  _Chance in Evolution._  Chicago: University of Chicago Press. (expected October 2016)
 *   Ramsey, G. and Pence, C. H. (2016) "Chance in evolution from Darwin to contemporary biology." In: G. Ramsey and C.H. Pence (eds.) _Chance in Evolution._ Chicago: University of Chicago Press. (expected October 2016)
+*   [download-icon](/papers/2015-shpbbs-altruism-unified.pdf) Ramsey, G. (forthcoming) "Can altruism be unified?" _Studies in History and Philosophy of Biological and Biomedical Sciences_. [DOI: 10.1016/j.shpsc.2015.10.007](http://dx.doi.org/10.1016/j.shpsc.2015.10.007)
 *   [download-icon](/papers/2015-ps-organismic-fitness.pdf) Pence, C. and Ramsey, G. (2015) "Is organismic fitness at the basis of evolutionary theory?" _Philosophy of Science_ 82:1081–1091.
 *   [download-icon](/papers/2015-ajp-causal-structure.pdf) Ramsey, G. (2015) "The causal structure of evolutionary theory" _Australasian Journal of Philosophy_. [DOI: 10.1080/00048402.2015.1111398](http://dx.doi.org/10.1080/00048402.2015.1111398)
 *   [download-icon](/papers/2013-els-fitness-philosophical-problems.pdf) Ramsey, G. and Pence, C. H. (2013) "Fitness: philosophical problems." In: _eLS._ Chichester: John Wiley & Sons, Ltd. [DOI: 10.1002/9780470015902.a0003443.pub2](http://dx.doi.org/10.1002/9780470015902.a0003443.pub2)
