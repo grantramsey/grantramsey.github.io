@@ -48,8 +48,14 @@ unique: papers
 *   [download-icon](/papers/2011-ps-sober-review.pdf) Pence, C. H., Hollocher, H., Nichols, R., Ramsey, G., Siu, E., and Sportiello, D. J. (2011) "[Review of] Did Darwin Write the Origin Backwards? Philosophical Essays on Darwin’s Theory." _Philosophy of Science_ 78(4): 705-709. [DOI: 10.1086/661775.](http://dx.doi.org/10.1086/661775)
 *   [download-icon](/papers/2010-qrb-godfrey-smith-review.pdf) Ramsey, G., Hollocher, H., Fuentes, A., Pence, C. H., and Siu, E. (2010) "[Review of] Darwinian Populations and Natural Selection." _The Quarterly Review of Biology_ 85(4): 499-500. [DOI: 10.1086/656856.](http://dx.doi.org/10.1086/656856)
 
+# Blog and magazine articles
+
+*   De Block, A. and Ramsey, G. (2015) “The life of Culture” OUP Blog, [http://blog.oup.com/2015/11/the-life-of-culture/](http://blog.oup.com/2015/11/the-life-of-culture/)
+
+# Books (as illustrator)
+
+*   Lombardi, A. (1998) _Respecting the Knowledge: Ethnobotany of Western Washington._  Olympia: Washington State Capital Museum.  (Illustrated by Grant Ramsey.)
 
 # Other miscellaneous publications
 
-*   Lombardi, A. (1998) _Respecting the Knowledge: Ethnobotany of Western Washington._  Olympia: Washington State Capital Museum.  (Illustrated by Grant Ramsey.)
 *   Ramsey, G., Longino, J., and Kugler, C. (1998) Formicidae: _Rogeria creightoni._ <http://academic.evergreen.edu/projects/ants/genera/Rogeria/SPECIES/belti/belti.html>. (One of 13 published web pages on the ant genus Rogeria. See full list of species here: <http://academic.evergreen.edu/projects/ants/genera/Rogeria/Specieslist.html>)
