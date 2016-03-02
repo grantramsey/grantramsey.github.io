@@ -14,7 +14,7 @@ unique: papers
 
 
 *   Ramsey, G. (forthcoming) "What is human nature for?" In: A. Fuentes (ed.) _Verbs, Bones and Brains: Interdisciplinary Perspectives on Human Nature,_ Notre Dame: University of Notre Dame Press.
-*   Ramsey, G. (forthcoming) "What is animal culture?" In: K. Andrews and J. Beck (eds.) _Routledge Companion to the Philosophy of Animal Minds._ Routledge Press.
+*   Ramsey, G. (2017) "What is animal culture?" In: K. Andrews and J. Beck (eds.) _Routledge Companion to the Philosophy of Animal Minds._ Routledge Press.
 *   Ramsey, G. (forthcoming) "Human nature as the subject of the human sciences" In: T. Lewens (ed.) _Why We Disagree about Human Nature._ Oxford University Press.
 *   Ramsey, G. and Pence, C. H. (2016) "Chance in evolution from Darwin to contemporary biology." In: G. Ramsey and C.H. Pence (eds.) _Chance in Evolution._ Chicago: University of Chicago Press. (expected October 2016)
 *   Deem, M. and Ramsey, G. (conditionally accepted) "Guilt, gossip, and groups: culture and the evolution of guilt proneness" In: A. De Block H. De Cruz and P. R. Adriaens (eds.) _Cultural evolution, philosophy, and the emotions_ (volume currently under review).

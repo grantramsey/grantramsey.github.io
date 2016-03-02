@@ -33,7 +33,7 @@ Central questions in this project are: How are concepts like culture, innovation
 
 ## Related publications:
 
-*   Ramsey, G. (forthcoming) "What is animal culture?" In: K. Andrews and J. Beck (eds.) _Routledge Companion to the Philosophy of Animal Minds._ Routledge Press.
+*   Ramsey, G. (2017) "What is animal culture?" In: K. Andrews and J. Beck (eds.) _Routledge Companion to the Philosophy of Animal Minds._ Routledge Press.
 *   [download-icon](/papers/2015-bjps-cultural-fitness-advance-access.pdf) Ramsey, G. and De Block, A. (2015) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_.
 *   [download-icon](/papers/2015-topoi-organism-centered.pdf)De Block, A. and Ramsey, G. (2015) "The organism-centered approach to cultural evolution." _Topoi_.
 *   [download-icon](/papers/2013-bp-culture-humans-animals.pdf) Ramsey, G. (2013) "Culture in humans and other animals." _Biology and Philosophy_ 27: 457-479. [DOI: 10.1007/s10539-012-9347-x.](http://dx.doi.org/10.1007/s10539-012-9347-x)
