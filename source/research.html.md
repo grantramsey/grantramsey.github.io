@@ -40,6 +40,7 @@ Central questions in this project are: How are concepts like culture, innovation
 *   [download-icon](/papers/2011-bp-reciprocal-altruism.pdf) Ramsey, G. and Brandon, R. (2011) "Why reciprocal altruism is not a kind of group selection." _Biology and Philosophy_ 26: 385-400. [DOI: 10.1007/s10539-011-9261-7.](http://dx.doi.org/10.1007/s10539-011-9261-7)
 *   [download-icon](/papers/2007-bp-fundamental-constraint.pdf) Ramsey, G. (2007) "The Fundamental Constraint on the evolution of culture." _Biology and Philosophy_ 22: 401-414. [DOI: 10.1007/s10539-006-9038-6.](http://dx.doi.org/10.1007/s10539-006-9038-6)
 *   [download-icon](/papers/2007-bbs-animal-innovation.pdf) Ramsey, G., Bastian, M. L., and van Schaik, C. (2007) "Animal innovation defined and operationalized." _Behavioral and Brain Sciences_ 30: 393-437. [DOI: 10.1017/S0140525X07002373.](http://dx.doi.org/10.1017/S0140525X07002373)
+*   De Block, A. and Ramsey, G. (2015) “The life of Culture” OUP Blog, [http://blog.oup.com/2015/11/the-life-of-culture/](http://blog.oup.com/2015/11/the-life-of-culture/)
 
 
 # On the human
