@@ -26,8 +26,9 @@ unique: news
 *   [download-icon](/papers/2016-shpbbs-altruism-unified.pdf) Ramsey, G. (2016) "Can altruism be unified?" _Studies in History and Philosophy of Biological and Biomedical Sciences_ 56: 32-38. [DOI: 10.1016/j.shpsc.2015.10.007](http://dx.doi.org/10.1016/j.shpsc.2015.10.007)
 *   [download-icon](/papers/2015-ps-organismic-fitness.pdf) Pence, C. and Ramsey, G. (2015) "Is organismic fitness at the basis of evolutionary theory?" _Philosophy of Science_ 82:1081–1091. [DOI: 10.1086/683442](http://www.jstor.org/stable/10.1086/683442)
 *   [download-icon](/papers/2015-ajp-causal-structure.pdf) Ramsey, G. (2015) "The causal structure of evolutionary theory" _Australasian Journal of Philosophy_. [DOI: 10.1080/00048402.2015.1111398](http://dx.doi.org/10.1080/00048402.2015.1111398)
-*   [download-icon](/papers/2015-bjps-cultural-fitness-advance-access.pdf) Ramsey, G. and De Block, A. (2015) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_.
-*   [download-icon](/papers/2015-topoi-organism-centered.pdf)De Block, A. and Ramsey, G. (2015) "The organism-centered approach to cultural evolution." _Topoi_.
+*   [download-icon](/papers/2015-bjps-cultural-fitness-advance-access.pdf) Ramsey, G. and De Block, A. (2015) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_. [DOI: 10.1093/bjps/axv047](http://dx.doi.org/10.1093/bjps/axv047)
+*	[download-icon](/papers/2015-topoi-organism-centered.pdf) De Block, A. and Ramsey, G. (2015) "The organism-centered approach to cultural evolution." _Topoi_. [DOI: 10.1007/s11245-014-9283-2](http://dx.doi.org/10.1007/s11245-014-9283-2)
+
 
 
 # Recent lectures
