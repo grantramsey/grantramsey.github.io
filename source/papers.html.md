@@ -13,9 +13,9 @@ unique: papers
 
 
 
-*   Ramsey, G. (forthcoming) "What is human nature for?" In: A. Fuentes (ed.) _Verbs, Bones and Brains: Interdisciplinary Perspectives on Human Nature,_ Notre Dame: University of Notre Dame Press.
+*   Ramsey, G. (2017) "What is human nature for?" In: A. Fuentes (ed.) _Verbs, Bones and Brains: Interdisciplinary Perspectives on Human Nature,_ Notre Dame: University of Notre Dame Press.
 *   Ramsey, G. (2017) "What is animal culture?" In: K. Andrews and J. Beck (eds.) _Routledge Companion to the Philosophy of Animal Minds._ Routledge Press.
-*   Ramsey, G. (forthcoming) "Human nature as the subject of the human sciences" In: T. Lewens (ed.) _Why We Disagree about Human Nature._ Oxford University Press.
+*   Ramsey, G. (2017) "Trait bin and triat cluster accounts of human nature" In: T. Lewens (ed.) _Why We Disagree about Human Nature._ Oxford University Press.
 *   [download-icon](/papers/2016-shpbbs-evotext.pdf) Ramsey, G. and Pence, C. H. (2016) "evoText: A new tool for analyzing the biological sciences." _Studies in History and Philosophy of Biological and Biomedical Sciences_ 57: 83-87. [DOI: 10.1016/j.shpsc.2016.04.003](http://dx.doi.org/10.1016/j.shpsc.2016.04.003)
 *   Ramsey, G. and Pence, C. H. (2016) "Chance in evolution from Darwin to contemporary biology." In: G. Ramsey and C.H. Pence (eds.) _Chance in Evolution._ Chicago: University of Chicago Press. (expected October 2016)
 *   [download-icon](/papers/2016-philpsy-guilt-by-association.pdf) Deem, M. and Ramsey, G. (2016) "Guilt by association?" _Philosophical Psychology_. [DOI: 10.1080/09515089.2015.1126706](http://dx.doi.org/10.1080/09515089.2015.1126706)

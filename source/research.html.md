@@ -49,8 +49,8 @@ Central questions in this project are: What is human nature? Can human nature be
 
 ## Related publications:
 
-*   Ramsey, G. (forthcoming) "What is human nature for?" In: A. Fuentes (ed.) _Verbs, Bones and Brains: Interdisciplinary Perspectives on Human Nature,_ Notre Dame: University of Notre Dame Press.
-*   Ramsey, G. (forthcoming) "Human nature as the subject of the human sciences" In: T. Lewens (ed.) _Why We Disagree about Human Nature._ Oxford University Press.
+*   Ramsey, G. (2017) "What is human nature for?" In: A. Fuentes (ed.) _Verbs, Bones and Brains: Interdisciplinary Perspectives on Human Nature,_ Notre Dame: University of Notre Dame Press.
+*   Ramsey, G. (2017) "Trait bin and triat cluster accounts of human nature" In: T. Lewens (ed.) _Why We Disagree about Human Nature._ Oxford University Press.
 *   [download-icon](/papers/2013-ps-human-nature.pdf)Ramsey, G. (2013) "Human nature in a post-essentialist world." _Philosophy of Science_ 80: 983-993. [DOI: 10.1086/673902.](http://dx.doi.org/10.1086/673902)
 *   [download-icon](/papers/2012-pt-human-nature-enhancement.pdf) Ramsey, G. (2012) "How human nature can inform human enhancement." _Philosophy and Technology_ 25: 479-483. [DOI: 10.1007/s13347-012-0087-2.](http://dx.doi.org/10.1007/s13347-012-0087-2)
 
@@ -68,6 +68,9 @@ Central questions in this project are: What distinguishes the moral emotions fro
 # The evoText project
 
 Charles Pence and I are constructing a tool for the automated text mining and analysis of the evolutionary biology journal articles. The central question in this project is: What insight can we gain about the nature and history of evolutionary biology by applying text analysis tools from the digital humanities to the evolutionary biology literature?
+
+## Related publications:
+*   [download-icon](/papers/2016-shpbbs-evotext.pdf) Ramsey, G. and Pence, C. H. (2016) "evoText: A new tool for analyzing the biological sciences." _Studies in History and Philosophy of Biological and Biomedical Sciences_ 57: 83-87. [DOI: 10.1016/j.shpsc.2016.04.003](http://dx.doi.org/10.1016/j.shpsc.2016.04.003)
 
 ## Website:
 
