@@ -35,11 +35,12 @@ Central questions in this project are: How are concepts like culture, innovation
 *   Ramsey, G. (2017) "What is animal culture?" In: K. Andrews and J. Beck (eds.) _Routledge Companion to the Philosophy of Animal Minds._ Routledge Press.
 *   [download-icon](/papers/2016-shpbbs-altruism-unified.pdf) Ramsey, G. (2016) "Can altruism be unified?" _Studies in History and Philosophy of Biological and Biomedical Sciences_ 56: 32-38. [DOI: 10.1016/j.shpsc.2015.10.007](http://dx.doi.org/10.1016/j.shpsc.2015.10.007)
 *	[download-icon](/papers/2015-topoi-organism-centered.pdf) De Block, A. and Ramsey, G. (2015) "The organism-centered approach to cultural evolution." _Topoi_. [DOI: 10.1007/s11245-014-9283-2](http://dx.doi.org/10.1007/s11245-014-9283-2)
+*   De Block, A. and Ramsey, G. (2015) “The life of Culture” OUP Blog, [http://blog.oup.com/2015/11/the-life-of-culture/](http://blog.oup.com/2015/11/the-life-of-culture/)
 *   [download-icon](/papers/2013-bp-culture-humans-animals.pdf) Ramsey, G. (2013) "Culture in humans and other animals." _Biology and Philosophy_ 27: 457-479. [DOI: 10.1007/s10539-012-9347-x.](http://dx.doi.org/10.1007/s10539-012-9347-x)
 *   [download-icon](/papers/2011-bp-reciprocal-altruism.pdf) Ramsey, G. and Brandon, R. (2011) "Why reciprocal altruism is not a kind of group selection." _Biology and Philosophy_ 26: 385-400. [DOI: 10.1007/s10539-011-9261-7.](http://dx.doi.org/10.1007/s10539-011-9261-7)
 *   [download-icon](/papers/2007-bp-fundamental-constraint.pdf) Ramsey, G. (2007) "The Fundamental Constraint on the evolution of culture." _Biology and Philosophy_ 22: 401-414. [DOI: 10.1007/s10539-006-9038-6.](http://dx.doi.org/10.1007/s10539-006-9038-6)
 *   [download-icon](/papers/2007-bbs-animal-innovation.pdf) Ramsey, G., Bastian, M. L., and van Schaik, C. (2007) "Animal innovation defined and operationalized." _Behavioral and Brain Sciences_ 30: 393-437. [DOI: 10.1017/S0140525X07002373.](http://dx.doi.org/10.1017/S0140525X07002373)
-*   De Block, A. and Ramsey, G. (2015) “The life of Culture” OUP Blog, [http://blog.oup.com/2015/11/the-life-of-culture/](http://blog.oup.com/2015/11/the-life-of-culture/)
+
 
 
 # On the human
@@ -68,12 +69,13 @@ Central questions in this project are: What distinguishes the moral emotions fro
 
 Charles Pence and I are constructing a tool for the automated text mining and analysis of the evolutionary biology journal articles. The central question in this project is: What insight can we gain about the nature and history of evolutionary biology by applying text analysis tools from the digital humanities to the evolutionary biology literature?
 
+## Website:
+
+*   The evoText website <http://www.evotext.org/> is still in beta.  Over the coming months, we plan to implement more analysis tools and journal articles. Click [here](/ndworks.pdf) to read an article about evoText. This work is supported by [National Science Foundation Scholars Award #1456573](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1456573&HistoricalAwards=false).
+
 ## Related publications:
 *   [download-icon](/papers/2016-shpbbs-evotext.pdf) Ramsey, G. and Pence, C. H. (2016) "evoText: A new tool for analyzing the biological sciences." _Studies in History and Philosophy of Biological and Biomedical Sciences_ 57: 83-87. [DOI: 10.1016/j.shpsc.2016.04.003](http://dx.doi.org/10.1016/j.shpsc.2016.04.003)
 
-## Website:
-
-*   The evoText website <http://www.evotext.org/> is still in beta.  Over the next two years, we plan to implement the analysis tools and add a comprehensive set of journal articles. Click [here](/ndworks.pdf) to read a recent article about evoText. This work is supported by [National Science Foundation Scholars Award #1456573](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1456573&HistoricalAwards=false).
 
 
 # The Evolution Working Group
