@@ -71,7 +71,7 @@ Charles Pence and I are constructing a tool for the automated text mining and an
 
 ## Website:
 
-*   The evoText website <http://www.evotext.org/> is still in beta.  Over the coming months, we plan to implement more analysis tools and journal articles. Click [here](/ndworks.pdf) to read an article about evoText. This work is supported by [National Science Foundation Scholars Award #1456573](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1456573&HistoricalAwards=false).
+*   The evoText website <http://www.evotext.org/> is still in beta.  Over the coming months, we plan to implement more analysis tools and add more journal articles. Click [here](/ndworks.pdf) to read an article about evoText. This work is supported by [National Science Foundation Scholars Award #1456573](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1456573&HistoricalAwards=false).
 
 ## Related publications:
 *   [download-icon](/papers/2016-shpbbs-evotext.pdf) Ramsey, G. and Pence, C. H. (2016) "evoText: A new tool for analyzing the biological sciences." _Studies in History and Philosophy of Biological and Biomedical Sciences_ 57: 83-87. [DOI: 10.1016/j.shpsc.2016.04.003](http://dx.doi.org/10.1016/j.shpsc.2016.04.003)
