@@ -126,7 +126,7 @@ unique: people
 4.  ![](people/hollocher.jpg)
     : **Hope Hollocher**
 
-      <http://www3.nd.edu/~hholloch/>
+      <http://biology.nd.edu/people/hope-hollocher/>
 
       Lab publications:
 
@@ -147,7 +147,7 @@ unique: people
 4.  ![](people/nichols.jpg)
     : **Ryan Nichols**
 
-      <http://philosophy.fullerton.edu/people/ryan_nichols.asp>
+      <http://philosophy.fullerton.edu/people/profile/ryan_nichols.aspx>
 
       Lab publications:
 
