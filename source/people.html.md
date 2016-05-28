@@ -48,7 +48,7 @@ unique: people
       Lab publications:
 
 	  *   [download-icon](/papers/2016-philpsy-guilt-by-association.pdf) Deem, M. and Ramsey, G. (2016) "Guilt by association?" _Philosophical Psychology_ 29(4): 570-585. [DOI: 10.1080/09515089.2015.1126706](http://dx.doi.org/10.1080/09515089.2015.1126706)
-	  *   Deem, M. and Ramsey, G. (conditionally accepted) "Guilt, gossip, and groups: culture and the evolution of guilt proneness" In: A. De Block H. De Cruz and P. R. Adriaens (eds.) _Cultural evolution, philosophy, and the emotions_ (volume currently under review).
+	  *   [download-icon](/papers/2016-er-evo-puzzle-of-guilt.pdf) Deem, M. and G. Ramsey (2016) "The Evolutionary Puzzle of Guilt: Individual or Group Selection?" _Emotion Researcher, ISRE’s Sourcebook for Research on Emotion and Affect_, Andrea Scarantino (ed.), <http://emotionresearcher.com/the-evolutionary-puzzle-of-guilt-individual-or-group-selection/>
 	  
 2.  ![](people/pence.jpg)
     : **Charles Pence**
