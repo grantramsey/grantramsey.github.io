@@ -49,7 +49,7 @@ Central questions in this project are: What is human nature? Can human nature be
 
 ## Related publications:
 
-*   Ramsey, G. (2017) "What is human nature for?" In: A. Fuentes (ed.) _Verbs, Bones and Brains: Interdisciplinary Perspectives on Human Nature,_ Notre Dame: University of Notre Dame Press.
+*   [download-icon](/papers/2017-human_nature_for.pdf)Ramsey, G. (2017) "What is human nature for?" In: A. Fuentes and A. Visala (ed.) _Verbs, Bones and Brains: Interdisciplinary Perspectives on Human Nature,_ Notre Dame: University of Notre Dame Press.
 *   Ramsey, G. (2017) "Trait bin and triat cluster accounts of human nature" In: T. Lewens (ed.) _Why We Disagree about Human Nature._ Oxford University Press.
 *   [download-icon](/papers/2013-ps-human-nature.pdf)Ramsey, G. (2013) "Human nature in a post-essentialist world." _Philosophy of Science_ 80: 983-993. [DOI: 10.1086/673902.](http://dx.doi.org/10.1086/673902)
 *   [download-icon](/papers/2012-pt-human-nature-enhancement.pdf) Ramsey, G. (2012) "How human nature can inform human enhancement." _Philosophy and Technology_ 25: 479-483. [DOI: 10.1007/s13347-012-0087-2.](http://dx.doi.org/10.1007/s13347-012-0087-2)
