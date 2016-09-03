@@ -17,7 +17,10 @@ unique: news
 
 # Upcoming talks
 
-*	TBA
+*	“Trait bin and trait cluster accounts of human nature” Invited talk. Eindhoven University of Technology, Eindhoven, Netherlands. September 27, 2016.
+*	“evoText and the Philosophy of Science” Symposium talk (with Charles Pence). Biennial Meeting of Philosophy of Science Association, Atlanta, Georga. November 4, 2016.
+
+
 
 # Hot off the press
 
