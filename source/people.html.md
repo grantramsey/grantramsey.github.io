@@ -12,16 +12,8 @@ unique: people
 
 # Postdocs
 
-1.  ![](people/desautels.jpg)
-    : **Lane DesAutels**
-    
-      <http://lanedesautels.com/>
-
-      Dissertation: _Mechanism and Chance: Toward an Account of Stochastic Mechanism for the Life Sciences_, directed by [Lindley Darden](http://faculty.philosophy.umd.edu/LDarden/).
-	  
-      Lab publications:
-
-	  *   _Coming soon._
+1.   : **No current postdocs - please email me if you are interested in joining my lab**
+   
 
 # Current graduate students
 
@@ -38,7 +30,18 @@ unique: people
 
 # Alumni
 
-1.  ![](people/deem.jpg)
+1.  ![](people/desautels.jpg)
+    : **Lane DesAutels**
+    
+      <http://lanedesautels.com/>
+
+      Dissertation: _Mechanism and Chance: Toward an Account of Stochastic Mechanism for the Life Sciences_, directed by [Lindley Darden](http://faculty.philosophy.umd.edu/LDarden/).
+	  
+      Lab publications:
+
+	  *   _Coming soon._
+	  
+2.  ![](people/deem.jpg)
     : **Michael Deem**
     
       <http://mjdeem.weebly.com>
@@ -50,7 +53,7 @@ unique: people
 	  *   [download-icon](/papers/2016-philpsy-guilt-by-association.pdf) Deem, M. and Ramsey, G. (2016) "Guilt by association?" _Philosophical Psychology_ 29(4): 570-585. [DOI: 10.1080/09515089.2015.1126706](http://dx.doi.org/10.1080/09515089.2015.1126706)
 	  *   [download-icon](/papers/2016-er-evo-puzzle-of-guilt.pdf) Deem, M. and G. Ramsey (2016) "The Evolutionary Puzzle of Guilt: Individual or Group Selection?" _Emotion Researcher, ISRE’s Sourcebook for Research on Emotion and Affect_, Andrea Scarantino (ed.), <http://emotionresearcher.com/the-evolutionary-puzzle-of-guilt-individual-or-group-selection/>
 	  
-2.  ![](people/pence.jpg)
+3.  ![](people/pence.jpg)
     : **Charles Pence**
 
       <http://charlespence.net>

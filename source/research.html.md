@@ -11,7 +11,7 @@ Central questions in this project are: What is the nature of key concepts in evo
 ## Related publications:
 
 
-*   [download-icon](/papers/2015-ajp-causal-structure.pdf) Ramsey, G. (2017) "The causal structure of evolutionary theory" _Australasian Journal of Philosophy_. [DOI: 10.1080/00048402.2015.1111398](http://dx.doi.org/10.1080/00048402.2015.1111398)
+*   [download-icon](/papers/2015-ajp-causal-structure.pdf) Ramsey, G. (2016) "The causal structure of evolutionary theory" _Australasian Journal of Philosophy_ 94: 421-434. [DOI: 10.1080/00048402.2015.1111398](http://dx.doi.org/10.1080/00048402.2015.1111398)
 *   Ramsey, G. and Pence, C. H.  (2016)  _Chance in Evolution._  Chicago: University of Chicago Press. (expected October 2016)
 *   Ramsey, G. and Pence, C. H. (2016) "Chance in evolution from Darwin to contemporary biology." In: G. Ramsey and C.H. Pence (eds.) _Chance in Evolution._ Chicago: University of Chicago Press. (expected October 2016)
 *   [download-icon](/papers/2015-ps-organismic-fitness.pdf) Pence, C. and Ramsey, G. (2015) "Is organismic fitness at the basis of evolutionary theory?" _Philosophy of Science_ 82:1081–1091.
