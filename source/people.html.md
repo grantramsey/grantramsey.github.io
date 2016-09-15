@@ -12,21 +12,21 @@ unique: people
 
 # Postdocs
 
-1.   : **No current postdocs - please email me if you are interested in joining my lab**
-   
+1.  ![](people/desmond.jpg)
+       : **Hugh Desmond**
+    
+         <http://hughdesmond.net/>
+
+         Dissertation: _Directionality in Biological Evolution_, codirected with [Andreas De Block](http://www.kuleuven.be/wieiswie/en/person/00002503).
+
+         Lab publications:
+
+   	  *   _Coming soon._
 
 # Current graduate students
 
-1.  ![](people/desmond.jpg)
-    : **Hugh Desmond**
-    
-      <http://hughdesmond.net/>
+1.   : **No current grad students - please email me if you are interested in joining my lab**
 
-      Dissertation: _Directionality in Biological Evolution_, codirected with [Andreas De Block](http://www.kuleuven.be/wieiswie/en/person/00002503).
-
-      Lab publications:
-
-	  *   _Coming soon._
 
 # Alumni
 
