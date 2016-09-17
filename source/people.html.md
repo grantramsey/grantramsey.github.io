@@ -27,7 +27,7 @@ unique: people
 
 # Current graduate students
 
-1.   *No current grad students - please email me if you are interested in joining my lab*
+1.   *No current grad students - please email me if you are interested in joining my lab.*
 
 
 # Alumni
