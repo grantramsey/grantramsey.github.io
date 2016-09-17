@@ -5,8 +5,9 @@ unique: news
 
 # Announcements
 
+*   We are organizing a conference on [The Science of Evolution and the Evolution of the sciences](https://hiw.kuleuven.be/eng/events/science-evolution-conference/index.html) at [KU Leuven](http://www.kuleuven.be/english) this october. Please register if you are able to attend.
 *   The Ramsey Lab had just moved to Belgium! Grant Ramsey accepted a position as BOFZAP Research Professor at the [Institute of Philosophy](http://hiw.kuleuven.be/eng) at [KU Leuven](http://www.kuleuven.be/english), beginning summer 2016. He is currently seeking postdocs and graduate students - please email him if you are interested.
-*   Grant Ramsey was awarded a sabbatical at the [National Humanities Center](http://nationalhumanitiescenter.org) and is in residence August  2015 - May 2016. 
+*   Grant Ramsey was awarded a sabbatical at the [National Humanities Center](http://nationalhumanitiescenter.org) and was in residence August  2015 - May 2016. 
 *   Grant Ramsey was [appointed](/helsinki.pdf) as a research fellow at the [Helsinki Collegium for Advanced Studies](http://www.helsinki.fi/collegium/english/) from 1 September 2015 to 31 July 2017. (Declined for National Humanities Center fellowship and KU Leuven BOFZAP Research Professorship.) 
 *   Grant Ramsey was awarded a fellowship at the [Pittsburgh Center for Philosophy of Science](http://www.pitt.edu/~pittcntr/) for the 2015 - 2016 academic year. (Declined for National Humanities Center fellowship.) 
 *   Charles Pence and Grant Ramsey were awarded a [National Science Foundation Scholars Award](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1456573&HistoricalAwards=false) for The evoText Project.
