@@ -157,14 +157,6 @@ unique: people
 
       *   [download-icon](/papers/2011-ps-sober-review.pdf) Pence, C. H., Hollocher, H., Nichols, R., Ramsey, G., Siu, E., and Sportiello, D. J. (2011) "[Review of] Did Darwin Write the Origin Backwards? Philosophical Essays on Darwin’s Theory." _Philosophy of Science_ 78(4): 705-709. [DOI: 10.1086/661775.](http://dx.doi.org/10.1086/661775)
 
-4.  ![](people/o'connor.jpg)
-    : **Cailin O'Connor**
-
-      <http://www.lps.uci.edu/lps_bios/cailino>
-
-      Lab publications:
-
-      *   _Coming soon._
       
 3.  ![](people/peterson.jpg)
     : **Anne Siebels Peterson**
