@@ -18,8 +18,8 @@ unique: people
          <http://hughdesmond.net/>
 
          Dissertation: _Directionality in Biological Evolution_, codirected with [Andreas De Block](http://www.kuleuven.be/wieiswie/en/person/00002503).
-
-         Lab publications:
+	  
+      Lab publications:
 
 	  *   _Coming soon._
 	  
