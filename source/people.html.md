@@ -13,15 +13,16 @@ unique: people
 # Postdocs
 
 1.  ![](people/desmond.jpg)
-       : **Hugh Desmond**
+    : **Hugh Desmond**
     
-         <http://hughdesmond.net/>
+      <http://hughdesmond.net/>
 
-         Dissertation: _Directionality in Biological Evolution_, codirected with [Andreas De Block](http://www.kuleuven.be/wieiswie/en/person/00002503).
+      Dissertation: _Directionality in Biological Evolution_, codirected with [Andreas De Block](http://www.kuleuven.be/wieiswie/en/person/00002503).
 	  
       Lab publications:
 
 	  *   _Coming soon._
+	  
 	  
 
 # Current graduate students
