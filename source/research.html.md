@@ -32,7 +32,7 @@ Central questions in this project are: How are concepts like culture, innovation
 ## Related publications:
 
 *   [download-icon](/papers/2015-bjps-cultural-fitness-advance-access.pdf) Ramsey, G. and De Block, A. (2017) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_. [DOI: 10.1093/bjps/axv047](http://dx.doi.org/10.1093/bjps/axv047)
-*   Ramsey, G. (2017) "What is animal culture?" In: K. Andrews and J. Beck (eds.) _Routledge Companion to the Philosophy of Animal Minds._ Routledge Press.
+*   [download-icon](/papers/2017-animal-culture.pdf) Ramsey, G. (2017) "What is animal culture?" In: K. Andrews and J. Beck (eds.) _Routledge Companion to the Philosophy of Animal Minds._ Routledge Press.
 *   [download-icon](/papers/2016-shpbbs-altruism-unified.pdf) Ramsey, G. (2016) "Can altruism be unified?" _Studies in History and Philosophy of Biological and Biomedical Sciences_ 56: 32-38. [DOI: 10.1016/j.shpsc.2015.10.007](http://dx.doi.org/10.1016/j.shpsc.2015.10.007)
 *   [download-icon](/papers/2016-topoi-organism-centered.pdf) De Block, A. and Ramsey, G. (2016) "The organism-centered approach to cultural evolution." _Topoi_ 35: 283-290. [DOI: 10.1007/s11245-014-9283-2](http://dx.doi.org/10.1007/s11245-014-9283-2)
 *   De Block, A. and Ramsey, G. (2015) “The life of Culture” OUP Blog, [http://blog.oup.com/2015/11/the-life-of-culture/](http://blog.oup.com/2015/11/the-life-of-culture/)
