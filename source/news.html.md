@@ -5,7 +5,8 @@ unique: news
 
 # Announcements
 
-*   We are organizing a conference on [The Science of Evolution and the Evolution of the sciences](https://hiw.kuleuven.be/eng/events/science-evolution-conference/index.html) at [KU Leuven](http://www.kuleuven.be/english) this October. Please register if you are able to attend.
+*   Grant Ramsey will give a keynote address at the [Culture Conference 2017](https://culture-conference.com).
+*   We recently organized a conference on [The Science of Evolution and the Evolution of the sciences](https://hiw.kuleuven.be/eng/events/science-evolution-conference/index.html) at [KU Leuven](http://www.kuleuven.be/english).
 *   The Ramsey Lab had just moved to Belgium! Grant Ramsey accepted a position as BOFZAP Research Professor at the [Institute of Philosophy](http://hiw.kuleuven.be/eng) at [KU Leuven](http://www.kuleuven.be/english), beginning summer 2016. He is currently seeking postdocs and graduate students - please email him if you are interested.
 *   Grant Ramsey was awarded a sabbatical at the [National Humanities Center](http://nationalhumanitiescenter.org) and was in residence August  2015 - May 2016. 
 *   Grant Ramsey was [appointed](/helsinki.pdf) as a research fellow at the [Helsinki Collegium for Advanced Studies](http://www.helsinki.fi/collegium/english/) from 1 September 2015 to 31 July 2017. (Declined for National Humanities Center fellowship and KU Leuven BOFZAP Research Professorship.) 
@@ -18,7 +19,7 @@ unique: news
 
 # Upcoming talks
 
-*	“Trait bin and trait cluster accounts of human nature” Invited talk. Eindhoven University of Technology, Eindhoven, Netherlands. September 27, 2016.
+
 *	“evoText and the Philosophy of Science” Symposium talk (with Charles Pence). Biennial Meeting of Philosophy of Science Association, Atlanta, Georga. November 4, 2016.
 
 
@@ -41,6 +42,7 @@ unique: news
 
 # Recent lectures
 
+*	Grant Ramsey: “Trait bin and trait cluster accounts of human nature” at [Eindhoven University of Technology](https://www.tue.nl/en/), Eindhoven, Netherlands. September 27, 2016. (_invited talk_) 
 *	Grant Ramsey and Lane DesAutels: "Causal-Possibility Explanations" at the [meeting of the European Philosophy of Science Association](http://philsci.eu/epsa15), [Heinrich Heine University](http://www.uni-duesseldorf.de/home/en/home.html), Duesseldorf, Germany, September 24, 2015. (_submitted talk_) 
 *	Grant Ramsey: "The Nature of Human Nature" at [Universiteit Antwerpen](https://www.uantwerpen.be/en/), Antwerpen, Belgium, June 24. (_invited talk_) 
 *	Grant Ramsey: "The Nature of Human Nature" at [Université Paris 1](http://www.univ-paris1.fr), Paris, France, June 17. (_invited talk_) 
