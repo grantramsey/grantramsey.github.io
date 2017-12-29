@@ -39,6 +39,6 @@ end
 
 activate :deploy do |deploy|
   deploy.method = :git
-  deploy.remote = "git@github.com:grantramsey/grantramsey.github.io.git"
+  deploy.remote = "https://github.com/grantramsey/grantramsey.github.io.git"
   deploy.branch = "master"
 end
