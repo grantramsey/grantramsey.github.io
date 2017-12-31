@@ -2,14 +2,10 @@
 unique: teaching
 ---
 
-# Future courses
-
-*   On leave Fall 2015 and Spring 2016
-
 
 # Current courses
 
-*   None
+*   Philosophy of Science (Spring 2018)
 
 
 # Past courses
