@@ -31,7 +31,7 @@ unique: people
     : **Bendik Aaby**
     
 
-      Dissertation: TBA.
+      Dissertation: TBA
 	  
       Lab publications:
 
