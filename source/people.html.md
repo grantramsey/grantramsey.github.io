@@ -27,7 +27,7 @@ unique: people
 
 # Current graduate students
 
-1.  ![](people/desautels.jpg)
+1.  ![](people/aaby.jpg)
     : **Bendik Aaby**
     
 
