@@ -13,7 +13,7 @@ Central questions in this project are: What is the nature of key concepts in evo
 
 *   [download-icon](/papers/2015-ajp-causal-structure.pdf) Ramsey, G. (2016) "The causal structure of evolutionary theory" _Australasian Journal of Philosophy_ 94: 421-434. [DOI: 10.1080/00048402.2015.1111398](http://dx.doi.org/10.1080/00048402.2015.1111398)
 *   Ramsey, G. and Pence, C. H.  (2016)  _Chance in Evolution._  Chicago: University of Chicago Press. For more information, visit the [University of Chicago Press website](http://press.uchicago.edu/ucp/books/book/chicago/C/bo24550500.html) or purchase it via [Amazon](https://www.amazon.com/Chance-Evolution-Grant-Ramsey/dp/022640188X).
-*   Ramsey, G. and Pence, C. H. (2016) "Chance in evolution from Darwin to contemporary biology." In: G. Ramsey and C.H. Pence (eds.) _Chance in Evolution._ Chicago: University of Chicago Press.
+*   Ramsey, G. and Pence, C. H. (2016) "Chance in evolution from Darwin to contemporary biology." In: G. Ramsey and C.H. Pence (eds.) _Chance in Evolution._ Chicago: University of Chicago Press, 1-11.
 *   [download-icon](/papers/2015-ps-organismic-fitness.pdf) Pence, C. and Ramsey, G. (2015) "Is organismic fitness at the basis of evolutionary theory?" _Philosophy of Science_ 82:1081–1091. [DOI: 10.1086/683442](http://www.jstor.org/stable/10.1086/683442)
 *   [download-icon](/papers/2013-els-fitness-philosophical-problems.pdf) Ramsey, G. and Pence, C. H. (2013) "Fitness: philosophical problems." In: _eLS._ Chichester: John Wiley & Sons, Ltd. [DOI: 10.1002/9780470015902.a0003443.pub2](http://dx.doi.org/10.1002/9780470015902.a0003443.pub2)
 *   [download-icon](/papers/2013-ptib-fitness-differences.pdf) Ramsey, G. (2013) "Can fitness differences be a cause of evolution?" _Philosophy & Theory in Biology_ 5:e401. <http://hdl.handle.net/2027/spo.6959004.0005.001>.
@@ -31,8 +31,8 @@ Central questions in this project are: How are concepts like culture, innovation
 
 ## Related publications:
 
-*   [download-icon](/papers/2015-bjps-cultural-fitness-advance-access.pdf) Ramsey, G. and De Block, A. (2017) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_. [DOI: 10.1093/bjps/axv047](http://dx.doi.org/10.1093/bjps/axv047)
-*   [download-icon](/papers/2017-animal-culture.pdf) Ramsey, G. (2017) "What is animal culture?" In: K. Andrews and J. Beck (eds.) _Routledge Companion to the Philosophy of Animal Minds._ Routledge Press.
+*   [download-icon](/papers/2015-bjps-cultural-fitness-advance-access.pdf) Ramsey, G. and De Block, A. (2017) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_ 68: 305-328. [DOI: 10.1093/bjps/axv047](http://dx.doi.org/10.1093/bjps/axv047)
+*   [download-icon](/papers/2017-animal-culture.pdf) Ramsey, G. (2017) "What is animal culture?" In: K. Andrews and J. Beck (eds.) _Routledge Companion to the Philosophy of Animal Minds._ Routledge Press, 345-353.
 *   [download-icon](/papers/2016-shpbbs-altruism-unified.pdf) Ramsey, G. (2016) "Can altruism be unified?" _Studies in History and Philosophy of Biological and Biomedical Sciences_ 56: 32-38. [DOI: 10.1016/j.shpsc.2015.10.007](http://dx.doi.org/10.1016/j.shpsc.2015.10.007)
 *   [download-icon](/papers/2016-topoi-organism-centered.pdf) De Block, A. and Ramsey, G. (2016) "The organism-centered approach to cultural evolution." _Topoi_ 35: 283-290. [DOI: 10.1007/s11245-014-9283-2](http://dx.doi.org/10.1007/s11245-014-9283-2)
 *   De Block, A. and Ramsey, G. (2015) “The life of Culture” OUP Blog, [http://blog.oup.com/2015/11/the-life-of-culture/](http://blog.oup.com/2015/11/the-life-of-culture/)
@@ -49,8 +49,8 @@ Central questions in this project are: What is human nature? Can human nature be
 
 ## Related publications:
 
-*   [download-icon](/papers/2017-human_nature_for.pdf)Ramsey, G. (2017) "What is human nature for?" In: A. Fuentes and A. Visala (ed.) _Verbs, Bones and Brains: Interdisciplinary Perspectives on Human Nature,_ Notre Dame: University of Notre Dame Press.
-*   Ramsey, G. (2017) "Trait bin and triat cluster accounts of human nature" In: T. Lewens (ed.) _Why We Disagree about Human Nature._ Oxford University Press.
+*   Ramsey, G. (2018) "Trait bin and triat cluster accounts of human nature" In: E. Hannon and T. Lewens (eds.) _Why We Disagree about Human Nature._ Oxford University Press.
+*   [download-icon](/papers/2017-human_nature_for.pdf)Ramsey, G. (2017) "What is human nature for?" In: A. Fuentes and A. Visala (ed.) _Verbs, Bones and Brains: Interdisciplinary Perspectives on Human Nature,_ Notre Dame: University of Notre Dame Press, 217-230.
 *   [download-icon](/papers/2013-ps-human-nature.pdf)Ramsey, G. (2013) "Human nature in a post-essentialist world." _Philosophy of Science_ 80: 983-993. [DOI: 10.1086/673902.](http://dx.doi.org/10.1086/673902)
 *   [download-icon](/papers/2012-pt-human-nature-enhancement.pdf) Ramsey, G. (2012) "How human nature can inform human enhancement." _Philosophy and Technology_ 25: 479-483. [DOI: 10.1007/s13347-012-0087-2.](http://dx.doi.org/10.1007/s13347-012-0087-2)
 
@@ -74,6 +74,7 @@ Charles Pence and I are constructing a tool for the automated text mining and an
 *   The evoText website <http://www.evotext.org/> is still in beta.  Over the coming months, we plan to implement more analysis tools and add more journal articles. Click [here](/ndworks.pdf) to read an article about evoText. This work is supported by [National Science Foundation Scholars Award #1456573](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1456573&HistoricalAwards=false).
 
 ## Related publications:
+*   Pence, C. and Ramsey, G. (2018) “How to do digital philosophy of science” _Philosophy of Science_ (in press).
 *   [download-icon](/papers/2016-shpbbs-evotext.pdf) Ramsey, G. and Pence, C. H. (2016) "evoText: A new tool for analyzing the biological sciences." _Studies in History and Philosophy of Biological and Biomedical Sciences_ 57: 83-87. [DOI: 10.1016/j.shpsc.2016.04.003](http://dx.doi.org/10.1016/j.shpsc.2016.04.003)
 
 
