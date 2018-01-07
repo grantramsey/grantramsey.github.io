@@ -31,5 +31,5 @@ unique: news
 
 # Recent lectures
 
-*	Grant Ramsey: “Trait bin and trait cluster accounts of human nature” at [Eindhoven University of Technology](https://www.tue.nl/en/), Eindhoven, Netherlands. September 27, 2016. (_invited talk_) 
+
 
