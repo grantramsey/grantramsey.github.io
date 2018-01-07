@@ -10,9 +10,9 @@ unique: news
 # Upcoming talks
 
 
-*	“Does Evolutionary Theory Have a Unified Conceptual Foundation?” Conference talk. [The Generalized Theory of Evolution Meeting](http://dclps.phil.hhu.de/genevo/). February 1, 2018.
-*	“Biological altruism and lifetime fitness” Invited talk. [Institut d’Histoire et de Philosophie des Sciences et des Techniques](http://www.ihpst.cnrs.fr/en). February 12, 2018.
-*	“What Can Human Nature Possibly Mean?” Invited talk. [University of Oslo](http://www.uio.no/english/). April 11, 2018.
+*	“Does Evolutionary Theory Have a Unified Conceptual Foundation?” _Conference talk_. [The Generalized Theory of Evolution Meeting](http://dclps.phil.hhu.de/genevo/). February 1, 2018.
+*	“Biological altruism and lifetime fitness” _Invited talk_. [Institut d’Histoire et de Philosophie des Sciences et des Techniques](http://www.ihpst.cnrs.fr/en). February 12, 2018.
+*	“What Can Human Nature Possibly Mean?” _Invited talk_. [University of Oslo](http://www.uio.no/english/). April 11, 2018.
 
 
 
@@ -31,5 +31,9 @@ unique: news
 
 # Recent lectures
 
+*   “Does evolutionary theory have a unified foundation?” _Invited talk_. [Institut d’Histoire et de Philosophie des Sciences et des Techniques](http://www.ihpst.cnrs.fr/en), Paris, France. November 13, 2017. 
+*   “Does evolutionary theory have a unified foundation?” _Invited talk_. UNED, Madrid, Spain. May 31, 2017.
+*   “Does evolutionary theory have a unified foundation?” _Invited talk_. University of Valencia, Valencia, Spain. May 30, 2017.
+*   “Toward unified concepts of culture and innovation” _Keynote talk_. [CultureConference 2017](https://culture-conference.com), Birmingham, England. May 12-26, 2017.
 
 
