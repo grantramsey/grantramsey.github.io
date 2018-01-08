@@ -5,7 +5,7 @@ unique: news
 
 # Announcements
 
-*   Grant Ramsey and [Andreas De Block](https://hiw.kuleuven.be/claw/people/00002503) were awarded the [2017 Sir Karl Popper Essay Prize](http://www.thebsps.org/about-bjps/sir-karl-popper-essay-prize/) for their paper  ["Is cultural fitness hopelessly confused?"](/papers/2015-bjps-cultural-fitness-advance-access.pdf).
+*   Grant Ramsey and [Andreas De Block](https://hiw.kuleuven.be/claw/people/00002503) were awarded the [2017 Sir Karl Popper Essay Prize](https://academic.oup.com/bjps/pages/popper_prize) for their paper  ["Is cultural fitness hopelessly confused?"](/papers/2017-bjps-cultural-fitness.pdf).
 
 # Upcoming talks
 
@@ -21,7 +21,7 @@ unique: news
 
 *   Pence, C. and Ramsey, G. (2018) “How to do digital philosophy of science” _Philosophy of Science_ (in press).
 *   Ramsey, G. (2018) "Trait bin and triat cluster accounts of human nature" In: E. Hannon and T. Lewens (eds.) _Why We Disagree about Human Nature._ Oxford University Press.
-*   [download-icon](/papers/2015-bjps-cultural-fitness-advance-access.pdf) Ramsey, G. and De Block, A. (2017) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_ 68: 305-328. [DOI: 10.1093/bjps/axv047](http://dx.doi.org/10.1093/bjps/axv047)
+*   [download-icon](/papers/2017-bjps-cultural-fitness.pdf) Ramsey, G. and De Block, A. (2017) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_ 68: 305-328. [DOI: 10.1093/bjps/axv047](http://dx.doi.org/10.1093/bjps/axv047)
 *   [download-icon](/papers/2017-human_nature_for.pdf)Ramsey, G. (2017) "What is human nature for?" In: A. Fuentes and A. Visala (ed.) _Verbs, Bones and Brains: Interdisciplinary Perspectives on Human Nature,_ Notre Dame: University of Notre Dame Press, 217-230.
 *   [download-icon](/papers/2017-animal-culture.pdf) Ramsey, G. (2017) "What is animal culture?" In: K. Andrews and J. Beck (eds.) _Routledge Companion to the Philosophy of Animal Minds._ Routledge Press, 345-353.
 
