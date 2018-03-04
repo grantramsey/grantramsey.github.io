@@ -24,7 +24,6 @@ unique: people
 	  *   _Coming soon._
 	  
 	  
-
 # Current graduate students
 
 1.  ![](people/aaby.jpg)
