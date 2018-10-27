@@ -5,10 +5,14 @@ unique: teaching
 
 # Current courses
 
-*   Philosophy of Science (Spring 2018)
+*   Philosophy of Mind (Spring 2019)
 
 
 # Past courses
+
+## at KU Leuven
+
+*   Philosophy of Science (undergrad level)
 
 ## at the University of Notre Dame
 
