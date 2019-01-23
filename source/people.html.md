@@ -147,7 +147,7 @@ unique: people
 	  *   [download-icon](/papers/2016-topoi-organism-centered.pdf) De Block, A. and Ramsey, G. (2016) "The organism-centered approach to cultural evolution." _Topoi_ 35: 283-290. [DOI: 10.1007/s11245-014-9283-2](http://dx.doi.org/10.1007/s11245-014-9283-2)
 	  
 5.  ![](people/durand.jpg)
-	      : **Pierre Durand**
+	 : **Pierre Durand**
 
 	   <https://www.wits.ac.za/ecl/lab-members/>
 
