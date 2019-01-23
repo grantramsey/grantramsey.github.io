@@ -23,6 +23,17 @@ unique: people
 
 	  *   _Coming soon._
 	  
+2.  ![](people/difrisco.jpg)
+	: **James DiFrisco**
+    
+	   <http://kuleuven.academia.edu/JamesDiFrisco>
+
+	   Dissertation: _Process and Levels of Organization_, codirected by [Roland Breeur](https://www.kuleuven.be/wieiswie/en/person/00010879) and De Block, [Andreas De Block](http://www.kuleuven.be/wieiswie/en/person/00002503).
+	  
+	   Lab publications:
+
+	  	  *   _Coming soon._
+	  
 	  
 # Current graduate students
 
