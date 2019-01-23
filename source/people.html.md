@@ -196,7 +196,7 @@ unique: people
 
       *   [download-icon](/papers/2011-ps-sober-review.pdf) Pence, C. H., Hollocher, H., Nichols, R., Ramsey, G., Siu, E., and Sportiello, D. J. (2011) "[Review of] Did Darwin Write the Origin Backwards? Philosophical Essays on Darwin’s Theory." _Philosophy of Science_ 78(4): 705-709. [DOI: 10.1086/661775.](http://dx.doi.org/10.1086/661775)
 
-10.  ![](people/peterson.jpg)
+9.  ![](people/peterson.jpg)
     : **Anne Siebels Peterson**
 
       <http://philosophy.utah.edu/profile.php?unid=u0976731>
@@ -207,7 +207,7 @@ unique: people
 
       *   [download-icon](/papers/2012-ps-sameness-in-biology.pdf) Ramsey, G. and Peterson, A. (2012) "Sameness in biology." _Philosophy of Science_ 77: 255-275. [DOI: 10.1086/664744.](http://dx.doi.org/10.1086/664744)
 
-11.  ![](people/sportiello.jpg)
+9.  ![](people/sportiello.jpg)
     : **Daniel Sportiello**
 
       <http://philosophy.nd.edu/people/students/daniel-sportiello/>
@@ -217,7 +217,7 @@ unique: people
       *   [download-icon](/papers/2011-qrb-boyd-review.pdf) Hollocher, H., Fuentes, A., Pence, C. H., Ramsey, G., Sportiello, D. J., and Wirth, M. M. (2011) "[Review of] On the Origin of Stories: Evolution, Cognition, and Fiction." _The Quarterly Review of Biology_ 86(2): 137-138. [DOI: 10.1086/659913.](http://dx.doi.org/10.1086/659913)
       *   [download-icon](/papers/2011-ps-sober-review.pdf) Pence, C. H., Hollocher, H., Nichols, R., Ramsey, G., Siu, E., and Sportiello, D. J. (2011) "[Review of] Did Darwin Write the Origin Backwards? Philosophical Essays on Darwin’s Theory." _Philosophy of Science_ 78(4): 705-709. [DOI: 10.1086/661775.](http://dx.doi.org/10.1086/661775)
 
-12.  ![](people/vanschaik.jpg)
+9.  ![](people/vanschaik.jpg)
     : **Carel van Schaik**
 
       <http://www.aim.uzh.ch/Members/profofinstitute/vanschaik.html>
@@ -226,7 +226,7 @@ unique: people
 
       *   [download-icon](/papers/2007-bbs-animal-innovation.pdf) Ramsey, G., Bastian, M. L., and van Schaik, C. (2007) "Animal innovation defined and operationalized." _Behavioral and Brain Sciences_ 30: 393-437. [DOI: 10.1017/S0140525X07002373.](http://dx.doi.org/10.1017/S0140525X07002373)
       
-13.  ![](people/wirth.jpg)
+9.  ![](people/wirth.jpg)
     : **Michelle Wirth**
 
       <http://www3.nd.edu/~streslab/>
