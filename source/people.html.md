@@ -36,6 +36,16 @@ unique: people
 
 	  *   _Coming soon._
 
+1.  ![](people/gordillo-garcia.jpg)
+    : **Bendik Aaby**
+    
+
+      Dissertation: TBA
+	  
+      Lab publications:
+
+	  *   _Coming soon._
+
 # Alumni
 
 1.  ![](people/desautels.jpg)
