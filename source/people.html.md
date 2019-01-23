@@ -32,7 +32,7 @@ unique: people
 	  
 	   Lab publications:
 
-	  	  *   _Coming soon._
+	  *   _Coming soon._
 	  
 	  
 # Current graduate students
