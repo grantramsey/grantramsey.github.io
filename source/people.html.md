@@ -37,7 +37,7 @@ unique: people
 	  *   _Coming soon._
 
 1.  ![](people/gordillo-garcia.jpg)
-    : **Bendik Aaby**
+    : **Alejandro Gordillo-García**
     
 
       Dissertation: TBA
