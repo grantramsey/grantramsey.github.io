@@ -154,6 +154,7 @@ unique: people
 	   Lab publications:
 
 	   *   [download-icon](/papers/2018-bt-pcd.pdf) Durand, P. and Ramsey, G. (2018) “The nature of programmed cell death” _Biological Theory_. [DOI: 10.1007/s13752-018-0311-0](https://doi.org/10.1007/s13752-018-0311-0)
+	   
 	  
 6.  ![](people/fuentes.jpg)
     : **Agustin Fuentes**
