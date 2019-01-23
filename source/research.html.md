@@ -11,6 +11,7 @@ Central questions in this project are: What is the nature of key concepts in evo
 ## Related publications:
 
 
+*   [download-icon](/papers/2018-bt-pcd.pdf) Durand, P. and Ramsey, G. (2018) “The nature of programmed cell death” _Biological Theory_. [DOI: 10.1007/s13752-018-0311-0](https://doi.org/10.1007/s13752-018-0311-0)
 *   [download-icon](/papers/2015-ajp-causal-structure.pdf) Ramsey, G. (2016) "The causal structure of evolutionary theory" _Australasian Journal of Philosophy_ 94: 421-434. [DOI: 10.1080/00048402.2015.1111398](http://dx.doi.org/10.1080/00048402.2015.1111398)
 *   Ramsey, G. and Pence, C. H.  (2016)  _Chance in Evolution._  Chicago: University of Chicago Press. For more information, visit the [University of Chicago Press website](http://press.uchicago.edu/ucp/books/book/chicago/C/bo24550500.html) or purchase it via [Amazon](https://www.amazon.com/Chance-Evolution-Grant-Ramsey/dp/022640188X).
 *   Ramsey, G. and Pence, C. H. (2016) "Chance in evolution from Darwin to contemporary biology." In: G. Ramsey and C.H. Pence (eds.) _Chance in Evolution._ Chicago: University of Chicago Press, 1-11.
@@ -74,7 +75,7 @@ Charles Pence and I are constructing a tool for the automated text mining and an
 *   The evoText website <http://www.evotext.org/> is still in beta.  Over the coming months, we plan to implement more analysis tools and add more journal articles. Click [here](/ndworks.pdf) to read an article about evoText. This work is supported by [National Science Foundation Scholars Award #1456573](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1456573&HistoricalAwards=false).
 
 ## Related publications:
-*   Pence, C. and Ramsey, G. (2018) “How to do digital philosophy of science” _Philosophy of Science_ (in press).
+*   [download-icon](/papers/2018-ps-digital-hps.pdf) Pence, C. and Ramsey, G. (2018) “How to do digital philosophy of science” _Philosophy of Science_ 58: 930-941. [DOI: 10.1086/699697](https://doi.org/10.1086/699697).
 *   [download-icon](/papers/2016-shpbbs-evotext.pdf) Ramsey, G. and Pence, C. H. (2016) "evoText: A new tool for analyzing the biological sciences." _Studies in History and Philosophy of Biological and Biomedical Sciences_ 57: 83-87. [DOI: 10.1016/j.shpsc.2016.04.003](http://dx.doi.org/10.1016/j.shpsc.2016.04.003)
 
 
