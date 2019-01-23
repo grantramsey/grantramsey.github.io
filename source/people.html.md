@@ -146,6 +146,15 @@ unique: people
 	  *   [download-icon](/papers/2015-bjps-cultural-fitness-advance-access.pdf) Ramsey, G. and De Block, A. (2017) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_. [DOI: 10.1093/bjps/axv047](http://dx.doi.org/10.1093/bjps/axv047)
 	  *   [download-icon](/papers/2016-topoi-organism-centered.pdf) De Block, A. and Ramsey, G. (2016) "The organism-centered approach to cultural evolution." _Topoi_ 35: 283-290. [DOI: 10.1007/s11245-014-9283-2](http://dx.doi.org/10.1007/s11245-014-9283-2)
 	  
+1.  ![](people/durand.jpg)
+	      : **Pierre Durand**
+
+	   <https://www.wits.ac.za/ecl/lab-members/>
+
+	   Lab publications:
+
+	   *   [download-icon](/papers/2018-bt-pcd.pdf) Durand, P. and Ramsey, G. (2018) “The nature of programmed cell death” _Biological Theory_. [DOI: 10.1007/s13752-018-0311-0](https://doi.org/10.1007/s13752-018-0311-0)
+	  
 4.  ![](people/fuentes.jpg)
     : **Agustin Fuentes**
 
