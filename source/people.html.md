@@ -105,6 +105,17 @@ unique: people
       
       *   [The evoText Project](http://www.evotext.org)
 
+4.  ![](people/peterson.jpg)
+    : **Anne Siebels Peterson**
+
+      <http://philosophy.utah.edu/profile.php?unid=u0976731>
+
+      Dissertation: _Diversification in Aristotle's Metaphysics_
+
+      Lab publications:
+
+      *   [download-icon](/papers/2012-ps-sameness-in-biology.pdf) Ramsey, G. and Peterson, A. (2012) "Sameness in biology." _Philosophy of Science_ 77: 255-275. [DOI: 10.1086/664744.](http://dx.doi.org/10.1086/664744)
+	  
 
 # Lab collaborators
 
@@ -195,17 +206,6 @@ unique: people
       Lab publications:
 
       *   [download-icon](/papers/2011-ps-sober-review.pdf) Pence, C. H., Hollocher, H., Nichols, R., Ramsey, G., Siu, E., and Sportiello, D. J. (2011) "[Review of] Did Darwin Write the Origin Backwards? Philosophical Essays on Darwin’s Theory." _Philosophy of Science_ 78(4): 705-709. [DOI: 10.1086/661775.](http://dx.doi.org/10.1086/661775)
-
-6.  ![](people/peterson.jpg)
-    : **Anne Siebels Peterson**
-
-      <http://philosophy.utah.edu/profile.php?unid=u0976731>
-
-      Dissertation: _Diversification in Aristotle's Metaphysics_
-
-      Lab publications:
-
-      *   [download-icon](/papers/2012-ps-sameness-in-biology.pdf) Ramsey, G. and Peterson, A. (2012) "Sameness in biology." _Philosophy of Science_ 77: 255-275. [DOI: 10.1086/664744.](http://dx.doi.org/10.1086/664744)
 
 6.  ![](people/sportiello.jpg)
     : **Daniel Sportiello**
