@@ -131,7 +131,7 @@ unique: people
 2.  ![](people/brandon.jpg)
     : **Robert Brandon**
 
-      <https://fds.duke.edu/db/aas/Philosophy/rbrandon>
+      <https://philosophy.duke.edu/people/robert-n-brandon>
 
       Lab publications:
 
@@ -141,7 +141,7 @@ unique: people
  3.  ![](people/cobb.jpg)
      : **Alexander Cobb**
 
-       <http://smart.mit.edu/home.html>
+       <https://www.researchgate.net/profile/Alexander_Cobb2>
 
        Lab publications:
 
