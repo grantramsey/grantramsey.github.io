@@ -72,7 +72,7 @@ Central questions in this project are: How can data be used to make causal infer
 
 ## Related publications:
 
-*   [download-icon](/papers/2019-Noûs-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2019) “Causal inference from noise” _Noûs_. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
+*   [download-icon](/papers/2019-Nous-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2019) “Causal inference from noise” _Noûs_. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
 
 
 # The evoText project

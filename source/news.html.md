@@ -17,7 +17,7 @@ unique: news
 # Hot off the press
 
 
-*   [download-icon](/papers/2019-Noûs-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2019) “Causal inference from noise” _Noûs_. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
+*   [download-icon](/papers/2019-Nous-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2019) “Causal inference from noise” _Noûs_. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
 *   [download-icon](/papers/2018-bt-pcd.pdf) Durand, P. and Ramsey, G. (2019) “The nature of programmed cell death” _Biological Theory_ 14: 30–41. [DOI: 10.1007/s13752-018-0311-0](https://doi.org/10.1007/s13752-018-0311-0)
 
 
