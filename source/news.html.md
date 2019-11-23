@@ -10,20 +10,15 @@ unique: news
 # Upcoming talks
 
 
-*	“Does Evolutionary Theory Have a Unified Conceptual Foundation?” _Conference talk_. [The Generalized Theory of Evolution Meeting](http://dclps.phil.hhu.de/genevo/). February 1, 2018.
-*	“Biological altruism and lifetime fitness” _Invited talk_. [Institut d’Histoire et de Philosophie des Sciences et des Techniques](http://www.ihpst.cnrs.fr/en). February 12, 2018.
-*	“What Can Human Nature Possibly Mean?” _Invited talk_. [University of Oslo](http://www.uio.no/english/). April 11, 2018.
+*	TBA
 
 
 
 # Hot off the press
 
 
-*   Pence, C. and Ramsey, G. (2018) “How to do digital philosophy of science” _Philosophy of Science_ (in press).
-*   Ramsey, G. (2018) "Trait bin and triat cluster accounts of human nature" In: E. Hannon and T. Lewens (eds.) _Why We Disagree about Human Nature._ Oxford University Press.
-*   [download-icon](/papers/2017-bjps-cultural-fitness.pdf) Ramsey, G. and De Block, A. (2017) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_ 68: 305-328. [DOI: 10.1093/bjps/axv047](http://dx.doi.org/10.1093/bjps/axv047)
-*   [download-icon](/papers/2017-human_nature_for.pdf)Ramsey, G. (2017) "What is human nature for?" In: A. Fuentes and A. Visala (ed.) _Verbs, Bones and Brains: Interdisciplinary Perspectives on Human Nature,_ Notre Dame: University of Notre Dame Press, 217-230.
-*   [download-icon](/papers/2017-animal-culture.pdf) Ramsey, G. (2017) "What is animal culture?" In: K. Andrews and J. Beck (eds.) _Routledge Companion to the Philosophy of Animal Minds._ Routledge Press, 345-353.
+*   [download-icon](/papers/2019-Noûs-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2019) “Causal inference from noise” _Noûs_. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
+*   [download-icon](/papers/2018-bt-pcd.pdf) Durand, P. and Ramsey, G. (2019) “The nature of programmed cell death” _Biological Theory_ 14: 30–41. [DOI: 10.1007/s13752-018-0311-0](https://doi.org/10.1007/s13752-018-0311-0)
 
 
 
@@ -31,9 +26,11 @@ unique: news
 
 # Recent lectures
 
-*   “Does evolutionary theory have a unified foundation?” _Invited talk_. [Institut d’Histoire et de Philosophie des Sciences et des Techniques](http://www.ihpst.cnrs.fr/en), Paris, France. November 13, 2017. 
-*   “Does evolutionary theory have a unified foundation?” _Invited talk_. UNED, Madrid, Spain. May 31, 2017.
-*   “Does evolutionary theory have a unified foundation?” _Invited talk_. University of Valencia, Valencia, Spain. May 30, 2017.
-*   “Toward unified concepts of culture and innovation” _Keynote talk_. [CultureConference 2017](https://culture-conference.com), Birmingham, England. May 12-26, 2017.
+
+*   “Phylogenetic Competition: Defining the Selective Environment” _Submitted conference talk_ (with Hugh Desmond). Meeting of the European Philosophy of Science Association, University of Geneva, Geneva, Switzerland, September 12, 2019
+*   “Developmental Channeling and the Causal Structure of Evolutionary Theory” _Submitted conference talk_ (with Cristina Villegas). Meeting of the European Philosophy of Science Association, University of Geneva, Geneva, Switzerland, September 13, 2019.
+*   “Phylogenetic Competition: Defining the Selective Environment” _Submitted conference talk_ (with Hugh Desmond). International Society for the History, Philosophy, and Social Studies of Biology Biannual Meeting, University of Oslo, Oslo, Norway, July 8, 2019
+*   “Developmental Channeling and the Causal Structure of Evolutionary Theory” _Submitted conference talk_ (with Cristina Villegas). International Society for the History, Philosophy, and Social Studies of Biology Biannual Meeting, University of Oslo, Oslo, Norway, July 8, 2019
+*   “Phylogenetic Competition: Defining the Selective Environment” _Invited talk_. [Institut d’Histoire et de Philosophie des Sciences et des Techniques](http://www.ihpst.cnrs.fr/en), Paris, France. May 25, 2019.
 
 

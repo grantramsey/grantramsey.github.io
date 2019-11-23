@@ -5,7 +5,7 @@ unique: teaching
 
 # Current courses
 
-*   Philosophy of Mind (Spring 2019)
+*   Philosophy of Science (Spring 2020)
 
 
 # Past courses
@@ -13,17 +13,18 @@ unique: teaching
 ## at KU Leuven
 
 *   Philosophy of Science (undergrad level)
+*   Philosophy of Human Nature (MA level)
 
 ## at the University of Notre Dame
 
-*   Chance and Evolution (graduate level)
-*   Darwin in the 21st Century (graduate level)
-*   Darwin, Philosophy, and Theology (400-level, undergrad)
+*   Chance and Evolution (PhD level)
+*   Darwin in the 21st Century (PhD level)
+*   Darwin, Philosophy, and Theology (upper-level, undergrad)
 *   Heaven on Earth?  Utopian Ideals and Human Nature (College Seminar, undergrad)
 *   Image Makers / Image Takers (College Seminar, undergrad)
 *   In Search of Utopia (College Seminar, undergrad)
 *   Philosophy of Biology (200-level, undergrad)
-*   Philosophy of Biology (graduate level)
+*   Philosophy of Biology (PhD level)
 *   Philosophy of Science (400-level, undergrad)
 *   Scientific Images of Humanity (200-level, undergrad)
 *   The Life and Work of Darwin (400-level, undergrad)
