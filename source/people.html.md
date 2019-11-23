@@ -210,7 +210,7 @@ unique: people
 6.  ![](people/sportiello.jpg)
     : **Daniel Sportiello**
 
-      <http://philosophy.nd.edu/people/students/daniel-sportiello/>
+      <https://www.umary.edu/academics/arts-sciences/faculty-bios/Daniel-Sportiello.php>
 
       Lab publications:
 
