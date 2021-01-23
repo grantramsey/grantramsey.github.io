@@ -5,7 +5,7 @@ unique: teaching
 
 # Current courses
 
-*   Philosophy of Science (Spring 2020)
+*   Epistemology and Philosophy of Science (Spring 2021)
 
 
 # Past courses
