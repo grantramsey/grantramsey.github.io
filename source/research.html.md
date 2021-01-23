@@ -11,6 +11,8 @@ Central questions in this project are: What is the nature of key concepts in evo
 ## Related publications:
 
 
+*   [download-icon](/papers/2020-moleco-pdc-black-queen.pdf) Ndhlovu, A., Durand, P., and Ramsey, G. (2020) “Programmed cell death as a black queen in microbial communities” _Molecular Ecology_. [DOI: 10.1111/mec.15757](https://doi.org/10.1111/mec.15757)
+*   [download-icon](/papers/2019-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2019) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
 *   [download-icon](/papers/2018-bt-pcd.pdf) Durand, P. and Ramsey, G. (2019) “The nature of programmed cell death” _Biological Theory_ 14: 30–41. [DOI: 10.1007/s13752-018-0311-0](https://doi.org/10.1007/s13752-018-0311-0)
 *   [download-icon](/papers/2015-ajp-causal-structure.pdf) Ramsey, G. (2016) "The causal structure of evolutionary theory" _Australasian Journal of Philosophy_ 94: 421-434. [DOI: 10.1080/00048402.2015.1111398](http://dx.doi.org/10.1080/00048402.2015.1111398)
 *   Ramsey, G. and Pence, C. H.  (2016)  _Chance in Evolution._  Chicago: University of Chicago Press. For more information, visit the [University of Chicago Press website](http://press.uchicago.edu/ucp/books/book/chicago/C/bo24550500.html) or purchase it via [Amazon](https://www.amazon.com/Chance-Evolution-Grant-Ramsey/dp/022640188X).

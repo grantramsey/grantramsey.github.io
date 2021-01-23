@@ -45,7 +45,7 @@ unique: people
 	  
       Lab publications:
 
-	  *   _Coming soon._
+	  *   [download-icon](/papers/2019-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2019) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
 
 1.  ![](people/gordillo-garcia.jpg)
     : **Alejandro Gordillo-García**
