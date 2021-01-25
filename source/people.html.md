@@ -21,7 +21,7 @@ unique: people
 	  
       Lab publications:
 
-	  *   _Coming soon._
+	  *   [download-icon](/papers/2017-oxford-bibliography-philosophy_of_biology.pdf) Ramsey, G. and Desmond, H. (2017) “Philosophy of Biology” Oxford Bibliography. http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0341.xml 
 	  
 2.  ![](people/difrisco.jpg)
 	: **James DiFrisco**

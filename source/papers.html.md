@@ -29,7 +29,6 @@ unique: papers
 *   [download-icon](/papers/2016-er-evo-puzzle-of-guilt.pdf) Deem, M. and G. Ramsey (2016) "The Evolutionary Puzzle of Guilt: Individual or Group Selection?" _Emotion Researcher, ISRE’s Sourcebook for Research on Emotion and Affect_, Andrea Scarantino (ed.), <http://emotionresearcher.com/the-evolutionary-puzzle-of-guilt-individual-or-group-selection/>
 *   [download-icon](/papers/2015-ps-organismic-fitness.pdf) Pence, C. and Ramsey, G. (2015) "Is organismic fitness at the basis of evolutionary theory?" _Philosophy of Science_ 82: 1081–1091. [DOI: 10.1086/683442](http://www.jstor.org/stable/10.1086/683442)
 *   [download-icon](/papers/2013-ps-human-nature.pdf)Ramsey, G. (2013) "Human nature in a post-essentialist world." _Philosophy of Science_ 80: 983-993. [DOI: 10.1086/673902.](http://dx.doi.org/10.1086/673902)
-*   [download-icon](/papers/2013-els-fitness-philosophical-problems.pdf) Ramsey, G. and Pence, C. H. (2013) "Fitness: philosophical problems." In: _eLS._ Chichester: John Wiley & Sons, Ltd. [DOI: 10.1002/9780470015902.a0003443.pub2](http://dx.doi.org/10.1002/9780470015902.a0003443.pub2)
 *   [download-icon](/papers/2013-ptib-fitness-differences.pdf) Ramsey, G. (2013) "Can fitness differences be a cause of evolution?" _Philosophy & Theory in Biology_ 5:e401. <http://hdl.handle.net/2027/spo.6959004.0005.001>.
 *   [download-icon](/papers/2013-bjps-new-foundation.pdf) Pence, C.H. and Ramsey, G. (2013) "A new foundation for the propensity interpretation of fitness." _The British Journal for the Philosophy of Science_ 64:851-881. [DOI: 10.1093/bjps/axs037.](http://dx.doi.org/10.1093/bjps/axs037)
 *   [download-icon](/papers/2013-bjps-organisms-traits-subdivisions.pdf) Ramsey, G. (2013) "Organisms, traits, and population subdivisions: two arguments against the causal conception of fitness?" _The British Journal for the Philosophy of Science_ 64: 589-608 [DOI: 10.1093/bjps/axs010.](http://dx.doi.org/10.1093/bjps/axs010)
@@ -43,6 +42,10 @@ unique: papers
 *   [download-icon](/papers/2007-ccpb-emergentist-statistical-interpretation.pdf) Brandon, R. and Ramsey, G. (2007) "What's Wrong with the Emergentist Statistical Interpretation of Natural Selection and Random Drift?" In: D. Hull and M. Ruse (eds.) _Cambridge Companion to the Philosophy of Biology,_ Cambridge: Cambridge University Press.
 *   [download-icon](/papers/2006-shpbbs-block-fitness.pdf) Ramsey, G. (2006) "Block fitness." _Studies in History and Philosophy of Biological and Biomedical Sciences_ 37: 484-498. [DOI: 10.1016/j.shpsc.2006.06.009.](http://dx.doi.org/10.1016/j.shpsc.2006.06.009)
 *   [download-icon](/papers/2001-cjb-bryophyte-recolonization.pdf) Cobb, A., Nadkarni, N., Ramsey, G., and Svoboda, A. J. (2001) "Recolonization of bigleaf maple branches by epiphytic bryophytes following experimental disturbance." _The Canadian Journal of Botany_ 79: 1-8. [DOI: 10.1139/b00-134](http://dx.doi.org/10.1139/b00-134)
+
+# Publications – Encyclopedia Entries and Bibliographies
+*   [download-icon](/papers/2017-oxford-bibliography-philosophy_of_biology.pdf) Ramsey, G. and Desmond, H. (2017) “Philosophy of Biology” Oxford Bibliography. http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0341.xml 
+*   [download-icon](/papers/2013-els-fitness-philosophical-problems.pdf) Ramsey, G. and Pence, C. H. (2013) "Fitness: philosophical problems." In: _eLS._ Chichester: John Wiley & Sons, Ltd. [DOI: 10.1002/9780470015902.a0003443.pub2](http://dx.doi.org/10.1002/9780470015902.a0003443.pub2)
 
 
 # Book reviews
