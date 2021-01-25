@@ -68,7 +68,7 @@ unique: people
 	  
       Lab publications:
 
-	  *   _Coming soon._
+	  *   [download-icon](/papers/2019-nous-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2019) “Causal inference from noise” _Noûs_. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
 	  
 2.  ![](people/deem.jpg)
     : **Michael Deem**
@@ -138,6 +138,15 @@ unique: people
       *   [download-icon](/papers/2011-bp-reciprocal-altruism.pdf) Ramsey, G. and Brandon, R. (2011) "Why reciprocal altruism is not a kind of group selection." _Biology and Philosophy_ 26: 385-400. [DOI: 10.1007/s10539-011-9261-7.](http://dx.doi.org/10.1007/s10539-011-9261-7)
       *   [download-icon](/papers/2007-ccpb-emergentist-statistical-interpretation.pdf) Brandon, R. and Ramsey, G. (2007) "What's Wrong with the Emergentist Statistical Interpretation of Natural Selection and Random Drift?" In: D. Hull and M. Ruse (eds.) _Cambridge Companion to the Philosophy of Biology,_ Cambridge: Cambridge University Press.
 
+ 3.  ![](people/climenhaga.jpg)
+     : **Nevin Climenhaga**
+
+       <https://www.acu.edu.au/research/our-research-institutes/dianoia-institute-of-philosophy/our-people/nevin-climenhaga>
+
+       Lab publications:
+
+	  *   [download-icon](/papers/2019-nous-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2019) “Causal inference from noise” _Noûs_. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
+
  3.  ![](people/cobb.jpg)
      : **Alexander Cobb**
 
@@ -164,6 +173,7 @@ unique: people
 
 	   Lab publications:
 
+	   *   [download-icon](/papers/2020-moleco-pdc-black-queen.pdf) Ndhlovu, A., Durand, P., and Ramsey, G. (2020) “Programmed cell death as a black queen in microbial communities” _Molecular Ecology_. [DOI: 10.1111/mec.15757](https://doi.org/10.1111/mec.15757)
 	   *   [download-icon](/papers/2018-bt-pcd.pdf) Durand, P. and Ramsey, G. (2018) “The nature of programmed cell death” _Biological Theory_. [DOI: 10.1007/s13752-018-0311-0](https://doi.org/10.1007/s13752-018-0311-0)
 	   
 	  
@@ -198,14 +208,23 @@ unique: people
 
 	   *   [download-icon](/papers/2001-cjb-bryophyte-recolonization.pdf) Cobb, A., Nadkarni, N., Ramsey, G., and Svoboda, A. J. (2001) "Recolonization of bigleaf maple branches by epiphytic bryophytes following experimental disturbance." _The Canadian Journal of Botany_ 79: 1-8. [DOI: 10.1139/b00-134](http://dx.doi.org/10.1139/b00-134)
       
-6.  ![](people/nichols.jpg)
-    : **Ryan Nichols**
+6.  ![](people/ndhlovu.jpg)
+    : **Andrew Ndhlovu**
 
-      <http://philosophy.fullerton.edu/people/profile/ryan_nichols.aspx>
+      <https://www.researchgate.net/profile/Andrew_Ndhlovu>
 
       Lab publications:
 
-      *   [download-icon](/papers/2011-ps-sober-review.pdf) Pence, C. H., Hollocher, H., Nichols, R., Ramsey, G., Siu, E., and Sportiello, D. J. (2011) "[Review of] Did Darwin Write the Origin Backwards? Philosophical Essays on Darwin’s Theory." _Philosophy of Science_ 78(4): 705-709. [DOI: 10.1086/661775.](http://dx.doi.org/10.1086/661775)
+      *   [download-icon](/papers/2020-moleco-pdc-black-queen.pdf) Ndhlovu, A., Durand, P., and Ramsey, G. (2020) “Programmed cell death as a black queen in microbial communities” _Molecular Ecology_. [DOI: 10.1111/mec.15757](https://doi.org/10.1111/mec.15757)
+	  
+6.  ![](people/nichols.jpg)
+	: **Ryan Nichols**
+
+	  <http://philosophy.fullerton.edu/people/profile/ryan_nichols.aspx>
+
+	  Lab publications:
+
+	  *   [download-icon](/papers/2011-ps-sober-review.pdf) Pence, C. H., Hollocher, H., Nichols, R., Ramsey, G., Siu, E., and Sportiello, D. J. (2011) "[Review of] Did Darwin Write the Origin Backwards? Philosophical Essays on Darwin’s Theory." _Philosophy of Science_ 78(4): 705-709. [DOI: 10.1086/661775.](http://dx.doi.org/10.1086/661775)
 
 6.  ![](people/sportiello.jpg)
     : **Daniel Sportiello**
