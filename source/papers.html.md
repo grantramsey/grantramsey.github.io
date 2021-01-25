@@ -43,7 +43,7 @@ unique: papers
 *   [download-icon](/papers/2006-shpbbs-block-fitness.pdf) Ramsey, G. (2006) "Block fitness." _Studies in History and Philosophy of Biological and Biomedical Sciences_ 37: 484-498. [DOI: 10.1016/j.shpsc.2006.06.009.](http://dx.doi.org/10.1016/j.shpsc.2006.06.009)
 *   [download-icon](/papers/2001-cjb-bryophyte-recolonization.pdf) Cobb, A., Nadkarni, N., Ramsey, G., and Svoboda, A. J. (2001) "Recolonization of bigleaf maple branches by epiphytic bryophytes following experimental disturbance." _The Canadian Journal of Botany_ 79: 1-8. [DOI: 10.1139/b00-134](http://dx.doi.org/10.1139/b00-134)
 
-# Publications – Encyclopedia Entries and Bibliographies
+# Encyclopedia Entries and Bibliographies
 *   [download-icon](/papers/2017-oxford-bibliography-philosophy_of_biology.pdf) Ramsey, G. and Desmond, H. (2017) “[Philosophy of Biology](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0341.xml)” Oxford Bibliography.
 *   [download-icon](/papers/2013-els-fitness-philosophical-problems.pdf) Ramsey, G. and Pence, C. H. (2013) "Fitness: philosophical problems." In: _eLS._ Chichester: John Wiley & Sons, Ltd. [DOI: 10.1002/9780470015902.a0003443.pub2](http://dx.doi.org/10.1002/9780470015902.a0003443.pub2)
 
