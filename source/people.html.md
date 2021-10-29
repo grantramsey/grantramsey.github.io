@@ -31,7 +31,8 @@ unique: people
 	  
       Lab publications:
 
-	  *   [download-icon](/papers/2017-oxford-bibliography-philosophy_of_biology.pdf) Ramsey, G. and Desmond, H. (2017) “[Philosophy of Biology](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0341.xml)” Oxford Bibliography. 
+	  *   [download-icon](/papers/2017-oxford-bibliography-philosophy_of_biology.pdf) Ramsey, G. and Desmond, H. (2017) “[Philosophy of Biology](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0341.xml)” Oxford Bibliography.
+	  *   Desmond, H. and Ramsey, G. (2022) _Human Success: Evolutionary Origins and Ethichal Implications_ Oxford University Press.
 	  
 3.  ![](people/difrisco.jpg)
 	: **James DiFrisco**
@@ -83,6 +84,7 @@ unique: people
 
 	  *   [download-icon](/papers/2016-philpsy-guilt-by-association.pdf) Deem, M. and Ramsey, G. (2016) "Guilt by association?" _Philosophical Psychology_ 29(4): 570-585. [DOI: 10.1080/09515089.2015.1126706](http://dx.doi.org/10.1080/09515089.2015.1126706)
 	  *   [download-icon](/papers/2016-er-evo-puzzle-of-guilt.pdf) Deem, M. and G. Ramsey (2016) "The Evolutionary Puzzle of Guilt: Individual or Group Selection?" _Emotion Researcher, ISRE’s Sourcebook for Research on Emotion and Affect_, Andrea Scarantino (ed.), <http://emotionresearcher.com/the-evolutionary-puzzle-of-guilt-individual-or-group-selection/>
+	  *   [download-icon](/papers/2021-ps-empathy-guilt.pdf) Ramsey, G. and M. Deem (forthcoming) "Empathy and the Evolutionary Emergence of Guilt" _Philosophy of Science_.
 	  
 3.  ![](people/pence.jpg)
     : **Charles Pence**
@@ -167,6 +169,8 @@ unique: people
 
 	  *   [download-icon](/papers/2015-bjps-cultural-fitness-advance-access.pdf) Ramsey, G. and De Block, A. (2017) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_. [DOI: 10.1093/bjps/axv047](http://dx.doi.org/10.1093/bjps/axv047)
 	  *   [download-icon](/papers/2016-topoi-organism-centered.pdf) De Block, A. and Ramsey, G. (2016) "The organism-centered approach to cultural evolution." _Topoi_ 35: 283-290. [DOI: 10.1007/s11245-014-9283-2](http://dx.doi.org/10.1007/s11245-014-9283-2)
+	  *   Ramsey, G. and A. De Block (2022) _The Dynamics of Science: Computational Frontiers in History and Philosophy of Science_ Oxford University Press.
+	  
 	  
 5.  ![](people/durand.jpg)
     : **Pierre Durand**
