@@ -7,12 +7,22 @@ unique: people
 1.  ![](people/ramsey.jpg)
     : **Grant Ramsey**
       
-      The Ramsey Lab has moved to Belgium! I am now a BOFZAP Research Professor in the [Institute of Philosophy](http://hiw.kuleuven.be/eng) at [KU Leuven](http://www.kuleuven.be/english).
+      I am a BOFZAP Research Professor in the [Institute of Philosophy](http://hiw.kuleuven.be/eng) at [KU Leuven](http://www.kuleuven.be/english).
 	  For more information, see the [About page](/about.html) or [download my CV.](/ramsey-cv.pdf)
 
 # Postdocs
 
-1.  ![](people/desmond.jpg)
+1.  ![](people/aaby.jpg)
+    : **Bendik Aaby**
+    
+
+      Dissertation: _Organism-Environment Interactions in Evolutionary Theory_
+	  
+      Lab publications:
+
+	  *   [download-icon](/papers/2019-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2019) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
+	  
+2.  ![](people/desmond.jpg)
     : **Hugh Desmond**
     
       <http://hughdesmond.net/>
@@ -23,29 +33,21 @@ unique: people
 
 	  *   [download-icon](/papers/2017-oxford-bibliography-philosophy_of_biology.pdf) Ramsey, G. and Desmond, H. (2017) “[Philosophy of Biology](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0341.xml)” Oxford Bibliography. 
 	  
-2.  ![](people/difrisco.jpg)
+3.  ![](people/difrisco.jpg)
 	: **James DiFrisco**
     
 	   <http://kuleuven.academia.edu/JamesDiFrisco>
 
-	   Dissertation: _Process and Levels of Organization_, codirected by [Roland Breeur](https://www.kuleuven.be/wieiswie/en/person/00010879) and De Block, [Andreas De Block](http://www.kuleuven.be/wieiswie/en/person/00002503).
+	   Dissertation: _Process and Levels of Organization_, codirected by [Roland Breeur](https://www.kuleuven.be/wieiswie/en/person/00010879) and [Andreas De Block](http://www.kuleuven.be/wieiswie/en/person/00002503).
 	  
 	   Lab publications:
 
 	  *   _Coming soon._
 	  
 	  
+	  
 # Current graduate students
 
-1.  ![](people/aaby.jpg)
-    : **Bendik Aaby**
-    
-
-      Dissertation: TBA
-	  
-      Lab publications:
-
-	  *   [download-icon](/papers/2019-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2019) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
 
 1.  ![](people/gordillo-garcia.jpg)
     : **Alejandro Gordillo-García**
