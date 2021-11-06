@@ -77,8 +77,9 @@ unique: people
 	  
 	  
 3.  ![](people/desmond.jpg)
-	      : **Hugh Desmond**
-		  <http://hughdesmond.net/>
+	: **Hugh Desmond**
+	  
+	  <http://hughdesmond.net/>
 
 	   Dissertation: _Directionality in Biological Evolution_, codirected with [Andreas De Block](http://www.kuleuven.be/wieiswie/en/person/00002503).
 	  
