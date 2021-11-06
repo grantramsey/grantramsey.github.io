@@ -5,13 +5,14 @@ unique: teaching
 
 # Current courses
 
-*   Epistemology and Philosophy of Science (Spring 2021)
+*   Epistemology and Philosophy of Science (Spring 2022)
 
 
 # Past courses
 
 ## at KU Leuven
 
+*   Epistemology and Philosophy of Science (undergrad level)
 *   Philosophy of Science (undergrad level)
 *   Philosophy of Human Nature (MA level)
 

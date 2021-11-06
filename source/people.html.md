@@ -85,8 +85,8 @@ unique: people
 	  
 	   Lab publications:
 
-	  	  *   [download-icon](/papers/2017-oxford-bibliography-philosophy_of_biology.pdf) Ramsey, G. and Desmond, H. (2017) “[Philosophy of Biology](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0341.xml)” Oxford Bibliography.
-	  	  *   Desmond, H. and Ramsey, G. (2022) _Human Success: Evolutionary Origins and Ethichal Implications_. Oxford University Press.
+	  *   [download-icon](/papers/2017-oxford-bibliography-philosophy_of_biology.pdf) Ramsey, G. and Desmond, H. (2017) “[Philosophy of Biology](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0341.xml)” Oxford Bibliography.
+	  *   Desmond, H. and Ramsey, G. (2022) _Human Success: Evolutionary Origins and Ethichal Implications_. Oxford University Press.
 	  
 4.  ![](people/pence.jpg)
     : **Charles Pence**
