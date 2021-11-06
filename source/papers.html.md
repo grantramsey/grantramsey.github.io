@@ -6,13 +6,16 @@ unique: papers
 
 # Books (as editor)
 
+*   Ramsey, G. and De Block, A.  (2022)  _The Dynamics of Science: Computational Frontiers in History and Philosophy of Science._  Pittsburgh: University of Pittsburgh Press.
+*   Desmond, H. and Ramsey, G.  (2022)  _Human Success: Evolutionary Origins and Ethical Implications._  Oxford: Oxford University Press.
 *   Ramsey, G. and Pence, C. H.  (2016)  _Chance in Evolution._  Chicago: University of Chicago Press. For more information, visit the [University of Chicago Press website](http://press.uchicago.edu/ucp/books/book/chicago/C/bo24550500.html) or purchase it via [Amazon](https://www.amazon.com/Chance-Evolution-Grant-Ramsey/dp/022640188X).
 
 
 # Articles and book chapters
 
-*   [download-icon](/papers/2020-moleco-pdc-black-queen.pdf) Ndhlovu, A., Durand, P., and Ramsey, G. (2021) “Programmed cell death as a black queen in microbial communities” _Molecular Ecology_. [DOI: 10.1111/mec.15757](https://doi.org/10.1111/mec.15757)
-*   [download-icon](/papers/2019-nous-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2021) “Causal inference from noise” _Noûs_. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
+*   [download-icon](/papers/2022-ps-empathy-guilt.pdf) Ramsey, G. and Deem, M. (forthcoming) “Empathy and the evolutionary emergence of guilt” _Philosophy of Science_.
+*   [download-icon](/papers/2021-moleco-pdc-black-queen.pdf) Ndhlovu, A., Durand, P., and Ramsey, G. (2021) “Programmed cell death as a black queen in microbial communities” _Molecular Ecology_ 30: 1110-1119. [DOI: 10.1111/mec.15757](https://doi.org/10.1111/mec.15757)
+*   [download-icon](/papers/2021-nous-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2021) “Causal inference from noise” _Noûs_ 55: 152–170. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
 *   [download-icon](/papers/2019-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2019) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
 *   [download-icon](/papers/2018-bt-pcd.pdf) Durand, P. and Ramsey, G. (2019) “The nature of programmed cell death” _Biological Theory_ 14: 30–41. [DOI: 10.1007/s13752-018-0311-0](https://doi.org/10.1007/s13752-018-0311-0)
 *   [download-icon](/papers/2018-ps-digital-hps.pdf) Pence, C. and Ramsey, G. (2018) “How to do digital philosophy of science” _Philosophy of Science_ 58: 930-941. [DOI: 10.1086/699697](https://doi.org/10.1086/699697).
