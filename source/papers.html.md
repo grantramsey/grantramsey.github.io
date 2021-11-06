@@ -13,7 +13,9 @@ unique: papers
 
 # Articles and book chapters
 
-*   [download-icon](/papers/2022-ps-empathy-guilt.pdf) Ramsey, G. and Deem, M. (forthcoming) “Empathy and the evolutionary emergence of guilt” _Philosophy of Science_.
+*   [download-icon](/papers/2022-ps-empathy-guilt.pdf) Ramsey, G. and Deem, M. (in press) “Empathy and the evolutionary emergence of guilt” _Philosophy of Science_.
+*   De Block, A. and Ramsey, G. (2022) “Tools, tests, and data: An overview of the new history and philosophy of science” in G. Ramsey and A. De Block (eds.) _The Dynamics of Science: Computational Frontiers in History and Philosophy of Science_, University of Pittsburgh Press.
+*   Desmond, H. and Ramsey, G. (2022) “Generalized Evolutionary Success and Human Evolution: An Overview” in H. Desmond and G. Ramsey (eds.) _Human Success: Evolutionary Origins and Ethical Implications_, Oxford University Press.
 *   [download-icon](/papers/2021-moleco-pdc-black-queen.pdf) Ndhlovu, A., Durand, P., and Ramsey, G. (2021) “Programmed cell death as a black queen in microbial communities” _Molecular Ecology_ 30: 1110-1119. [DOI: 10.1111/mec.15757](https://doi.org/10.1111/mec.15757)
 *   [download-icon](/papers/2021-nous-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2021) “Causal inference from noise” _Noûs_ 55: 152–170. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
 *   [download-icon](/papers/2019-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2019) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
