@@ -6,9 +6,9 @@ unique: papers
 
 # Books (as editor)
 
-*   Ramsey, G. and De Block, A.  (2022)  _The Dynamics of Science: Computational Frontiers in History and Philosophy of Science._  Pittsburgh: University of Pittsburgh Press.
-*   Desmond, H. and Ramsey, G.  (2022)  _Human Success: Evolutionary Origins and Ethical Implications._  Oxford: Oxford University Press.
-*   Ramsey, G. and Pence, C. H.  (2016)  _Chance in Evolution._  Chicago: University of Chicago Press. For more information, visit the [University of Chicago Press website](http://press.uchicago.edu/ucp/books/book/chicago/C/bo24550500.html) or purchase it via [Amazon](https://www.amazon.com/Chance-Evolution-Grant-Ramsey/dp/022640188X).
+*   Ramsey, G. and De Block, A.  (2022)  _The Dynamics of Science: Computational Frontiers in History and Philosophy of Science._ University of Pittsburgh Press.
+*   Desmond, H. and Ramsey, G.  (2022)  _Human Success: Evolutionary Origins and Ethical Implications._  Oxford University Press.
+*   Ramsey, G. and Pence, C. H.  (2016)  _Chance in Evolution._  University of Chicago Press. For more information, visit the [University of Chicago Press website](http://press.uchicago.edu/ucp/books/book/chicago/C/bo24550500.html) or purchase it via [Amazon](https://www.amazon.com/Chance-Evolution-Grant-Ramsey/dp/022640188X).
 
 
 # Articles and book chapters
