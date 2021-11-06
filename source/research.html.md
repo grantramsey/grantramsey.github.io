@@ -11,7 +11,7 @@ Central questions in this project are: What is the nature of key concepts in evo
 ## Related publications:
 
 
-*   [download-icon](/papers/2020-moleco-pdc-black-queen.pdf) Ndhlovu, A., Durand, P., and Ramsey, G. (2020) “Programmed cell death as a black queen in microbial communities” _Molecular Ecology_. [DOI: 10.1111/mec.15757](https://doi.org/10.1111/mec.15757)
+*   [download-icon](/papers/2021-moleco-pdc-black-queen.pdf) Ndhlovu, A., Durand, P., and Ramsey, G. (2021) “Programmed cell death as a black queen in microbial communities” _Molecular Ecology_ 30: 1110-1119. [DOI: 10.1111/mec.15757](https://doi.org/10.1111/mec.15757)
 *   [download-icon](/papers/2019-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2019) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
 *   [download-icon](/papers/2018-bt-pcd.pdf) Durand, P. and Ramsey, G. (2019) “The nature of programmed cell death” _Biological Theory_ 14: 30–41. [DOI: 10.1007/s13752-018-0311-0](https://doi.org/10.1007/s13752-018-0311-0)
 *   [download-icon](/papers/2015-ajp-causal-structure.pdf) Ramsey, G. (2016) "The causal structure of evolutionary theory" _Australasian Journal of Philosophy_ 94: 421-434. [DOI: 10.1080/00048402.2015.1111398](http://dx.doi.org/10.1080/00048402.2015.1111398)
@@ -52,6 +52,9 @@ Central questions in this project are: What is human nature? Can human nature be
 
 ## Related publications:
 
+*   Ramsey, G. (expected 2022) _Human Nature._ Cambridge University Press.
+*   Desmond, H. and Ramsey, G.  (2022)  _Human Success: Evolutionary Origins and Ethical Implications._  Oxford University Press.
+*   Desmond, H. and Ramsey, G. (2022) “Generalized Evolutionary Success and Human Evolution: An Overview” in H. Desmond and G. Ramsey (eds.) _Human Success: Evolutionary Origins and Ethical Implications_, Oxford University Press.
 *   [download-icon](/papers/2018-oup-human-nature.pdf) Ramsey, G. (2018) "Trait bin and triat cluster accounts of human nature" In: E. Hannon and T. Lewens (eds.) _Why We Disagree about Human Nature._ Oxford University Press. [DOI:10.1093/oso/9780198823650.001.0001](http://www.oxfordscholarship.com/view/10.1093/oso/9780198823650.001.0001/oso-9780198823650)
 *   [download-icon](/papers/2017-human_nature_for.pdf)Ramsey, G. (2017) "What is human nature for?" In: A. Fuentes and A. Visala (ed.) _Verbs, Bones and Brains: Interdisciplinary Perspectives on Human Nature,_ Notre Dame: University of Notre Dame Press, 217-230.
 *   [download-icon](/papers/2013-ps-human-nature.pdf)Ramsey, G. (2013) "Human nature in a post-essentialist world." _Philosophy of Science_ 80: 983-993. [DOI: 10.1086/673902.](http://dx.doi.org/10.1086/673902)
@@ -64,6 +67,7 @@ Central questions in this project are: What distinguishes the moral emotions fro
 
 ## Related publications:
 
+*   [download-icon](/papers/2022-ps-empathy-guilt.pdf) Ramsey, G. and Deem, M. (in press) “Empathy and the evolutionary emergence of guilt” _Philosophy of Science_.
 *   [download-icon](/papers/2016-philpsy-guilt-by-association.pdf) Deem, M. and Ramsey, G. (2016) "Guilt by association?" _Philosophical Psychology_ 29(4): 570-585. [DOI: 10.1080/09515089.2015.1126706](http://dx.doi.org/10.1080/09515089.2015.1126706)
 *   [download-icon](/papers/2016-er-evo-puzzle-of-guilt.pdf) Deem, M. and G. Ramsey (2016) "The Evolutionary Puzzle of Guilt: Individual or Group Selection?" _Emotion Researcher, ISRE’s Sourcebook for Research on Emotion and Affect_, Andrea Scarantino (ed.), <http://emotionresearcher.com/the-evolutionary-puzzle-of-guilt-individual-or-group-selection/>
 
@@ -77,15 +81,17 @@ Central questions in this project are: How can data be used to make causal infer
 *   [download-icon](/papers/2019-Nous-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2019) “Causal inference from noise” _Noûs_. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
 
 
-# The evoText project
+# Computational Frontiers in History and Philosophy of Science
 
-Charles Pence and I are constructing a tool for the automated text mining and analysis of the evolutionary biology journal articles. The central question in this project is: What insight can we gain about the nature and history of evolutionary biology by applying text analysis tools from the digital humanities to the evolutionary biology literature?
+The central question in this project is: What insight can we gain about the nature and history of science by applying text analysis tools from the digital humanities to the scientific literature? 
 
 ## Website:
 
 *   The evoText website <http://www.evotext.org/> is still in beta.  Over the coming months, we plan to implement more analysis tools and add more journal articles. Click [here](/ndworks.pdf) to read an article about evoText. This work is supported by [National Science Foundation Scholars Award #1456573](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1456573&HistoricalAwards=false).
 
 ## Related publications:
+*   Ramsey, G. and De Block, A.  (2022)  _The Dynamics of Science: Computational Frontiers in History and Philosophy of Science._ University of Pittsburgh Press.
+*   De Block, A. and Ramsey, G. (2022) “Tools, tests, and data: An overview of the new history and philosophy of science” in G. Ramsey and A. De Block (eds.) _The Dynamics of Science: Computational Frontiers in History and Philosophy of Science_, University of Pittsburgh Press.
 *   [download-icon](/papers/2018-ps-digital-hps.pdf) Pence, C. and Ramsey, G. (2018) “How to do digital philosophy of science” _Philosophy of Science_ 58: 930-941. [DOI: 10.1086/699697](https://doi.org/10.1086/699697).
 *   [download-icon](/papers/2016-shpbbs-evotext.pdf) Ramsey, G. and Pence, C. H. (2016) "evoText: A new tool for analyzing the biological sciences." _Studies in History and Philosophy of Biological and Biomedical Sciences_ 57: 83-87. [DOI: 10.1016/j.shpsc.2016.04.003](http://dx.doi.org/10.1016/j.shpsc.2016.04.003)
 
