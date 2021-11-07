@@ -65,7 +65,7 @@ unique: people
 2.  ![](people/deem.jpg)
     : **Michael Deem**
     
-      <http://mjdeem.weebly.com>
+      <https://publichealth.pitt.edu/home/directory/michael-j-deem>
 
       Dissertation: _Norms and Nature: Engagements between Ethics and the Biological Sciences_
 
@@ -137,7 +137,7 @@ unique: people
 2.  ![](people/brandon.jpg)
     : **Robert Brandon**
 
-      <https://philosophy.duke.edu/people/robert-n-brandon>
+      <https://scholars.duke.edu/person/rbrandon>
 
       Lab publications:
 
@@ -177,7 +177,7 @@ unique: people
 5.  ![](people/durand.jpg)
     : **Pierre Durand**
 
-	   <https://www.wits.ac.za/ecl/lab-members/>
+	   <https://www.pierremdurand.com>
 
 	   Lab publications:
 
@@ -256,7 +256,6 @@ unique: people
 6.  ![](people/wirth.jpg)
     : **Michelle Wirth**
 
-      <http://www3.nd.edu/~streslab/>
 
       Lab publications:
 
