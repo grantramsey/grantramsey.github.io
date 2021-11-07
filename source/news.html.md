@@ -6,7 +6,7 @@ unique: news
 # Announcements
 
 
-*   The Ramsey Lab was recently awarded 366,000 euros for the project [Plant Agency: Inferring Mental Capacities from Plant Behavior] (https://www.kuleuven.be/onderzoek/portaal/#/projecten/3H210282)
+*   The Ramsey Lab was recently awarded 366,000 euros for the project [Plant Agency: Inferring Mental Capacities from Plant Behavior](https://www.kuleuven.be/onderzoek/portaal/#/projecten/3H210282)
 
 *   Bendik Aaby was hired as a postdoc to work on the Plant Agency project.
 
