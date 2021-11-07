@@ -5,7 +5,14 @@ unique: news
 
 # Announcements
 
-*   Grant Ramsey and [Andreas De Block](https://hiw.kuleuven.be/claw/people/00002503) were awarded the [2017 Sir Karl Popper Essay Prize](https://academic.oup.com/bjps/pages/popper_prize) for their paper  ["Is cultural fitness hopelessly confused?"](/papers/2017-bjps-cultural-fitness.pdf).
+
+*   The Ramsey Lab was recently awarded 366,000 euros for the project [Plant Agency: Inferring Mental Capacities from Plant Behavior] (https://www.kuleuven.be/onderzoek/portaal/#/projecten/3H210282)
+
+*   Bendik Aaby was hired as a postdoc to work on the Plant Agency project.
+
+*   Gianmaria Dani joined the Ramsey Lab November 2021 to work on the Plant Agency project.
+
+
 
 # Upcoming talks
 
