@@ -99,7 +99,7 @@ The central question in this project is: What insight can we gain about the natu
 
 # The Evolution Working Group
 
-I run an interdisciplinary working group that discusses and critiques recent works on (or in some way related to) evolution.  We occasionally publish reviews of the books that we discuss.
+While at Notre Dame, I ran an interdisciplinary working group that discussed and critiqued recent works on (or in some way related to) evolution.  We occasionally published reviews of the books that we discussed.
 
 ## Related publications:
 
