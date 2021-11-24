@@ -39,8 +39,8 @@ unique: people
 # Current graduate students
 
 
-1.  ![](people/gordillo-garcia.jpg)
-    : **Alejandro Gordillo-García**
+1.  ![](people/dani.jpg)
+    : **Gianmaria Dani**
     
 
       Dissertation: TBA
@@ -49,6 +49,16 @@ unique: people
 
 	  *   _Coming soon._
 
+2.  ![](people/gordillo-garcia.jpg)
+    : **Alejandro Gordillo-García**
+    
+
+      Dissertation: TBA
+	  
+      Lab publications:
+
+	  *   _Coming soon._
+	  
 # Alumni
 
 1.  ![](people/desautels.jpg)
