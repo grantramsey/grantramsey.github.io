@@ -17,17 +17,19 @@ unique: news
 # Upcoming talks
 
 
-*   “What are the 'levels' in levels of selection?” _Submitted conference talk_ (with Markus Eronen). Meeting of the Philosophy of Science Association, Baltimore, Maryland, November 14, 2021
+*   “What are the 'levels' in levels of selection?” _Submitted conference talk_ (with James DiFrisco). Meeting of the Philosophy of Science Association, Pittsburgh, PA, November 12, 2022
 
 
 
 # Hot off the press
 
 
-*   [download-icon](/papers/2022-ps-empathy-guilt.pdf) Ramsey, G. and Deem, M. (in press) “Empathy and the evolutionary emergence of guilt” _Philosophy of Science_.
-*   [download-icon](/papers/2021-moleco-pdc-black-queen.pdf) Ndhlovu, A., Durand, P., and Ramsey, G. (2021) “Programmed cell death as a black queen in microbial communities” _Molecular Ecology_ 30: 1110-1119. [DOI: 10.1111/mec.15757](https://doi.org/10.1111/mec.15757)
-*   [download-icon](/papers/2021-nous-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2021) “Causal inference from noise” _Noûs_ 55: 152–170. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
-
+*   DiFrisco, J. and Ramsey, G. (accepted). “Adaptationism and trait individuation” _Philosophy of Science_.
+*   [download-icon](/papers/2022-bjps-levels-of-selection.pdf) Eronen, M. I. and Ramsey, G. (in press) “What are the 'levels' in levels of selection?” _The British Journal for the Philosophy of Science_.
+*   Desmond, H. and Ramsey, G. (2023) “The Manifold Challenges to Understanding Human Success” in H. Desmond and G. Ramsey (eds.) _Human Success: Evolutionary Origins and Ethical Implications_, Oxford University Press.
+*   [download-icon](/papers/2022-bp-proximate-ultimate-distinction.pdf) Ramsey, G. and Aaby, B. (2022). “The proximate-ultimate distinction and the active role of the organism in evolution” _Biology & Philosophy_ 37: 31.
+*   [download-icon](/papers/2022-ps-empathy-guilt.pdf) Ramsey, G. and Deem, M. (2022) “Empathy and the evolutionary emergence of guilt” _Philosophy of Science_89(3): 434-453.
+*   De Block, A. and Ramsey, G. (2022) “Tools, tests, and data: An overview of the new history and philosophy of science” in G. Ramsey and A. De Block (eds.) _The Dynamics of Science: Computational Frontiers in History and Philosophy of Science_, University of Pittsburgh Press.
 
 
 

@@ -21,6 +21,7 @@ unique: people
       Lab publications:
 
 	  *   [download-icon](/papers/2019-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2019) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
+	  *   [download-icon](/papers/2022-bp-proximate-ultimate-distinction.pdf) Ramsey, G. and Aaby, B. (2022). “The proximate-ultimate distinction and the active role of the organism in evolution” _Biology & Philosophy_ 37: 31.
 	  
 	  
 2.  ![](people/difrisco.jpg)
@@ -32,7 +33,7 @@ unique: people
 	  
 	   Lab publications:
 
-	  *   _Coming soon._
+	  *   DiFrisco, J. and Ramsey, G. (accepted). “Adaptationism and trait individuation” _Philosophy of Science_.
 	  
 	  
 	  

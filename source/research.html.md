@@ -10,10 +10,11 @@ Central questions in this project are: What is the nature of key concepts in evo
 
 ## Related publications:
 
-
+*   [download-icon](/papers/2022-bp-proximate-ultimate-distinction.pdf) Ramsey, G. and Aaby, B. (2022). “The proximate-ultimate distinction and the active role of the organism in evolution” _Biology & Philosophy_ 37: 31.
+*   DiFrisco, J. and Ramsey, G. (accepted). “Adaptationism and trait individuation” _Philosophy of Science_.
 *   [download-icon](/papers/2022-bjps-levels-of-selection.pdf) Eronen, M. I. and Ramsey, G. (in press) “What are the 'levels' in levels of selection?” _The British Journal for the Philosophy of Science_.
 *   [download-icon](/papers/2021-moleco-pdc-black-queen.pdf) Ndhlovu, A., Durand, P., and Ramsey, G. (2021) “Programmed cell death as a black queen in microbial communities” _Molecular Ecology_ 30: 1110-1119. [DOI: 10.1111/mec.15757](https://doi.org/10.1111/mec.15757)
-*   [download-icon](/papers/2019-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2019) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
+*   [download-icon](/papers/2019-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2022) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_ 73(2): 351-372. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
 *   [download-icon](/papers/2018-bt-pcd.pdf) Durand, P. and Ramsey, G. (2019) “The nature of programmed cell death” _Biological Theory_ 14: 30–41. [DOI: 10.1007/s13752-018-0311-0](https://doi.org/10.1007/s13752-018-0311-0)
 *   [download-icon](/papers/2015-ajp-causal-structure.pdf) Ramsey, G. (2016) "The causal structure of evolutionary theory" _Australasian Journal of Philosophy_ 94: 421-434. [DOI: 10.1080/00048402.2015.1111398](http://dx.doi.org/10.1080/00048402.2015.1111398)
 *   Ramsey, G. and Pence, C. H.  (2016)  _Chance in Evolution._  Chicago: University of Chicago Press. For more information, visit the [University of Chicago Press website](http://press.uchicago.edu/ucp/books/book/chicago/C/bo24550500.html) or purchase it via [Amazon](https://www.amazon.com/Chance-Evolution-Grant-Ramsey/dp/022640188X).
@@ -54,8 +55,8 @@ Central questions in this project are: What is human nature? Can human nature be
 ## Related publications:
 
 *   Ramsey, G. (expected 2022) _Human Nature._ Cambridge University Press.
-*   Desmond, H. and Ramsey, G.  (2022)  _Human Success: Evolutionary Origins and Ethical Implications._  Oxford University Press.
-*   Desmond, H. and Ramsey, G. (2022) “The Manifold Challenges to Understanding Human Success” in H. Desmond and G. Ramsey (eds.) _Human Success: Evolutionary Origins and Ethical Implications_, Oxford University Press.
+*   Desmond, H. and Ramsey, G.  (2023)  _Human Success: Evolutionary Origins and Ethical Implications._  Oxford University Press.
+*   Desmond, H. and Ramsey, G. (2023) “The Manifold Challenges to Understanding Human Success” in H. Desmond and G. Ramsey (eds.) _Human Success: Evolutionary Origins and Ethical Implications_, Oxford University Press.
 *   [download-icon](/papers/2018-oup-human-nature.pdf) Ramsey, G. (2018) "Trait bin and triat cluster accounts of human nature" In: E. Hannon and T. Lewens (eds.) _Why We Disagree about Human Nature._ Oxford University Press. [DOI:10.1093/oso/9780198823650.001.0001](http://www.oxfordscholarship.com/view/10.1093/oso/9780198823650.001.0001/oso-9780198823650)
 *   [download-icon](/papers/2017-human_nature_for.pdf)Ramsey, G. (2017) "What is human nature for?" In: A. Fuentes and A. Visala (ed.) _Verbs, Bones and Brains: Interdisciplinary Perspectives on Human Nature,_ Notre Dame: University of Notre Dame Press, 217-230.
 *   [download-icon](/papers/2013-ps-human-nature.pdf)Ramsey, G. (2013) "Human nature in a post-essentialist world." _Philosophy of Science_ 80: 983-993. [DOI: 10.1086/673902.](http://dx.doi.org/10.1086/673902)
@@ -68,7 +69,7 @@ Central questions in this project are: What distinguishes the moral emotions fro
 
 ## Related publications:
 
-*   [download-icon](/papers/2022-ps-empathy-guilt.pdf) Ramsey, G. and Deem, M. (in press) “Empathy and the evolutionary emergence of guilt” _Philosophy of Science_.
+*   [download-icon](/papers/2022-ps-empathy-guilt.pdf) Ramsey, G. and Deem, M. (2022) “Empathy and the evolutionary emergence of guilt” _Philosophy of Science_89(3): 434-453.
 *   [download-icon](/papers/2016-philpsy-guilt-by-association.pdf) Deem, M. and Ramsey, G. (2016) "Guilt by association?" _Philosophical Psychology_ 29(4): 570-585. [DOI: 10.1080/09515089.2015.1126706](http://dx.doi.org/10.1080/09515089.2015.1126706)
 *   [download-icon](/papers/2016-er-evo-puzzle-of-guilt.pdf) Deem, M. and G. Ramsey (2016) "The Evolutionary Puzzle of Guilt: Individual or Group Selection?" _Emotion Researcher, ISRE’s Sourcebook for Research on Emotion and Affect_, Andrea Scarantino (ed.), <http://emotionresearcher.com/the-evolutionary-puzzle-of-guilt-individual-or-group-selection/>
 
