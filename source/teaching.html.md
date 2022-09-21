@@ -5,7 +5,7 @@ unique: teaching
 
 # Current courses
 
-*   Epistemology and Philosophy of Science (Spring 2022)
+*   Epistemology and Philosophy of Science (Spring 2023)
 
 
 # Past courses
