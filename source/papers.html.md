@@ -11,8 +11,8 @@ unique: papers
 
 # Books (as editor)
 
-*   Ramsey, G. and De Block, A.  (2022)  _The Dynamics of Science: Computational Frontiers in History and Philosophy of Science._ University of Pittsburgh Press.
 *   Desmond, H. and Ramsey, G.  (2023)  _Human Success: Evolutionary Origins and Ethical Implications._  Oxford University Press.
+*   Ramsey, G. and De Block, A.  (2022)  _The Dynamics of Science: Computational Frontiers in History and Philosophy of Science._ University of Pittsburgh Press.
 *   Ramsey, G. and Pence, C. H.  (2016)  _Chance in Evolution._  University of Chicago Press. For more information, visit the [University of Chicago Press website](http://press.uchicago.edu/ucp/books/book/chicago/C/bo24550500.html) or purchase it via [Amazon](https://www.amazon.com/Chance-Evolution-Grant-Ramsey/dp/022640188X).
 
 
@@ -22,7 +22,7 @@ unique: papers
 *   [download-icon](/papers/2022-bjps-levels-of-selection.pdf) Eronen, M. I. and Ramsey, G. (in press) “What are the 'levels' in levels of selection?” _The British Journal for the Philosophy of Science_.
 *   Desmond, H. and Ramsey, G. (2023) “The Manifold Challenges to Understanding Human Success” in H. Desmond and G. Ramsey (eds.) _Human Success: Evolutionary Origins and Ethical Implications_, Oxford University Press.
 *   [download-icon](/papers/2022-bp-proximate-ultimate-distinction.pdf) Ramsey, G. and Aaby, B. (2022). “The proximate-ultimate distinction and the active role of the organism in evolution” _Biology & Philosophy_ 37: 31.
-*   [download-icon](/papers/2022-ps-empathy-guilt.pdf) Ramsey, G. and Deem, M. (2022) “Empathy and the evolutionary emergence of guilt” _Philosophy of Science_89(3): 434-453.
+*   [download-icon](/papers/2022-ps-empathy-guilt.pdf) Ramsey, G. and Deem, M. (2022) “Empathy and the evolutionary emergence of guilt” _Philosophy of Science_ 89(3): 434-453.
 *   [download-icon](/papers/2019-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2022) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_ 73(2): 351-372. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
 *   De Block, A. and Ramsey, G. (2022) “Tools, tests, and data: An overview of the new history and philosophy of science” in G. Ramsey and A. De Block (eds.) _The Dynamics of Science: Computational Frontiers in History and Philosophy of Science_, University of Pittsburgh Press.
 *   [download-icon](/papers/2021-moleco-pdc-black-queen.pdf) Ndhlovu, A., Durand, P., and Ramsey, G. (2021) “Programmed cell death as a black queen in microbial communities” _Molecular Ecology_ 30: 1110-1119. [DOI: 10.1111/mec.15757](https://doi.org/10.1111/mec.15757)

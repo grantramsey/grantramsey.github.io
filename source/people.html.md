@@ -20,7 +20,7 @@ unique: people
 	  
       Lab publications:
 
-	  *   [download-icon](/papers/2019-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2019) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
+	  *   [download-icon](/papers/2019-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2022) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_ 73(2): 351-372. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
 	  *   [download-icon](/papers/2022-bp-proximate-ultimate-distinction.pdf) Ramsey, G. and Aaby, B. (2022). “The proximate-ultimate distinction and the active role of the organism in evolution” _Biology & Philosophy_ 37: 31.
 	  
 	  
@@ -36,6 +36,16 @@ unique: people
 	  *   DiFrisco, J. and Ramsey, G. (accepted). “Adaptationism and trait individuation” _Philosophy of Science_.
 	  
 	  
+3.  ![](people/meneganzin.jpg)
+	  	: **Andra Meneganzin**
+    
+	  	   <http://kuleuven.academia.edu/JamesDiFrisco>
+
+	  	   Dissertation: _The Dawning of Man. Interrogating Modern Human Origins from an Evolutionary Perspective_
+	  
+	  	   Lab publications:
+
+	  	  *   _Coming soon._
 	  
 # Current graduate students
 
@@ -71,7 +81,7 @@ unique: people
 	  
       Lab publications:
 
-	  *   [download-icon](/papers/2019-nous-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2019) “Causal inference from noise” _Noûs_. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
+	  *   [download-icon](/papers/2019-nous-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2021) “Causal inference from noise” _Noûs_ 55: 152–170. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
 	  
 2.  ![](people/deem.jpg)
     : **Michael Deem**
@@ -84,7 +94,7 @@ unique: people
 
 	  *   [download-icon](/papers/2016-philpsy-guilt-by-association.pdf) Deem, M. and Ramsey, G. (2016) "Guilt by association?" _Philosophical Psychology_ 29(4): 570-585. [DOI: 10.1080/09515089.2015.1126706](http://dx.doi.org/10.1080/09515089.2015.1126706)
 	  *   [download-icon](/papers/2016-er-evo-puzzle-of-guilt.pdf) Deem, M. and G. Ramsey (2016) "The Evolutionary Puzzle of Guilt: Individual or Group Selection?" _Emotion Researcher, ISRE’s Sourcebook for Research on Emotion and Affect_, Andrea Scarantino (ed.), <http://emotionresearcher.com/the-evolutionary-puzzle-of-guilt-individual-or-group-selection/>
-	  *   [download-icon](/papers/2022-ps-empathy-guilt.pdf) Ramsey, G. and M. Deem (forthcoming) "Empathy and the evolutionary emergence of guilt" _Philosophy of Science_.
+	  *   [download-icon](/papers/2022-ps-empathy-guilt.pdf) Ramsey, G. and M. Deem (2022) "Empathy and the evolutionary emergence of guilt" _Philosophy of Science_ 89(3): 434-453.
 	  
 	  
 3.  ![](people/desmond.jpg)
@@ -162,7 +172,7 @@ unique: people
 
        Lab publications:
 
-	   *   [download-icon](/papers/2019-nous-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2019) “Causal inference from noise” _Noûs_. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
+	   *   [download-icon](/papers/2019-nous-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2021) “Causal inference from noise” _Noûs_ 55: 152–170. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
 
  3.  ![](people/cobb.jpg)
      : **Alexander Cobb**
