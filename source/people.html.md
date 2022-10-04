@@ -34,22 +34,20 @@ unique: people
 	   Lab publications:
 
 	  *   DiFrisco, J. and Ramsey, G. (accepted). “Adaptationism and trait individuation” _Philosophy of Science_.
-	  *   DiFrisco, J. and Ramsey, G. (accepted). “Adaptationism and trait individuation” _Philosophy of Science_.
 	  
 	  
-	  
-	  
-3.  ![](people/meneganzin.jpg)
-	  	: **Andra Meneganzin**
+2.  ![](people/meneganzin.jpg)
+	  	: **James DiFrisco**
     
 	  	   <http://kuleuven.academia.edu/JamesDiFrisco>
 
-	  	   Dissertation: _The Dawning of Man. Interrogating Modern Human Origins from an Evolutionary Perspective_
+	  	   Dissertation: The Dawning of Man. Interrogating Modern Human Origins from an Evolutionary Perspective_
 	  
 	  	   Lab publications:
 
 	  	  *   _Coming soon._
 	  
+	  	  
 	  
 
 
