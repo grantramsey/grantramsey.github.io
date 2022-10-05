@@ -27,7 +27,7 @@ unique: people
 2.  ![](people/difrisco.jpg)
 	: **James DiFrisco**
     
-	   <http://kuleuven.academia.edu/JamesDiFrisco>
+	   <http://kuleuven.academia.edu/JamesDiFrisco> https://www.researchgate.net/profile/Andra-Meneganzin-2
 
 	   Dissertation: _Process and Levels of Organization_, codirected by [Roland Breeur](https://www.kuleuven.be/wieiswie/en/person/00010879) and [Andreas De Block](http://www.kuleuven.be/wieiswie/en/person/00002503).
 	  
@@ -39,6 +39,8 @@ unique: people
 3.  ![](people/meneganzin.jpg)
 	: **Andra Meneganzin**
     
+	   <https://www.researchgate.net/profile/Andra-Meneganzin-2>
+	
 	   Dissertation: _The Dawning of Man: Interrogating Modern Human Origins from an Evolutionary Perspective_
 	  
 	   Lab publications:
