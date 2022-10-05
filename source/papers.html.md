@@ -14,17 +14,17 @@ unique: papers
 # Books (as editor)
 
 *   Desmond, H. and Ramsey, G.  (2023)  _Human Success: Evolutionary Origins and Ethical Implications._  Oxford University Press.
-*   Ramsey, G. and De Block, A.  (2022)  _The Dynamics of Science: Computational Frontiers in History and Philosophy of Science._ University of Pittsburgh Press.
+*   Ramsey, G. and De Block, A.  (2022)  _The Dynamics of Science: Computational Frontiers in History and Philosophy of Science._ University of Pittsburgh Press. For more information, visit the [University of Pittsburgh Press website](https://upittpress.org/books/9780822947370/) or purchase it via [Amazon](https://www.amazon.com/Dynamics-Science-Computational-Frontiers-Philosophy/dp/0822947374/ref=sr_1_1?crid=1UBNMDXIGMFQF&keywords=the+dynamics+of+science+ramsey&qid=1664952106&qu=eyJxc2MiOiIwLjczIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=the+dynamics+of+science+ramsey%2Caps%2C136&sr=8-1).
 *   Ramsey, G. and Pence, C. H.  (2016)  _Chance in Evolution._  University of Chicago Press. For more information, visit the [University of Chicago Press website](http://press.uchicago.edu/ucp/books/book/chicago/C/bo24550500.html) or purchase it via [Amazon](https://www.amazon.com/Chance-Evolution-Grant-Ramsey/dp/022640188X).
 
 
 # Articles and book chapters
 
-*   DiFrisco, J. and Ramsey, G. (accepted). “Adaptationism and trait individuation” _Philosophy of Science_.
+*   DiFrisco, J. and Ramsey, G. (in press). “Adaptationism and trait individuation” _Philosophy of Science_.
 *   [download-icon](/papers/2022-bjps-levels-of-selection.pdf) Eronen, M. I. and Ramsey, G. (in press) “What are the 'levels' in levels of selection?” _The British Journal for the Philosophy of Science_.
 *   Desmond, H. and Ramsey, G. (2023) “The Manifold Challenges to Understanding Human Success” in H. Desmond and G. Ramsey (eds.) _Human Success: Evolutionary Origins and Ethical Implications_, Oxford University Press.
-*   [download-icon](/papers/2022-bp-proximate-ultimate-distinction.pdf) Ramsey, G. and Aaby, B. (2022). “The proximate-ultimate distinction and the active role of the organism in evolution” _Biology & Philosophy_ 37: 31.
-*   [download-icon](/papers/2022-ps-empathy-guilt.pdf) Ramsey, G. and Deem, M. (2022) “Empathy and the evolutionary emergence of guilt” _Philosophy of Science_ 89(3): 434-453.
+*   [download-icon](/papers/2022-bp-proximate-ultimate-distinction.pdf) Ramsey, G. and Aaby, B. (2022). “The proximate-ultimate distinction and the active role of the organism in evolution” _Biology & Philosophy_ 37: 31. [DOI: 10.1007/s10539-022-09863-0](https://doi.org/10.1007/s10539-022-09863-0)
+*   [download-icon](/papers/2022-ps-empathy-guilt.pdf) Ramsey, G. and Deem, M. (2022) “Empathy and the evolutionary emergence of guilt” _Philosophy of Science_ 89(3): 434-453. [DOI: 10.1017/psa.2021.36](https://doi.org/10.1017/psa.2021.36)
 *   [download-icon](/papers/2019-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2022) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_ 73(2): 351-372. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
 *   De Block, A. and Ramsey, G. (2022) “Tools, tests, and data: An overview of the new history and philosophy of science” in G. Ramsey and A. De Block (eds.) _The Dynamics of Science: Computational Frontiers in History and Philosophy of Science_, University of Pittsburgh Press.
 *   [download-icon](/papers/2021-moleco-pdc-black-queen.pdf) Ndhlovu, A., Durand, P., and Ramsey, G. (2021) “Programmed cell death as a black queen in microbial communities” _Molecular Ecology_ 30: 1110-1119. [DOI: 10.1111/mec.15757](https://doi.org/10.1111/mec.15757)

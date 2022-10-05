@@ -33,7 +33,7 @@ unique: people
 	  
 	   Lab publications:
 
-	  *   DiFrisco, J. and Ramsey, G. (accepted). “Adaptationism and trait individuation” _Philosophy of Science_.
+	  *   DiFrisco, J. and Ramsey, G. (in press). “Adaptationism and trait individuation” _Philosophy of Science_.
 	  
 	  
 3.  ![](people/meneganzin.jpg)
