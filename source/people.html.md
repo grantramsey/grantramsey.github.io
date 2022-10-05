@@ -39,7 +39,7 @@ unique: people
 3.  ![](people/meneganzin.jpg)
 	: **Andra Meneganzin**
     
-	   Dissertation: The Dawning of Man. Interrogating Modern Human Origins from an Evolutionary Perspective_
+	   Dissertation: _The Dawning of Man: Interrogating Modern Human Origins from an Evolutionary Perspective_
 	  
 	   Lab publications:
 
@@ -94,9 +94,10 @@ unique: people
 
       Lab publications:
 
+	  *   [download-icon](/papers/2022-ps-empathy-guilt.pdf) Ramsey, G. and M. Deem (2022) "Empathy and the evolutionary emergence of guilt" _Philosophy of Science_ 89(3): 434-453.
 	  *   [download-icon](/papers/2016-philpsy-guilt-by-association.pdf) Deem, M. and Ramsey, G. (2016) "Guilt by association?" _Philosophical Psychology_ 29(4): 570-585. [DOI: 10.1080/09515089.2015.1126706](http://dx.doi.org/10.1080/09515089.2015.1126706)
 	  *   [download-icon](/papers/2016-er-evo-puzzle-of-guilt.pdf) Deem, M. and G. Ramsey (2016) "The Evolutionary Puzzle of Guilt: Individual or Group Selection?" _Emotion Researcher, ISRE’s Sourcebook for Research on Emotion and Affect_, Andrea Scarantino (ed.), <http://emotionresearcher.com/the-evolutionary-puzzle-of-guilt-individual-or-group-selection/>
-	  *   [download-icon](/papers/2022-ps-empathy-guilt.pdf) Ramsey, G. and M. Deem (2022) "Empathy and the evolutionary emergence of guilt" _Philosophy of Science_ 89(3): 434-453.
+	
 	  
 	  
 3.  ![](people/desmond.jpg)
@@ -192,9 +193,10 @@ unique: people
 
       Lab publications:
 
+	  *   Ramsey, G. and A. De Block (2022) _The Dynamics of Science: Computational Frontiers in History and Philosophy of Science_ Oxford University Press.
 	  *   [download-icon](/papers/2015-bjps-cultural-fitness-advance-access.pdf) Ramsey, G. and De Block, A. (2017) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_. [DOI: 10.1093/bjps/axv047](http://dx.doi.org/10.1093/bjps/axv047)
 	  *   [download-icon](/papers/2016-topoi-organism-centered.pdf) De Block, A. and Ramsey, G. (2016) "The organism-centered approach to cultural evolution." _Topoi_ 35: 283-290. [DOI: 10.1007/s11245-014-9283-2](http://dx.doi.org/10.1007/s11245-014-9283-2)
-	  *   Ramsey, G. and A. De Block (2022) _The Dynamics of Science: Computational Frontiers in History and Philosophy of Science_ Oxford University Press.
+
 	  
 	  
 5.  ![](people/durand.jpg)
@@ -204,7 +206,7 @@ unique: people
 
 	   Lab publications:
 
-	   *   [download-icon](/papers/2020-moleco-pdc-black-queen.pdf) Ndhlovu, A., Durand, P., and Ramsey, G. (2020) “Programmed cell death as a black queen in microbial communities” _Molecular Ecology_. [DOI: 10.1111/mec.15757](https://doi.org/10.1111/mec.15757)
+	   *   [download-icon](/papers/2020-moleco-pdc-black-queen.pdf) Ndhlovu, A., Durand, P., and Ramsey, G. (2021) “Programmed cell death as a black queen in microbial communities” _Molecular Ecology_ 30: 1110-1119. [DOI: 10.1111/mec.15757](https://doi.org/10.1111/mec.15757)
 	   *   [download-icon](/papers/2018-bt-pcd.pdf) Durand, P. and Ramsey, G. (2018) “The nature of programmed cell death” _Biological Theory_. [DOI: 10.1007/s13752-018-0311-0](https://doi.org/10.1007/s13752-018-0311-0)
 	   
 	  
