@@ -5,12 +5,15 @@ unique: news
 
 # Announcements
 
+*   In 2022, the Ramsey Lab was awarded 307,400 euro from the _Fonds voor Wetenschappelijk Onderzoek__ for project “Biological trait identity: modularity, levels, and adaptation”
 
-*   In 2021, the Ramsey Lab was recently awarded 366,000 euros for the project [Plant Agency: Inferring Mental Capacities from Plant Behavior](https://www.kuleuven.be/onderzoek/portaal/#/projecten/3H210282)
+*   In 2021, the Ramsey Lab was awarded 366,000 euro for the project [Plant Agency: Inferring Mental Capacities from Plant Behavior](https://www.kuleuven.be/onderzoek/portaal/#/projecten/3H210282)
 
-*   Bendik Aaby was hired as a postdoc starting October 2021 to work on the Plant Agency project.
+*   **Andra Meneganzin** was hired as a postdoc starting October 2021 to work on the Trait Identity project.
 
-*   Gianmaria Dani joined the Ramsey Lab in November 2021 to work on the Plant Agency project.
+*   **Bendik Aaby** was hired as a postdoc starting October 2021 to work on the Plant Agency project.
+
+*   **Gianmaria Dani** joined the Ramsey Lab in November 2021 to work on the Plant Agency project.
 
 
 
