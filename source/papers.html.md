@@ -8,6 +8,8 @@ unique: papers
 # Books (as author)
 
 *   Ramsey, G. (expected 2023) _Human Nature._ Cambridge University Press.
+*   Ramsey, G. and Durand, P. (under contract) _Death._ Cambridge University Press.
+
 
 # Books (as editor)
 
