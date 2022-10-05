@@ -5,7 +5,7 @@ unique: news
 
 # Announcements
 
-*   In 2022, the Ramsey Lab was awarded 307,400 euro from the _Fonds voor Wetenschappelijk Onderzoek__ for project “Biological trait identity: modularity, levels, and adaptation”
+*   In 2022, the Ramsey Lab was awarded 307,400 euro from the _Fonds voor Wetenschappelijk Onderzoek_ for project “Biological trait identity: modularity, levels, and adaptation”
 
 *   In 2021, the Ramsey Lab was awarded 366,000 euro for the project [Plant Agency: Inferring Mental Capacities from Plant Behavior](https://www.kuleuven.be/onderzoek/portaal/#/projecten/3H210282)
 
