@@ -9,7 +9,7 @@ unique: news
 
 *   In 2021, the Ramsey Lab was awarded 366,000 euro for the project [Plant Agency: Inferring Mental Capacities from Plant Behavior](https://www.kuleuven.be/onderzoek/portaal/#/projecten/3H210282)
 
-*   **Andra Meneganzin** was hired as a postdoc starting October 2021 to work on the Trait Identity project.
+*   **Andra Meneganzin** was hired as a postdoc starting September 2022 to work on the Trait Identity project.
 
 *   **Bendik Aaby** was hired as a postdoc starting October 2021 to work on the Plant Agency project.
 
