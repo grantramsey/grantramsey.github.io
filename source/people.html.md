@@ -88,7 +88,7 @@ unique: people
 	  
       Lab publications:
 
-	  *   [download-icon](/papers/2019-nous-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2021) “Causal inference from noise” _Noûs_ 55: 152–170. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
+	  *   [download-icon](/papers/2021-nous-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2021) “Causal inference from noise” _Noûs_ 55: 152–170. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
 	  
 3.  ![](people/desmond.jpg)
 	: **Hugh Desmond**
@@ -176,7 +176,7 @@ unique: people
 
        Lab publications:
 
-	   *   [download-icon](/papers/2019-nous-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2021) “Causal inference from noise” _Noûs_ 55: 152–170. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
+	   *   [download-icon](/papers/2021-nous-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2021) “Causal inference from noise” _Noûs_ 55: 152–170. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
 
  3.  ![](people/cobb.jpg)
      : **Alexander Cobb**
