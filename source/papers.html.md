@@ -14,7 +14,7 @@ unique: papers
 
 # Books (as editor)
 
-*   Desmond, H. and Ramsey, G.  (2023)  _Human Success: Evolutionary Origins and Ethical Implications._  Oxford University Press.
+*   Desmond, H. and Ramsey, G.  (2023)  _Human Success: Evolutionary Origins and Ethical Implications._  Oxford University Press. For more information, visit the [Oxford University Press website](https://global.oup.com/academic/product/human-success-9780190096168?cc=be&lang=en&) or purchase it via [Amazon](https://www.amazon.com/Human-Success-Evolutionary-Origins-Implications/dp/0190096160/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1679137920&sr=8-1).
 *   Ramsey, G. and De Block, A.  (2022)  _The Dynamics of Science: Computational Frontiers in History and Philosophy of Science._ University of Pittsburgh Press. For more information, visit the [University of Pittsburgh Press website](https://upittpress.org/books/9780822947370/) or purchase it via [Amazon](https://www.amazon.com/Dynamics-Science-Computational-Frontiers-Philosophy/dp/0822947374/ref=sr_1_1?crid=1UBNMDXIGMFQF&keywords=the+dynamics+of+science+ramsey&qid=1664952106&qu=eyJxc2MiOiIwLjczIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=the+dynamics+of+science+ramsey%2Caps%2C136&sr=8-1).
 *   Ramsey, G. and Pence, C. H.  (2016)  _Chance in Evolution._  University of Chicago Press. For more information, visit the [University of Chicago Press website](http://press.uchicago.edu/ucp/books/book/chicago/C/bo24550500.html) or purchase it via [Amazon](https://www.amazon.com/Chance-Evolution-Grant-Ramsey/dp/022640188X).
 

@@ -195,7 +195,7 @@ unique: people
       Lab publications:
 
 	  *   Ramsey, G. and A. De Block (2022) _The Dynamics of Science: Computational Frontiers in History and Philosophy of Science_. University of Pittsburgh Press.
-	  *   [download-icon](/papers/2015-bjps-cultural-fitness-advance-access.pdf) Ramsey, G. and De Block, A. (2017) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_. [DOI: 10.1093/bjps/axv047](http://dx.doi.org/10.1093/bjps/axv047)
+	  *   [download-icon](/papers/2017-bjps-cultural-fitness.pdf) Ramsey, G. and De Block, A. (2017) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_. [DOI: 10.1093/bjps/axv047](http://dx.doi.org/10.1093/bjps/axv047)
 	  *   [download-icon](/papers/2016-topoi-organism-centered.pdf) De Block, A. and Ramsey, G. (2016) "The organism-centered approach to cultural evolution." _Topoi_ 35: 283-290. [DOI: 10.1007/s11245-014-9283-2](http://dx.doi.org/10.1007/s11245-014-9283-2)
 
 	  
