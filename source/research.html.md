@@ -11,7 +11,7 @@ Central questions in this project are: What is the nature of key concepts in evo
 ## Related publications:
 
 
-*   DiFrisco, J. and Ramsey, G. (in press). “Adaptationism and trait individuation” _Philosophy of Science_.
+*   [download-icon](/papers/2023-ps-adaptationism-trait-individuation.pdf) DiFrisco, J. and Ramsey, G. (in press). “Adaptationism and trait individuation” _Philosophy of Science_. [DOI: 10.1017/psa.2023.28](https://doi.org/10.1017/psa.2023.28)
 *   [download-icon](/papers/2022-bjps-levels-of-selection.pdf) Eronen, M. I. and Ramsey, G. (in press) “What are the 'levels' in levels of selection?” _The British Journal for the Philosophy of Science_.
 *   [download-icon](/papers/2022-bp-proximate-ultimate-distinction.pdf) Ramsey, G. and Aaby, B. (2022). “The proximate-ultimate distinction and the active role of the organism in evolution” _Biology & Philosophy_ 37: 31. [DOI: 10.1007/s10539-022-09863-0](https://doi.org/10.1007/s10539-022-09863-0)
 *   [download-icon](/papers/2019-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2022) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_ 73(2): 351-372. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
