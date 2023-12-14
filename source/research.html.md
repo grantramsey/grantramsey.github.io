@@ -48,7 +48,7 @@ Central questions in this project are: How are concepts like culture, innovation
 
 # Death
 
-Central questions in this project are: WWhy do cells and the organisms they compose die when and how they do? Can death be an adaptation? What does it mean for death to be programmed?
+Central questions in this project are: Why do cells and the organisms they compose die when and how they do? Can death be an adaptation? What does it mean for death to be programmed?
 
 ## Related publications:
 
