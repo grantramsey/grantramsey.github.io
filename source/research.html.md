@@ -82,7 +82,7 @@ Central questions in this project are: What distinguishes the moral emotions fro
 
 ## Related publications:
 
-*   [download-icon](/papers/2022-ps-empathy-guilt.pdf) Ramsey, G. and Deem, M. (2022) “Empathy and the evolutionary emergence of guilt” _Philosophy of Science_89(3): 434-453. [DOI: 10.1017/psa.2021.36](https://doi.org/10.1017/psa.2021.36)
+*   [download-icon](/papers/2022-ps-empathy-guilt.pdf) Ramsey, G. and Deem, M. (2022) “Empathy and the evolutionary emergence of guilt” _Philosophy of Science_ 89(3): 434-453. [DOI: 10.1017/psa.2021.36](https://doi.org/10.1017/psa.2021.36)
 *   [download-icon](/papers/2016-philpsy-guilt-by-association.pdf) Deem, M. and Ramsey, G. (2016) "Guilt by association?" _Philosophical Psychology_ 29(4): 570-585. [DOI: 10.1080/09515089.2015.1126706](http://dx.doi.org/10.1080/09515089.2015.1126706)
 *   [download-icon](/papers/2016-er-evo-puzzle-of-guilt.pdf) Deem, M. and G. Ramsey (2016) "The Evolutionary Puzzle of Guilt: Individual or Group Selection?" _Emotion Researcher, ISRE’s Sourcebook for Research on Emotion and Affect_, Andrea Scarantino (ed.), <http://emotionresearcher.com/the-evolutionary-puzzle-of-guilt-individual-or-group-selection/>
 
@@ -93,7 +93,7 @@ Central questions in this project are: How can data be used to make causal infer
 
 ## Related publications:
 
-*   [download-icon](/papers/2019-Nous-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2021) “Causal inference from noise” _Noûs_ 55: 152–170. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
+*   [download-icon](/papers/2021-nous-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2021) “Causal inference from noise” _Noûs_ 55: 152–170. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
 
 
 # Computational Frontiers in History and Philosophy of Science
