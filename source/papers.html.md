@@ -7,7 +7,7 @@ unique: papers
 
 # Books (as author)
 
-*   Ramsey, G. (expected 2023) _Human Nature._ Cambridge University Press.
+*   Ramsey, G. (2023) _Human Nature._ Cambridge University Press. [Free to download here.](https://doi.org/10.1017/9781108685481)
 *   Ramsey, G. and Durand, P. (under contract) _Death and Taxa._ Cambridge University Press.
 *   Durand, P. and Ramsey, G. (under contract) _Evolution's End: Life, Death, and the Mortality Constraint._ Oxford University Press.
 
