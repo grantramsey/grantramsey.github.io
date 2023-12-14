@@ -13,6 +13,8 @@ Central questions in this project are: What is the nature of key concepts in evo
 
 *   [download-icon](/papers/2023-ps-adaptationism-trait-individuation.pdf) DiFrisco, J. and Ramsey, G. (in press). “Adaptationism and trait individuation” _Philosophy of Science_. [DOI: 10.1017/psa.2023.28](https://doi.org/10.1017/psa.2023.28)
 *   [download-icon](/papers/2022-bjps-levels-of-selection.pdf) Eronen, M. I. and Ramsey, G. (in press) “What are the 'levels' in levels of selection?” _The British Journal for the Philosophy of Science_.
+*   Ramsey, G. and Durand, P. (2023) “Cell Feath: What's Evolution Got to do With It?” _Yale Journal of Biology and Medicine_.
+*   [download-icon](/papers/2023-hpls-cell-mortality.pdf) Durand, P. and Ramsey, G. (2023) “The concpts and origins of cell mortality” _History and Philosophy of the Life Sciences_ 45:23. [DOI: 10.1007/s40656-023-00581-8](https://doi.org/10.1007/s40656-023-00581-8)
 *   [download-icon](/papers/2022-bp-proximate-ultimate-distinction.pdf) Ramsey, G. and Aaby, B. (2022). “The proximate-ultimate distinction and the active role of the organism in evolution” _Biology & Philosophy_ 37: 31. [DOI: 10.1007/s10539-022-09863-0](https://doi.org/10.1007/s10539-022-09863-0)
 *   [download-icon](/papers/2019-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2022) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_ 73(2): 351-372. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
 *   [download-icon](/papers/2021-moleco-pdc-black-queen.pdf) Ndhlovu, A., Durand, P., and Ramsey, G. (2021) “Programmed cell death as a black queen in microbial communities” _Molecular Ecology_ 30: 1110-1119. [DOI: 10.1111/mec.15757](https://doi.org/10.1111/mec.15757)
