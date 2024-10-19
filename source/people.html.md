@@ -15,9 +15,9 @@ unique: people
 1.  ![](people/fabregas-tejeda.jpg)
     : **Alejandro Fábregas-Tejeda**
     
-	   <https://www.researchgate.net/profile/Andra-Meneganzin-2>
+	   <https://www.alejandrofabregastejeda.com>
 	
-	   Dissertation: _The Dawning of Man: Interrogating Modern Human Origins from an Evolutionary Perspective_
+	   Dissertation: _The Organism-Environment Paring: A Historical and Philosophical Re-Appraisal_
 	  
 	   Lab publications:
 
