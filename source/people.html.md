@@ -17,7 +17,6 @@ unique: people
     
     <https://www.alejandrofabregastejeda.com>
 	
-
       Dissertation: _The Organism-Environment Paring: A Historical and Philosophical Re-Appraisal_
 	  
       Lab publications:
