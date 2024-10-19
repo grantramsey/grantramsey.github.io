@@ -12,16 +12,15 @@ unique: people
 
 # Postdocs
 
-1.  ![](people/aaby.jpg)
-    : **Bendik Aaby**
+1.  ![](people/fábregas-tejeda.jpg)
+    : **Alejandro Fábregas-Tejeda**
     
 
-      Dissertation: _Organism-Environment Interactions in Evolutionary Theory_
+      Dissertation: _The Organism-Environment Paring: A Historical and Philosophical Re-Appraisal_
 	  
       Lab publications:
 
-	  *   [download-icon](/papers/2019-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2022) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_ 73(2): 351-372. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
-	  *   [download-icon](/papers/2022-bp-proximate-ultimate-distinction.pdf) Ramsey, G. and Aaby, B. (2022). “The proximate-ultimate distinction and the active role of the organism in evolution” _Biology & Philosophy_ 37: 31. [DOI: 10.1007/s10539-022-09863-0](https://doi.org/10.1007/s10539-022-09863-0)
+	  *   _Coming soon._
 	  
 	  
 	  
@@ -53,20 +52,22 @@ unique: people
 
 	  *   _Coming soon._
 
-2.  ![](people/gordillo-garcia.jpg)
-    : **Alejandro Gordillo-García**
-    
 
-      Dissertation: TBA
-	  
-      Lab publications:
-
-	  *   _Coming soon._
-	  
 # Alumni
 
 
-1.  ![](people/deem.jpg)
+1.  ![](people/aaby.jpg)
+    : **Bendik Aaby**
+    
+
+      Dissertation: _Organism-Environment Interactions in Evolutionary Theory_
+	  
+      Lab publications:
+
+	  *   [download-icon](/papers/2019-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2022) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_ 73(2): 351-372. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
+	  *   [download-icon](/papers/2022-bp-proximate-ultimate-distinction.pdf) Ramsey, G. and Aaby, B. (2022). “The proximate-ultimate distinction and the active role of the organism in evolution” _Biology & Philosophy_ 37: 31. [DOI: 10.1007/s10539-022-09863-0](https://doi.org/10.1007/s10539-022-09863-0)
+	  
+2.  ![](people/deem.jpg)
     : **Michael Deem**
     
       <https://publichealth.pitt.edu/home/directory/michael-j-deem>
@@ -79,7 +80,7 @@ unique: people
 	  *   [download-icon](/papers/2016-philpsy-guilt-by-association.pdf) Deem, M. and Ramsey, G. (2016) "Guilt by association?" _Philosophical Psychology_ 29(4): 570-585. [DOI: 10.1080/09515089.2015.1126706](http://dx.doi.org/10.1080/09515089.2015.1126706)
 	  *   [download-icon](/papers/2016-er-evo-puzzle-of-guilt.pdf) Deem, M. and G. Ramsey (2016) "The Evolutionary Puzzle of Guilt: Individual or Group Selection?" _Emotion Researcher, ISRE’s Sourcebook for Research on Emotion and Affect_, Andrea Scarantino (ed.), <http://emotionresearcher.com/the-evolutionary-puzzle-of-guilt-individual-or-group-selection/>
 	
-2.  ![](people/desautels.jpg)
+3.  ![](people/desautels.jpg)
     : **Lane DesAutels**
     
       <http://lanedesautels.com/>
@@ -90,7 +91,7 @@ unique: people
 
 	  *   [download-icon](/papers/2021-nous-causal-inference.pdf) Climenhaga, N., DesAutels, L., and Ramsey, G. (2021) “Causal inference from noise” _Noûs_ 55: 152–170. [DOI: 10.1111/nous.12300](https://doi.org/10.1111/nous.12300)
 	  
-3.  ![](people/desmond.jpg)
+4.  ![](people/desmond.jpg)
 	: **Hugh Desmond**
 	  
 	  <http://hughdesmond.net/>
@@ -102,7 +103,7 @@ unique: people
 	  *   [download-icon](/papers/2017-oxford-bibliography-philosophy_of_biology.pdf) Ramsey, G. and Desmond, H. (2017) “[Philosophy of Biology](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0341.xml)” Oxford Bibliography.
 	  *   Desmond, H. and Ramsey, G. (2023) _Human Success: Evolutionary Origins and Ethichal Implications_. Oxford University Press.
 	  
-4.  ![](people/difrisco.jpg)
+5.  ![](people/difrisco.jpg)
 	: **James DiFrisco**
     
 	   <http://kuleuven.academia.edu/JamesDiFrisco> https://www.researchgate.net/profile/Andra-Meneganzin-2
@@ -113,7 +114,17 @@ unique: people
 
 	  *   DiFrisco, J. and Ramsey, G. (in press). “Adaptationism and trait individuation” _Philosophy of Science_.
 
-5.  ![](people/pence.jpg)
+6.  ![](people/gordillo-garcia.jpg)
+    : **Alejandro Gordillo-García**
+    
+
+      Dissertation: TBA
+	  
+      Lab publications:
+
+	  *   _Coming soon._
+	  
+7.  ![](people/pence.jpg)
     : **Charles Pence**
 
       <http://charlespence.net>
@@ -136,7 +147,7 @@ unique: people
       
       *   [The evoText Project](http://www.evotext.org)
 
-6.  ![](people/peterson.jpg)
+8.  ![](people/peterson.jpg)
     : **Anne Siebels Peterson**
 
       <http://philosophy.utah.edu/profile.php?unid=u0976731>
