@@ -15,6 +15,8 @@ unique: people
 1.  ![](people/fabregas-tejeda.jpg)
     : **Alejandro Fábregas-Tejeda**
     
+    <https://www.alejandrofabregastejeda.com>
+	
 
       Dissertation: _The Organism-Environment Paring: A Historical and Philosophical Re-Appraisal_
 	  
