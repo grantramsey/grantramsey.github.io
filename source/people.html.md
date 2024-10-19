@@ -12,7 +12,7 @@ unique: people
 
 # Postdocs
 
-1.  ![](people/fábregas-tejeda.jpg)
+1.  ![](people/fabregas-tejeda.jpg)
     : **Alejandro Fábregas-Tejeda**
     
 
