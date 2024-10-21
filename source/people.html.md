@@ -7,7 +7,7 @@ unique: people
 1.  ![](people/ramsey.jpg)
     : **Grant Ramsey**
       
-      I am a BOFZAP Research Professor in the [Institute of Philosophy](http://hiw.kuleuven.be/eng) at [KU Leuven](http://www.kuleuven.be/english).
+      I am a BOFZAP Research Professor in the [Institute of Philosophy](https://hiw.kuleuven.be/en/index) at [KU Leuven](http://www.kuleuven.be/english).
 	  For more information, see the [About page](/about.html) or [download my CV.](/ramsey-cv.pdf)
 
 # Postdocs
@@ -103,8 +103,9 @@ unique: people
 	  
 	   Lab publications:
 
-	  *   [download-icon](/papers/2017-oxford-bibliography-philosophy_of_biology.pdf) Ramsey, G. and Desmond, H. (2017) “[Philosophy of Biology](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0341.xml)” Oxford Bibliography.
 	  *   Desmond, H. and Ramsey, G. (2023) _Human Success: Evolutionary Origins and Ethichal Implications_. Oxford University Press.
+	  *   [download-icon](/papers/2017-oxford-bibliography-philosophy_of_biology.pdf) Ramsey, G. and Desmond, H. (2017) “[Philosophy of Biology](http://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0341.xml)” Oxford Bibliography.
+
 	  
 5.  ![](people/difrisco.jpg)
 	: **James DiFrisco**
@@ -221,6 +222,11 @@ unique: people
 
 	   Lab publications:
 
+	   *   Ramsey, G. and Durand, P. (expected 2025) _Death and Taxa._ Cambridge University Press.
+	   *   Durand, P. and Ramsey, G. (under contract) _Evolution's End: Life, Death, and the Mortality Constraint._ Oxford University Press.
+	   *   Durand, P. and Ramsey, G. (forthcoming) “Conceptual Foundations of Cell Mortality” in J. M. Hardwick and P. Durand (eds.) _The New Era of Microbial Cell Death_ Springer.
+	   *   [download-icon](/papers/2023-yjbm-cell-fate.pdf)Ramsey, G. and Durand, P. (2023) “Cell Fate: What's Evolution Got to do With It?” _Yale Journal of Biology and Medicine_ 96(4): 565-568. [DOI: 10.59249/FBHI3484](https://doi.org/10.59249/FBHI3484)
+	   *   [download-icon](/papers/2023-hpls-cell-mortality.pdf) Durand, P. and Ramsey, G. (2023) “The concpts and origins of cell mortality” _History and Philosophy of the Life Sciences_ 45:23. [DOI: 10.1007/s40656-023-00581-8](https://doi.org/10.1007/s40656-023-00581-8)
 	   *   [download-icon](/papers/2021-moleco-pdc-black-queen.pdf) Ndhlovu, A., Durand, P., and Ramsey, G. (2021) “Programmed cell death as a black queen in microbial communities” _Molecular Ecology_ 30: 1110-1119. [DOI: 10.1111/mec.15757](https://doi.org/10.1111/mec.15757)
 	   *   [download-icon](/papers/2018-bt-pcd.pdf) Durand, P. and Ramsey, G. (2018) “The nature of programmed cell death” _Biological Theory_. [DOI: 10.1007/s13752-018-0311-0](https://doi.org/10.1007/s13752-018-0311-0)
 	   
