@@ -21,7 +21,7 @@ unique: people
 	  
 	   Lab publications:
 
-	  *   _Coming soon._
+	  *   Fábregas-Tejeda, A. and Ramsey, G. (expected 2025) _Niche Construction and Evolutionary Theory_. Cambridge University Press.
 	  
 	  
 	  
@@ -34,7 +34,7 @@ unique: people
 	  
 	   Lab publications:
 
-	  *   _Coming soon._
+	  *   [download-icon](/papers/2024-jez-chin.pdf) Meneganzin, A., Ramsey, G, and DiFrisco, J. (2024). “What is a Trait? Lessons from the Human Chin” _Journal of Experimental Zoology Part B: Molecular and Developmental Evolution_ 343(2): 65-75. [DOI: 10.1002/jez.b.23249](https://doi.org/10.1002/jez.b.23249)
 	  
 	  	  
 	  
@@ -51,7 +51,7 @@ unique: people
 	  
       Lab publications:
 
-	  *   _Coming soon._
+	  *   [download-icon](/papers/2024-bp-explanatory-gaps.pdf) Aaby, B., Dani, G. and Ramsey, G. (2024). “Explanatory Gaps in Evolutionary Theory” _Biology & Philosophy_ 39: 22. [DOI: 10.1007/s10539-024-09957-x](https://doi.org/10.1007/s10539-024-09957-x)
 
 
 # Alumni
@@ -60,18 +60,20 @@ unique: people
 1.  ![](people/aaby.jpg)
     : **Bendik Aaby**
     
+	   <https://www.hf.uio.no/ifikk/english/people/aca/philosophy/temporary/bendikaa/>
 
       Dissertation: _Organism-Environment Interactions in Evolutionary Theory_
 	  
       Lab publications:
 
+	  *   Ramsey, G. and Aaby, B. (expected 2026) _Psychodiversity: Cognition and Sentience Beyond Humans_  Routledge.*   [download-icon](/papers/2024-bp-explanatory-gaps.pdf) Aaby, B., Dani, G. and Ramsey, G. (2024). “Explanatory Gaps in Evolutionary Theory” _Biology & Philosophy_ 39: 22. [DOI: 10.1007/s10539-024-09957-x](https://doi.org/10.1007/s10539-024-09957-x)
 	  *   [download-icon](/papers/2022-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2022) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_ 73(2): 351-372. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
 	  *   [download-icon](/papers/2022-bp-proximate-ultimate-distinction.pdf) Ramsey, G. and Aaby, B. (2022). “The proximate-ultimate distinction and the active role of the organism in evolution” _Biology & Philosophy_ 37: 31. [DOI: 10.1007/s10539-022-09863-0](https://doi.org/10.1007/s10539-022-09863-0)
 	  
 2.  ![](people/deem.jpg)
     : **Michael Deem**
     
-      <https://publichealth.pitt.edu/home/directory/michael-j-deem>
+      <http://bioethics.pitt.edu/people/michael-j-deem-phd>
 
       Dissertation: _Norms and Nature: Engagements between Ethics and the Biological Sciences_
 
@@ -84,7 +86,7 @@ unique: people
 3.  ![](people/desautels.jpg)
     : **Lane DesAutels**
     
-      <http://lanedesautels.com/>
+      <https://lanedesautels.wordpress.com>
 
       Dissertation: _Mechanism and Chance: Toward an Account of Stochastic Mechanism for the Life Sciences_, directed by [Lindley Darden](http://faculty.philosophy.umd.edu/LDarden/).
 	  
@@ -107,19 +109,20 @@ unique: people
 5.  ![](people/difrisco.jpg)
 	: **James DiFrisco**
     
-	   <http://kuleuven.academia.edu/JamesDiFrisco> https://www.researchgate.net/profile/Andra-Meneganzin-2
+	   <https://www.crick.ac.uk/research/labs/james-difrisco>
 
 	   Dissertation: _Process and Levels of Organization_, codirected by [Roland Breeur](https://www.kuleuven.be/wieiswie/en/person/00010879) and [Andreas De Block](http://www.kuleuven.be/wieiswie/en/person/00002503).
 	  
 	   Lab publications:
 
-	  *   DiFrisco, J. and Ramsey, G. (in press). “Adaptationism and trait individuation” _Philosophy of Science_.
+	  *   [download-icon](/papers/2024-jez-chin.pdf) Meneganzin, A., Ramsey, G, and DiFrisco, J. (2024). “What is a Trait? Lessons from the Human Chin” _Journal of Experimental Zoology Part B: Molecular and Developmental Evolution_ 343(2): 65-75. [DOI: 10.1002/jez.b.23249](https://doi.org/10.1002/jez.b.23249)
+	  *   [download-icon](/papers/2023-ps-adaptationism-trait-individuation.pdf) DiFrisco, J. and Ramsey, G. (2023). “Adaptationism and trait individuation” _Philosophy of Science_  90(5): 1234-1243. [DOI: 10.1017/psa.2023.28](https://doi.org/10.1017/psa.2023.28)
 
 6.  ![](people/gordillo-garcia.jpg)
     : **Alejandro Gordillo-García**
     
 
-      Dissertation: TBA
+      Dissertation: _Overlooked Aspects of Cultural Evolution: Information, Maladaptation, and Evolutionary Trends: Overlooked Aspects of Cultural Evolution: Information, Maladaptation, and Evolutionary Trends_
 	  
       Lab publications:
 
@@ -151,7 +154,7 @@ unique: people
 8.  ![](people/peterson.jpg)
     : **Anne Siebels Peterson**
 
-      <http://philosophy.utah.edu/profile.php?unid=u0976731>
+      <https://faculty.utah.edu/u0976731-Anne_Siebels_Peterson/hm/index.hml>
 
       Dissertation: _Diversification in Aristotle's Metaphysics_
 
@@ -184,7 +187,7 @@ unique: people
  3.  ![](people/climenhaga.jpg)
      : **Nevin Climenhaga**
 
-       <https://www.acu.edu.au/research/our-research-institutes/dianoia-institute-of-philosophy/our-people/nevin-climenhaga>
+       <https://sites.google.com/site/nevinclimenhaga/>
 
        Lab publications:
 
@@ -215,7 +218,6 @@ unique: people
 5.  ![](people/durand.jpg)
     : **Pierre Durand**
 
-	   <https://www.pierremdurand.com>
 
 	   Lab publications:
 
@@ -275,7 +277,7 @@ unique: people
 6.  ![](people/sportiello.jpg)
     : **Daniel Sportiello**
 
-      <https://www.umary.edu/academics/arts-sciences/faculty-bios/Daniel-Sportiello.php>
+      <https://www.umary.edu/about/directory/daniel-john-sportiello-phd>
 
       Lab publications:
 
@@ -285,7 +287,7 @@ unique: people
 6.  ![](people/vanschaik.jpg)
     : **Carel van Schaik**
 
-      <https://www.aim.uzh.ch/de/members/professors/vanschaik.html>
+      <https://www.aim.uzh.ch/en/members/emeriti/vanschaik.html>
 
       Lab publications:
 
