@@ -81,7 +81,8 @@ unique: papers
 
 # Blog and magazine articles
 
-*   De Block, A. and Ramsey, G. (2015) “The life of Culture” OUP Blog, [http://blog.oup.com/2015/11/the-life-of-culture/](http://blog.oup.com/2015/11/the-life-of-culture/)
+*   Ramsey, G. (2023, May 04). “[The culture of bees and the AI apocalypse](https://iai.tv/articles/the-culture-of-bees-and-the-ai-apocalypse-auid-2471-grant-ramsey-auid-2471?_auid=2020 )” IAI News.
+*   De Block, A. and Ramsey, G. (2015) “[The life of Culture](http://blog.oup.com/2015/11/the-life-of-culture/)” OUP Blog.
 
 # Books (as illustrator)
 

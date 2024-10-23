@@ -66,7 +66,8 @@ unique: people
 	  
       Lab publications:
 
-	  *   Ramsey, G. and Aaby, B. (expected 2026) _Psychodiversity: Cognition and Sentience Beyond Humans_  Routledge.*   [download-icon](/papers/2024-bp-explanatory-gaps.pdf) Aaby, B., Dani, G. and Ramsey, G. (2024). “Explanatory Gaps in Evolutionary Theory” _Biology & Philosophy_ 39: 22. [DOI: 10.1007/s10539-024-09957-x](https://doi.org/10.1007/s10539-024-09957-x)
+	  *   Ramsey, G. and Aaby, B. (expected 2026) _Psychodiversity: Cognition and Sentience Beyond Humans_  Routledge.
+	  *   [download-icon](/papers/2024-bp-explanatory-gaps.pdf) Aaby, B., Dani, G. and Ramsey, G. (2024). “Explanatory Gaps in Evolutionary Theory” _Biology & Philosophy_ 39: 22. [DOI: 10.1007/s10539-024-09957-x](https://doi.org/10.1007/s10539-024-09957-x)
 	  *   [download-icon](/papers/2022-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2022) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_ 73(2): 351-372. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
 	  *   [download-icon](/papers/2022-bp-proximate-ultimate-distinction.pdf) Ramsey, G. and Aaby, B. (2022). “The proximate-ultimate distinction and the active role of the organism in evolution” _Biology & Philosophy_ 37: 31. [DOI: 10.1007/s10539-022-09863-0](https://doi.org/10.1007/s10539-022-09863-0)
 	  
@@ -123,7 +124,7 @@ unique: people
     : **Alejandro Gordillo-García**
     
 
-      Dissertation: _Overlooked Aspects of Cultural Evolution: Information, Maladaptation, and Evolutionary Trends: Overlooked Aspects of Cultural Evolution: Information, Maladaptation, and Evolutionary Trends_
+      Dissertation: _Overlooked Aspects of Cultural Evolution: Information, Maladaptation, and Evolutionary Trends_
 	  
       Lab publications:
 
