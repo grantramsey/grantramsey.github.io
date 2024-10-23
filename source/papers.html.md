@@ -10,7 +10,7 @@ unique: papers
 *   Ramsey, G. (2023) _Human Nature._ Cambridge University Press. [Free to download here.](https://doi.org/10.1017/9781108685481)
 *   Ramsey, G. and Durand, P. (expected 2025) _Death and Taxa._ Cambridge University Press.
 *   Fábregas-Tejeda, A. and Ramsey, G. (expected 2025) _Niche Construction and Evolutionary Theory_. Cambridge University Press.
-*   Durand, P. and Ramsey, G. (under contract) _Evolution's End: Life, Death, and the Mortality Constraint._ Oxford University Press.
+*   Durand, P. and Ramsey, G. (expected 2026) _Evolution's End: Life, Death, and the Mortality Constraint._ Oxford University Press.
 
 
 # Books (as editor)

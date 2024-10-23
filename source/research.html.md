@@ -11,10 +11,13 @@ Central questions in this project are: What is the nature of key concepts in evo
 ## Related publications:
 
 
-*   [download-icon](/papers/2023-ps-adaptationism-trait-individuation.pdf) DiFrisco, J. and Ramsey, G. (in press). “Adaptationism and trait individuation” _Philosophy of Science_. [DOI: 10.1017/psa.2023.28](https://doi.org/10.1017/psa.2023.28)
-*   [download-icon](/papers/2022-bjps-levels-of-selection.pdf) Eronen, M. I. and Ramsey, G. (in press) “What are the 'levels' in levels of selection?” _The British Journal for the Philosophy of Science_.
+*   [download-icon](/papers/2022-bjps-levels-of-selection.pdf) Eronen, M. I. and Ramsey, G. (in press) “What are the 'levels' in levels of selection?” _The British Journal for the Philosophy of Science_.*   [download-icon](/papers/2023-ps-adaptationism-trait-individuation.pdf) DiFrisco, J. and Ramsey, G. (2023). “Adaptationism and trait individuation” _Philosophy of Science_  90(5): 1234-1243. [DOI: 10.1017/psa.2023.28](https://doi.org/10.1017/psa.2023.28)
+*   [download-icon](/papers/2024-ps-channeling-dappling.pdf) Ramsey, G. and Villegas, C. (2024). “Developmental Channeling and Evolutionary Dappling” _Philosophy of Science_  91(4): 869-886. [DOI: 10.1017/psa.2024.5](https://doi.org/10.1017/psa.2024.5)
+*   [download-icon](/papers/2024-bp-explanatory-gaps.pdf) Aaby, B., Dani, G. and Ramsey, G. (2024). “Explanatory Gaps in Evolutionary Theory” _Biology & Philosophy_ 39: 22. [DOI: 10.1007/s10539-024-09957-x](https://doi.org/10.1007/s10539-024-09957-x)
+*   [download-icon](/papers/2024-jez-chin.pdf) Meneganzin, A., Ramsey, G, and DiFrisco, J. (2024). “What is a Trait? Lessons from the Human Chin” _Journal of Experimental Zoology Part B: Molecular and Developmental Evolution_ 343(2): 65-75. [DOI: 10.1002/jez.b.23249](https://doi.org/10.1002/jez.b.23249)
+*   [download-icon](/papers/2023-ps-adaptationism-trait-individuation.pdf) DiFrisco, J. and Ramsey, G. (2023). “Adaptationism and trait individuation” _Philosophy of Science_  90(5): 1234-1243. [DOI: 10.1017/psa.2023.28](https://doi.org/10.1017/psa.2023.28)
 *   [download-icon](/papers/2022-bp-proximate-ultimate-distinction.pdf) Ramsey, G. and Aaby, B. (2022). “The proximate-ultimate distinction and the active role of the organism in evolution” _Biology & Philosophy_ 37: 31. [DOI: 10.1007/s10539-022-09863-0](https://doi.org/10.1007/s10539-022-09863-0)
-*   [download-icon](/papers/2019-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2022) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_ 73(2): 351-372. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
+*   [download-icon](/papers/2022-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2022) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_ 73(2): 351-372. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
 *   [download-icon](/papers/2015-ajp-causal-structure.pdf) Ramsey, G. (2016) "The causal structure of evolutionary theory" _Australasian Journal of Philosophy_ 94: 421-434. [DOI: 10.1080/00048402.2015.1111398](http://dx.doi.org/10.1080/00048402.2015.1111398)
 *   Ramsey, G. and Pence, C. H.  (2016)  _Chance in Evolution._  Chicago: University of Chicago Press. For more information, visit the [University of Chicago Press website](http://press.uchicago.edu/ucp/books/book/chicago/C/bo24550500.html) or purchase it via [Amazon](https://www.amazon.com/Chance-Evolution-Grant-Ramsey/dp/022640188X).
 *   Ramsey, G. and Pence, C. H. (2016) "Chance in evolution from Darwin to contemporary biology." In: G. Ramsey and C.H. Pence (eds.) _Chance in Evolution._ Chicago: University of Chicago Press, 1-11.
@@ -35,6 +38,7 @@ Central questions in this project are: How are concepts like culture, innovation
 
 ## Related publications:
 
+*   Ramsey, G. and Aaby, B. (expected 2026) _Psychodiversity: Cognition and Sentience Beyond Humans_  Routledge.
 *   [download-icon](/papers/2017-bjps-cultural-fitness.pdf) Ramsey, G. and De Block, A. (2017) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_ 68: 305-328. [DOI: 10.1093/bjps/axv047](http://dx.doi.org/10.1093/bjps/axv047)
 *   [download-icon](/papers/2017-animal-culture.pdf) Ramsey, G. (2017) "What is animal culture?" In: K. Andrews and J. Beck (eds.) _Routledge Companion to the Philosophy of Animal Minds._ Routledge Press, 345-353.
 *   [download-icon](/papers/2016-shpbbs-altruism-unified.pdf) Ramsey, G. (2016) "Can altruism be unified?" _Studies in History and Philosophy of Biological and Biomedical Sciences_ 56: 32-38. [DOI: 10.1016/j.shpsc.2015.10.007](http://dx.doi.org/10.1016/j.shpsc.2015.10.007)
@@ -53,9 +57,10 @@ Central questions in this project are: Why do cells and the organisms they compo
 ## Related publications:
 
 
-*   Ramsey, G. and Durand, P. (under contract) _Death and Taxa._ Cambridge University Press.
-*   Durand, P. and Ramsey, G. (under contract) _Evolution's End: Life, Death, and the Mortality Constraint._ Oxford University Press.
-*   Ramsey, G. and Durand, P. (2023) “Cell Fate: What's Evolution Got to do With It?” _Yale Journal of Biology and Medicine_.
+*   Ramsey, G. and Durand, P. (expected 2025) _Death and Taxa._ Cambridge University Press.
+*   Durand, P. and Ramsey, G. (expected 2026) _Evolution's End: Life, Death, and the Mortality Constraint._ Oxford University Press.
+*   Durand, P. and Ramsey, G. (forthcoming) “Conceptual Foundations of Cell Mortality” in J. M. Hardwick and P. Durand (eds.) _The New Era of Microbial Cell Death_ Springer.
+*   [download-icon](/papers/2023-yjbm-cell-fate.pdf)Ramsey, G. and Durand, P. (2023) “Cell Fate: What's Evolution Got to do With It?” _Yale Journal of Biology and Medicine_ 96(4): 565-568. [DOI: 10.59249/FBHI3484](https://doi.org/10.59249/FBHI3484)
 *   [download-icon](/papers/2023-hpls-cell-mortality.pdf) Durand, P. and Ramsey, G. (2023) “The concpts and origins of cell mortality” _History and Philosophy of the Life Sciences_ 45:23. [DOI: 10.1007/s40656-023-00581-8](https://doi.org/10.1007/s40656-023-00581-8)
 *   [download-icon](/papers/2021-moleco-pdc-black-queen.pdf) Ndhlovu, A., Durand, P., and Ramsey, G. (2021) “Programmed cell death as a black queen in microbial communities” _Molecular Ecology_ 30: 1110-1119. [DOI: 10.1111/mec.15757](https://doi.org/10.1111/mec.15757)
 *   [download-icon](/papers/2018-bt-pcd.pdf) Durand, P. and Ramsey, G. (2019) “The nature of programmed cell death” _Biological Theory_ 14: 30–41. [DOI: 10.1007/s13752-018-0311-0](https://doi.org/10.1007/s13752-018-0311-0)

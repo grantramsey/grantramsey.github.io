@@ -223,7 +223,7 @@ unique: people
 	   Lab publications:
 
 	   *   Ramsey, G. and Durand, P. (expected 2025) _Death and Taxa._ Cambridge University Press.
-	   *   Durand, P. and Ramsey, G. (under contract) _Evolution's End: Life, Death, and the Mortality Constraint._ Oxford University Press.
+	   *   Durand, P. and Ramsey, G. (expected 2026) _Evolution's End: Life, Death, and the Mortality Constraint._ Oxford University Press.
 	   *   Durand, P. and Ramsey, G. (forthcoming) “Conceptual Foundations of Cell Mortality” in J. M. Hardwick and P. Durand (eds.) _The New Era of Microbial Cell Death_ Springer.
 	   *   [download-icon](/papers/2023-yjbm-cell-fate.pdf)Ramsey, G. and Durand, P. (2023) “Cell Fate: What's Evolution Got to do With It?” _Yale Journal of Biology and Medicine_ 96(4): 565-568. [DOI: 10.59249/FBHI3484](https://doi.org/10.59249/FBHI3484)
 	   *   [download-icon](/papers/2023-hpls-cell-mortality.pdf) Durand, P. and Ramsey, G. (2023) “The concpts and origins of cell mortality” _History and Philosophy of the Life Sciences_ 45:23. [DOI: 10.1007/s40656-023-00581-8](https://doi.org/10.1007/s40656-023-00581-8)
