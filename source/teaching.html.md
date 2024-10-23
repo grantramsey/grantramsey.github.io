@@ -5,7 +5,7 @@ unique: teaching
 
 # Current courses
 
-*   *Epistemology and Philosophy of Science* (Spring 2024)
+*   *Philosophy of Mind and Artificial Intelligence* (Spring 2024)
 *   *Epistemology and Philosophy of Science* (Spring 2024)
 
 
