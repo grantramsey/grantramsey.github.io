@@ -90,4 +90,4 @@ unique: papers
 
 # Other miscellaneous publications
 
-*   Ramsey, G., Longino, J., and Kugler, C. (1998) Formicidae: _Rogeria creightoni._ <http://academic.evergreen.edu/projects/ants/genera/Rogeria/SPECIES/belti/belti.html>. (One of 13 published web pages on the ant genus Rogeria. See full list of species here: <http://academic.evergreen.edu/projects/ants/genera/Rogeria/Specieslist.html>)
+*   Ramsey, G., Longino, J., and Kugler, C. (1998) Formicidae: _Rogeria creightoni._ <https://ants.biology.utah.edu/GENERA/ROGERIA/SPECIES/creightoni/creightoni.html>. (One of 13 published web pages on the ant genus Rogeria. See full list of species here: <https://ants.biology.utah.edu/GENERA/ROGERIA/Specieslist.html>)
