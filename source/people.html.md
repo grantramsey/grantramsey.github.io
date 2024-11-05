@@ -7,7 +7,7 @@ unique: people
 1.  ![](people/ramsey.jpg)
     : **Grant Ramsey**
       
-      I am a BOFZAP Research Professor in the [Institute of Philosophy](https://hiw.kuleuven.be/en/index) at [KU Leuven](http://www.kuleuven.be/english).
+      I am a BOFZAP Research Professor in the [Institute of Philosophy](https://hiw.kuleuven.be/en/index) at [KU Leuven](http://www.kuleuven.be/english)
 	  For more information, see the [About page](/about.html) or [download my CV.](/ramsey-cv.pdf)
 
 # Postdocs
@@ -35,7 +35,7 @@ unique: people
 	  
 	   Lab publications:
 
-	  *   [download-icon](/papers/2024-jez-chin.pdf) Meneganzin, A., Ramsey, G, and DiFrisco, J. (2024). “What is a Trait? Lessons from the Human Chin” _Journal of Experimental Zoology Part B: Molecular and Developmental Evolution_ 343(2): 65-75. [DOI: 10.1002/jez.b.23249](https://doi.org/10.1002/jez.b.23249)
+	  *   [download-icon](/papers/2024-jez-chin.pdf) Meneganzin, A., Ramsey, G, and DiFrisco, J. (2024) “What is a Trait? Lessons from the Human Chin” _Journal of Experimental Zoology Part B: Molecular and Developmental Evolution_ 343(2): 65-75. [DOI: 10.1002/jez.b.23249](https://doi.org/10.1002/jez.b.23249)
 	  
 	  	  
 	  
@@ -52,7 +52,7 @@ unique: people
 	  
       Lab publications:
 
-	  *   [download-icon](/papers/2024-bp-explanatory-gaps.pdf) Aaby, B., Dani, G. and Ramsey, G. (2024). “Explanatory Gaps in Evolutionary Theory” _Biology & Philosophy_ 39: 22. [DOI: 10.1007/s10539-024-09957-x](https://doi.org/10.1007/s10539-024-09957-x)
+	  *   [download-icon](/papers/2024-bp-explanatory-gaps.pdf) Aaby, B., Dani, G. and Ramsey, G. (2024) “Explanatory Gaps in Evolutionary Theory” _Biology & Philosophy_ 39: 22. [DOI: 10.1007/s10539-024-09957-x](https://doi.org/10.1007/s10539-024-09957-x)
 
 
 # Alumni
@@ -68,9 +68,9 @@ unique: people
       Lab publications:
 
 	  *   Ramsey, G. and Aaby, B. (expected 2026) _Psychodiversity: Cognition and Sentience Beyond Humans_  Routledge.
-	  *   [download-icon](/papers/2024-bp-explanatory-gaps.pdf) Aaby, B., Dani, G. and Ramsey, G. (2024). “Explanatory Gaps in Evolutionary Theory” _Biology & Philosophy_ 39: 22. [DOI: 10.1007/s10539-024-09957-x](https://doi.org/10.1007/s10539-024-09957-x)
+	  *   [download-icon](/papers/2024-bp-explanatory-gaps.pdf) Aaby, B., Dani, G. and Ramsey, G. (2024) “Explanatory Gaps in Evolutionary Theory” _Biology & Philosophy_ 39: 22. [DOI: 10.1007/s10539-024-09957-x](https://doi.org/10.1007/s10539-024-09957-x)
 	  *   [download-icon](/papers/2022-bjps-three-kinds-niche-construction.pdf) Aaby, B. and Ramsey, G. (2022) “Three kinds of niche construction” _The British Journal for the Philosophy of Science_ 73(2): 351-372. [DOI: 10.1093/bjps/axz054](https://doi.org/10.1093/bjps/axz054)
-	  *   [download-icon](/papers/2022-bp-proximate-ultimate-distinction.pdf) Ramsey, G. and Aaby, B. (2022). “The proximate-ultimate distinction and the active role of the organism in evolution” _Biology & Philosophy_ 37: 31. [DOI: 10.1007/s10539-022-09863-0](https://doi.org/10.1007/s10539-022-09863-0)
+	  *   [download-icon](/papers/2022-bp-proximate-ultimate-distinction.pdf) Ramsey, G. and Aaby, B. (2022) “The proximate-ultimate distinction and the active role of the organism in evolution” _Biology & Philosophy_ 37: 31. [DOI: 10.1007/s10539-022-09863-0](https://doi.org/10.1007/s10539-022-09863-0)
 	  
 2.  ![](people/deem.jpg)
     : **Michael Deem**
@@ -90,7 +90,7 @@ unique: people
     
       <https://lanedesautels.wordpress.com>
 
-      Dissertation: _Mechanism and Chance: Toward an Account of Stochastic Mechanism for the Life Sciences_, directed by [Lindley Darden](http://faculty.philosophy.umd.edu/LDarden/).
+      Dissertation: _Mechanism and Chance: Toward an Account of Stochastic Mechanism for the Life Sciences_, directed by [Lindley Darden](http://faculty.philosophy.umd.edu/LDarden/)
 	  
       Lab publications:
 
@@ -101,7 +101,7 @@ unique: people
 	  
 	  <http://hughdesmond.net/>
 
-	   Dissertation: _Directionality in Biological Evolution_, codirected with [Andreas De Block](http://www.kuleuven.be/wieiswie/en/person/00002503).
+	   Dissertation: _Directionality in Biological Evolution_, codirected with [Andreas De Block](http://www.kuleuven.be/wieiswie/en/person/00002503)
 	  
 	   Lab publications:
 
@@ -114,12 +114,12 @@ unique: people
     
 	   <https://www.crick.ac.uk/research/labs/james-difrisco>
 
-	   Dissertation: _Process and Levels of Organization_, codirected by [Roland Breeur](https://www.kuleuven.be/wieiswie/en/person/00010879) and [Andreas De Block](http://www.kuleuven.be/wieiswie/en/person/00002503).
+	   Dissertation: _Process and Levels of Organization_, codirected by [Roland Breeur](https://www.kuleuven.be/wieiswie/en/person/00010879) and [Andreas De Block](http://www.kuleuven.be/wieiswie/en/person/00002503)
 	  
 	   Lab publications:
 
-	  *   [download-icon](/papers/2024-jez-chin.pdf) Meneganzin, A., Ramsey, G, and DiFrisco, J. (2024). “What is a Trait? Lessons from the Human Chin” _Journal of Experimental Zoology Part B: Molecular and Developmental Evolution_ 343(2): 65-75. [DOI: 10.1002/jez.b.23249](https://doi.org/10.1002/jez.b.23249)
-	  *   [download-icon](/papers/2023-ps-adaptationism-trait-individuation.pdf) DiFrisco, J. and Ramsey, G. (2023). “Adaptationism and trait individuation” _Philosophy of Science_  90(5): 1234-1243. [DOI: 10.1017/psa.2023.28](https://doi.org/10.1017/psa.2023.28)
+	  *   [download-icon](/papers/2024-jez-chin.pdf) Meneganzin, A., Ramsey, G, and DiFrisco, J. (2024) “What is a Trait? Lessons from the Human Chin” _Journal of Experimental Zoology Part B: Molecular and Developmental Evolution_ 343(2): 65-75. [DOI: 10.1002/jez.b.23249](https://doi.org/10.1002/jez.b.23249)
+	  *   [download-icon](/papers/2023-ps-adaptationism-trait-individuation.pdf) DiFrisco, J. and Ramsey, G. (2023) “Adaptationism and trait individuation” _Philosophy of Science_  90(5): 1234-1243. [DOI: 10.1017/psa.2023.28](https://doi.org/10.1017/psa.2023.28)
 
 6.  ![](people/gordillo-garcia.jpg)
     : **Alejandro Gordillo-García**
@@ -140,7 +140,7 @@ unique: people
 
       Lab publications:
 
-	  *   [download-icon](/papers/2018-ps-digital-hps.pdf) Pence, C. and Ramsey, G. (2018) “How to do digital philosophy of science” _Philosophy of Science_ 58: 930-941. [DOI: 10.1086/699697](https://doi.org/10.1086/699697).
+	  *   [download-icon](/papers/2018-ps-digital-hps.pdf) Pence, C. and Ramsey, G. (2018) “How to do digital philosophy of science” _Philosophy of Science_ 58: 930-941. [DOI: 10.1086/699697](https://doi.org/10.1086/699697)
 	  *   [download-icon](/papers/2016-shpbbs-evotext.pdf) Ramsey, G. and Pence, C. H. (2016) "evoText: A new tool for analyzing the biological sciences." _Studies in History and Philosophy of Biological and Biomedical Sciences_ 57: 83-87. [DOI: 10.1016/j.shpsc.2016.04.003](http://dx.doi.org/10.1016/j.shpsc.2016.04.003)
 	  *   [download-icon](/papers/2015-ps-organismic-fitness.pdf) Pence, C. and Ramsey, G. (2015) "Is organismic fitness at the basis of evolutionary theory?" _Philosophy of Science_ 82:1081–1091. [DOI: 10.1086/683442](http://www.jstor.org/stable/10.1086/683442)
       *   [download-icon](/papers/2013-els-fitness-philosophical-problems.pdf) Ramsey, G. and Pence, C. H. (2013) "Fitness: philosophical problems." In: _eLS._ Chichester: John Wiley & Sons, Ltd. [DOI: 10.1002/9780470015902.a0003443.pub2](http://dx.doi.org/10.1002/9780470015902.a0003443.pub2)
