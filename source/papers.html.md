@@ -23,7 +23,7 @@ unique: papers
 
 # Articles and book chapters
 
-*   Fábregas-Tejeda, A. and Ramsey, G. (forthcoming). “Driftability and niche construction” _Synthese_.
+*   Fábregas-Tejeda, A. and Ramsey, G. (forthcoming) “Driftability and niche construction” _Synthese_.
 *   [download-icon](/papers/2022-bjps-levels-of-selection.pdf) Eronen, M. I. and Ramsey, G. (forthcoming) “What are the 'levels' in levels of selection?” _The British Journal for the Philosophy of Science_. [DOI: 10.1086/718990](https://doi.org/10.1086/718990)
 *   Durand, P. and Ramsey, G. (forthcoming) “Conceptual Foundations of Cell Mortality” in J. M. Hardwick and P. Durand (eds.) _The New Era of Microbial Cell Death_ Springer.
 *   [download-icon](/papers/2024-ps-channeling-dappling.pdf) Ramsey, G. and Villegas, C. (2024). “Developmental Channeling and Evolutionary Dappling” _Philosophy of Science_  91(4): 869-886. [DOI: 10.1017/psa.2024.5](https://doi.org/10.1017/psa.2024.5)
