@@ -11,6 +11,7 @@ Central questions in this project are: What is the nature of key concepts in evo
 ## Related publications:
 
 
+*   Fábregas-Tejeda, A. and Ramsey, G. (forthcoming). “Driftability and niche construction” _Synthese_.
 *   [download-icon](/papers/2022-bjps-levels-of-selection.pdf) Eronen, M. I. and Ramsey, G. (in press) “What are the 'levels' in levels of selection?” _The British Journal for the Philosophy of Science_.*   [download-icon](/papers/2023-ps-adaptationism-trait-individuation.pdf) DiFrisco, J. and Ramsey, G. (2023). “Adaptationism and trait individuation” _Philosophy of Science_  90(5): 1234-1243. [DOI: 10.1017/psa.2023.28](https://doi.org/10.1017/psa.2023.28)
 *   [download-icon](/papers/2024-ps-channeling-dappling.pdf) Ramsey, G. and Villegas, C. (2024). “Developmental Channeling and Evolutionary Dappling” _Philosophy of Science_  91(4): 869-886. [DOI: 10.1017/psa.2024.5](https://doi.org/10.1017/psa.2024.5)
 *   [download-icon](/papers/2024-bp-explanatory-gaps.pdf) Aaby, B., Dani, G. and Ramsey, G. (2024). “Explanatory Gaps in Evolutionary Theory” _Biology & Philosophy_ 39: 22. [DOI: 10.1007/s10539-024-09957-x](https://doi.org/10.1007/s10539-024-09957-x)
