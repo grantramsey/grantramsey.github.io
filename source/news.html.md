@@ -9,7 +9,7 @@ unique: news
 
 *   The Ramsey Lab was awarded 366,000 euro for the project [Plant Agency: Inferring Mental Capacities from Plant Behavior](https://www.kuleuven.be/onderzoek/portaal/#/projecten/3H210282)
 
-*   **Alejandro Fábregas-Tejeda** was hired as a postdoc starting November 2023 to work on the Trait Identity project.
+*   Alejandro Fábregas-Tejeda was hired as a postdoc starting November 2023 to work on the Trait Identity project.
 
 
 
