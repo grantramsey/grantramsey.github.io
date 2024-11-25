@@ -25,7 +25,7 @@ unique: papers
 
 *   [download-icon](/papers/2022-bjps-levels-of-selection.pdf) Eronen, M. I. and Ramsey, G. (forthcoming) “What are the 'levels' in levels of selection?” _The British Journal for the Philosophy of Science_. [DOI: 10.1086/718990](https://doi.org/10.1086/718990)
 *   Durand, P. and Ramsey, G. (forthcoming) “Conceptual Foundations of Cell Mortality” in J. M. Hardwick and P. Durand (eds.) _The New Era of Microbial Cell Death_ Springer.
-*   [download-icon](/papers/2024-syn-driftability-niche-construction.pdf) Fábregas-Tejeda, A. and Ramsey, G. (forthcoming) “Driftability and niche construction” _Synthese_ 204, 162. [DOI: 10.1007/s11229-024-04815-5](https://doi.org/10.1007/s11229-024-04815-5)
+*   [download-icon](/papers/2024-syn-driftability-niche-construction.pdf) Fábregas-Tejeda, A. and Ramsey, G. (2024) “Driftability and niche construction” _Synthese_ 204: 162. [DOI: 10.1007/s11229-024-04815-5](https://doi.org/10.1007/s11229-024-04815-5)
 *   [download-icon](/papers/2024-ps-channeling-dappling.pdf) Ramsey, G. and Villegas, C. (2024) “Developmental Channeling and Evolutionary Dappling” _Philosophy of Science_  91(4): 869-886. [DOI: 10.1017/psa.2024.5](https://doi.org/10.1017/psa.2024.5)
 *   [download-icon](/papers/2024-bp-explanatory-gaps.pdf) Aaby, B., Dani, G. and Ramsey, G. (2024) “Explanatory Gaps in Evolutionary Theory” _Biology & Philosophy_ 39: 22. [DOI: 10.1007/s10539-024-09957-x](https://doi.org/10.1007/s10539-024-09957-x)
 *   [download-icon](/papers/2024-jez-chin.pdf) Meneganzin, A., Ramsey, G, and DiFrisco, J. (2024) “What is a Trait? Lessons from the Human Chin” _Journal of Experimental Zoology Part B: Molecular and Developmental Evolution_ 343(2): 65-75. [DOI: 10.1002/jez.b.23249](https://doi.org/10.1002/jez.b.23249)

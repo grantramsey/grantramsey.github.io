@@ -21,8 +21,8 @@ unique: people
 	  
 	   Lab publications:
 
-	  *   Fábregas-Tejeda, A. and Ramsey, G. (forthcoming) “Driftability and niche construction” _Synthese_.
 	  *   Fábregas-Tejeda, A. and Ramsey, G. (expected 2025) _Niche Construction and Evolutionary Theory_. Cambridge University Press.
+	  *   [download-icon](/papers/2024-syn-driftability-niche-construction.pdf) Fábregas-Tejeda, A. and Ramsey, G. (2024) “Driftability and niche construction” _Synthese_ 204: 162. [DOI: 10.1007/s11229-024-04815-5](https://doi.org/10.1007/s11229-024-04815-5)
 	  
 	  
 	  
