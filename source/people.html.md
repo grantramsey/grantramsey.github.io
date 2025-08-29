@@ -54,7 +54,16 @@ unique: people
 
 	  *   [download-icon](/papers/2024-bp-explanatory-gaps.pdf) Aaby, B., Dani, G. and Ramsey, G. (2024) “Explanatory Gaps in Evolutionary Theory” _Biology & Philosophy_ 39: 22. [DOI: 10.1007/s10539-024-09957-x](https://doi.org/10.1007/s10539-024-09957-x)
 
+2.  ![](people/tao.jpg)
+    : **Juncheng Tao**
+    
 
+      Dissertation: TBA
+	  
+      Lab publications:
+
+	  *   _Coming soon._
+	
 # Alumni
 
 
