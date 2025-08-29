@@ -231,6 +231,16 @@ unique: people
 	   *   [download-icon](/papers/2023-hpls-cell-mortality.pdf) Durand, P. and Ramsey, G. (2023) “The concepts and origins of cell mortality” _History and Philosophy of the Life Sciences_ 45:23. [DOI: 10.1007/s40656-023-00581-8](https://doi.org/10.1007/s40656-023-00581-8)
 	   *   [download-icon](/papers/2021-moleco-pdc-black-queen.pdf) Ndhlovu, A., Durand, P., and Ramsey, G. (2021) “Programmed cell death as a black queen in microbial communities” _Molecular Ecology_ 30: 1110-1119. [DOI: 10.1111/mec.15757](https://doi.org/10.1111/mec.15757)
 	   *   [download-icon](/papers/2018-bt-pcd.pdf) Durand, P. and Ramsey, G. (2018) “The nature of programmed cell death” _Biological Theory_. [DOI: 10.1007/s13752-018-0311-0](https://doi.org/10.1007/s13752-018-0311-0)
+
+5.  ![](people/eronen.jpg)
+    : **Markus Eronen**
+
+      <https://markuseronen.com>
+
+	   Lab publications:
+
+	   *   Eronen, M. I. and Ramsey, G. (2025) “What are the ‘levels’ in levels of selection?” The British Journal for the Philosophy of Science, 76(2): 495-518. [DOI: 10.1086/718990.](https://doi.org/10.1086/718990)
+
 	   
 	  
 6.  ![](people/fuentes.jpg)
