@@ -92,7 +92,7 @@ unique: people
 
       Lab publications:
 
-	  *   [download-icon](/papers/2022-ps-empathy-guilt.pdf) Ramsey, G. and M. Deem (2022) "Empathy and the evolutionary emergence of guilt" _Philosophy of Science_ 89(3): 434-453.
+	  *   [download-icon](/papers/2022-ps-empathy-guilt.pdf) Ramsey, G. and M. Deem (2022) "Empathy and the evolutionary emergence of guilt" _Philosophy of Science_ 89(3): 434-453. [DOI: 10.1017/psa.2021.36](https://doi.org/10.1017/psa.2021.36)
 	  *   [download-icon](/papers/2016-philpsy-guilt-by-association.pdf) Deem, M. and Ramsey, G. (2016) "Guilt by association?" _Philosophical Psychology_ 29(4): 570-585. [DOI: 10.1080/09515089.2015.1126706](http://dx.doi.org/10.1080/09515089.2015.1126706)
 	  *   [download-icon](/papers/2016-er-evo-puzzle-of-guilt.pdf) Deem, M. and G. Ramsey (2016) "The Evolutionary Puzzle of Guilt: Individual or Group Selection?" _Emotion Researcher, ISRE’s Sourcebook for Research on Emotion and Affect_, Andrea Scarantino (ed.), <http://emotionresearcher.com/the-evolutionary-puzzle-of-guilt-individual-or-group-selection/>
 	
