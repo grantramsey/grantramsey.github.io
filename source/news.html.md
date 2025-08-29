@@ -15,11 +15,6 @@ unique: news
 
 
 
-# Upcoming talks
-
-
-
-
 
 
 # Hot off the press
