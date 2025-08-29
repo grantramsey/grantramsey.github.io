@@ -6,7 +6,7 @@ unique: news
 # Announcements
 
 
-*   The Ramsey Lab was awarded 694,836 euro from the _Bijzonder Onderzoeksfonds_ for the project “Boundaries of life: The role of self-organization in the transition from non-living to living systems” (with copromotors Lendert Gelens, Bart Smeets , and Sylvia Wenmackers).
+*   The Ramsey Lab was awarded 694,836 euro from the _Bijzonder Onderzoeksfonds_ for the project “Boundaries of life: The role of self-organization in the transition from non-living to living systems” (with copromotors Lendert Gelens, Bart Smeets, and Sylvia Wenmackers).
 
 *   The Ramsey Lab was awarded 307,400 euro from the _Fonds voor Wetenschappelijk Onderzoek_ for the project “Biological trait identity: modularity, levels, and adaptation”
 
