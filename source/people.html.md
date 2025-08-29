@@ -35,6 +35,7 @@ unique: people
 	  
 	   Lab publications:
 
+	  *   [download-icon](/papers/2025-ejps-innovativeness.pdf) Ramsey, G. and Meneganzin, A. (2025) “Multilevel innovativeness and cross-species comparisons” _European Journal for Philosophy of Science_ 15, 39. [DOI: 10.1007/s13194-025-00666-0](https://doi.org/10.1007/s13194-025-00666-0)
 	  *   [download-icon](/papers/2024-jez-chin.pdf) Meneganzin, A., Ramsey, G, and DiFrisco, J. (2024) “What is a Trait? Lessons from the Human Chin” _Journal of Experimental Zoology Part B: Molecular and Developmental Evolution_ 343(2): 65-75. [DOI: 10.1002/jez.b.23249](https://doi.org/10.1002/jez.b.23249)
 	  
 	  	  
@@ -248,7 +249,7 @@ unique: people
 
 	   Lab publications:
 
-	   *   Eronen, M. I. and Ramsey, G. (2025) “What are the ‘levels’ in levels of selection?” The British Journal for the Philosophy of Science, 76(2): 495-518. [DOI: 10.1086/718990.](https://doi.org/10.1086/718990)
+	   *   [download-icon](/papers/2025-bjps-levels-of-selection.pdf) Eronen, M. I. and Ramsey, G. (2025) “What are the ‘levels’ in levels of selection?” The _British Journal for the Philosophy of Science_ 76(2): 495-518. [DOI: 10.1086/718990.](https://doi.org/10.1086/718990)
 
 	   
 	  
