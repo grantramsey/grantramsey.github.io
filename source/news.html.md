@@ -5,9 +5,12 @@ unique: news
 
 # Announcements
 
-*   The Ramsey Lab was awarded 307,400 euro from the _Fonds voor Wetenschappelijk Onderzoek_ for project “Biological trait identity: modularity, levels, and adaptation”
 
-*   The Ramsey Lab was awarded 366,000 euro for the project [Plant Agency: Inferring Mental Capacities from Plant Behavior](https://www.kuleuven.be/onderzoek/portaal/#/projecten/3H210282)
+*   The Ramsey Lab was awarded 694,836 euro from the _Bijzonder Onderzoeksfonds_ for the project “Boundaries of life: The role of self-organization in the transition from non-living to living systems” (with copromotors Lendert Gelens, Bart Smeets , and Sylvia Wenmackers).
+
+*   The Ramsey Lab was awarded 307,400 euro from the _Fonds voor Wetenschappelijk Onderzoek_ for the project “Biological trait identity: modularity, levels, and adaptation”
+
+*   The Ramsey Lab was awarded 366,000 euro from the _Bijzonder Onderzoeksfonds_ for the project [Plant Agency: Inferring Mental Capacities from Plant Behavior](https://www.kuleuven.be/onderzoek/portaal/#/projecten/3H210282)
 
 *   Alejandro Fábregas-Tejeda was hired as a postdoc starting November 2023 to work on the Trait Identity project.
 
