@@ -29,7 +29,7 @@ unique: people
 2.  ![](people/meneganzin.jpg)
 	: **Andra Meneganzin**
     
-	   <https://www.researchgate.net/profile/Andra-Meneganzin-2>
+	   <https://sites.google.com/view/andrameneganzin/>
 	
 	   Dissertation: _The Dawning of Man: Interrogating Modern Human Origins from an Evolutionary Perspective_
 	  
@@ -53,6 +53,7 @@ unique: people
 	  
       Lab publications:
 
+	  *   Dani, G. and Ramsey, G. (forthcoming) “Tool use beyond humans” _Philosophy of Science_. [DOI: 10.1017/psa.2025.21](https://doi.org/10.1017/psa.2025.21)
 	  *   [download-icon](/papers/2024-bp-explanatory-gaps.pdf) Aaby, B., Dani, G. and Ramsey, G. (2024) “Explanatory Gaps in Evolutionary Theory” _Biology & Philosophy_ 39: 22. [DOI: 10.1007/s10539-024-09957-x](https://doi.org/10.1007/s10539-024-09957-x)
 
 2.  ![](people/tao.jpg)

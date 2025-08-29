@@ -12,7 +12,7 @@ Central questions in this project are: What is the nature of key concepts in evo
 
 
 
-*   [download-icon](/papers/2022-bjps-levels-of-selection.pdf) Eronen, M. I. and Ramsey, G. (in press) “What are the 'levels' in levels of selection?” _The British Journal for the Philosophy of Science_.
+*   [download-icon](/papers/2025-bjps-levels-of-selection.pdf) Eronen, M. I. and Ramsey, G. (2025) “What are the ‘levels’ in levels of selection?” The _British Journal for the Philosophy of Science_ 76(2): 495-518. [DOI: 10.1086/718990.](https://doi.org/10.1086/718990)
 *   [download-icon](/papers/2024-syn-driftability-niche-construction.pdf) Fábregas-Tejeda, A. and Ramsey, G. (2024) “Driftability and niche construction” _Synthese_ 204: 162. [DOI: 10.1007/s11229-024-04815-5](https://doi.org/10.1007/s11229-024-04815-5)
 *   [download-icon](/papers/2023-ps-adaptationism-trait-individuation.pdf) DiFrisco, J. and Ramsey, G. (2023) “Adaptationism and trait individuation” _Philosophy of Science_  90(5): 1234-1243. [DOI: 10.1017/psa.2023.28](https://doi.org/10.1017/psa.2023.28)
 *   [download-icon](/papers/2024-ps-channeling-dappling.pdf) Ramsey, G. and Villegas, C. (2024) “Developmental Channeling and Evolutionary Dappling” _Philosophy of Science_  91(4): 869-886. [DOI: 10.1017/psa.2024.5](https://doi.org/10.1017/psa.2024.5)
@@ -42,6 +42,7 @@ Central questions in this project are: How are concepts like culture, innovation
 ## Related publications:
 
 *   Ramsey, G. and Aaby, B. (expected 2026) _Psychodiversity: Cognition and Sentience Beyond Humans_  Routledge.
+*   [download-icon](/papers/2025-ejps-innovativeness.pdf) Ramsey, G. and Meneganzin, A. (2025) “Multilevel innovativeness and cross-species comparisons” _European Journal for Philosophy of Science_ 15, 39. [DOI: 10.1007/s13194-025-00666-0](https://doi.org/10.1007/s13194-025-00666-0)
 *   [download-icon](/papers/2017-bjps-cultural-fitness.pdf) Ramsey, G. and De Block, A. (2017) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_ 68: 305-328. [DOI: 10.1093/bjps/axv047](http://dx.doi.org/10.1093/bjps/axv047)
 *   [download-icon](/papers/2017-animal-culture.pdf) Ramsey, G. (2017) "What is animal culture?" In: K. Andrews and J. Beck (eds.) _Routledge Companion to the Philosophy of Animal Minds._ Routledge Press, 345-353.
 *   [download-icon](/papers/2016-shpbbs-altruism-unified.pdf) Ramsey, G. (2016) "Can altruism be unified?" _Studies in History and Philosophy of Biological and Biomedical Sciences_ 56: 32-38. [DOI: 10.1016/j.shpsc.2015.10.007](http://dx.doi.org/10.1016/j.shpsc.2015.10.007)
