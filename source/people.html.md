@@ -313,7 +313,7 @@ unique: people
       *   [download-icon](/papers/2011-qrb-boyd-review.pdf) Hollocher, H., Fuentes, A., Pence, C. H., Ramsey, G., Sportiello, D. J., and Wirth, M. M. (2011) "[Review of] On the Origin of Stories: Evolution, Cognition, and Fiction." _The Quarterly Review of Biology_ 86(2): 137-138. [DOI: 10.1086/659913.](http://dx.doi.org/10.1086/659913)
       *   [download-icon](/papers/2011-ps-sober-review.pdf) Pence, C. H., Hollocher, H., Nichols, R., Ramsey, G., Siu, E., and Sportiello, D. J. (2011) "[Review of] Did Darwin Write the Origin Backwards? Philosophical Essays on Darwin’s Theory." _Philosophy of Science_ 78(4): 705-709. [DOI: 10.1086/661775.](http://dx.doi.org/10.1086/661775)
 
-6.  ![](people/svboda.jpg)
+6.  ![](people/svoboda.jpg)
      : **Abraham Svoboda**
 
 
