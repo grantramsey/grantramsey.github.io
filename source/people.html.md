@@ -7,7 +7,7 @@ unique: people
 1.  ![](people/ramsey.jpg)
     : **Grant Ramsey**
       
-      I am a BOFZAP Research Professor in the [Institute of Philosophy](https://hiw.kuleuven.be/en/index) at [KU Leuven](http://www.kuleuven.be/english)
+      I am a BOFZAP Research Professor in the [Institute of Philosophy](https://hiw.kuleuven.be/en/index) at [KU Leuven](http://www.kuleuven.be/english).
 	  For more information, see the [About page](/about.html), [download my CV](/ramsey-cv.pdf), or [follow us on Bluesky.](https://bsky.app/profile/theramseylab.bsky.social)
 
 # Postdocs
