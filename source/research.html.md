@@ -41,6 +41,7 @@ Central questions in this project are: How are concepts like culture, innovation
 
 ## Related publications:
 
+*   Meneganzin, A. and Ramsey, G. (expected 2027) _The Human Divided: Traits, Adaptations, and Evolutionary Transitions_. Johns Hopkins University Press.
 *   Ramsey, G. and Aaby, B. (expected 2026) _Psychodiversity: Cognition and Sentience Beyond Humans_  Routledge.
 *   [download-icon](/papers/2025-ps-tool-use-beyond-humans.pdf) Dani, G. and Ramsey, G. (2025) “Tool use beyond humans” _Philosophy of Science_ 92: 883-899. [DOI: 10.1017/psa.2025.21](https://doi.org/10.1017/psa.2025.21)
 *   [download-icon](/papers/2025-ejps-innovativeness.pdf) Ramsey, G. and Meneganzin, A. (2025) “Multilevel innovativeness and cross-species comparisons” _European Journal for Philosophy of Science_ 15, 39. [DOI: 10.1007/s13194-025-00666-0](https://doi.org/10.1007/s13194-025-00666-0)

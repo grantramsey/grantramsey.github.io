@@ -15,7 +15,7 @@ unique: papers
 
 # Books (as editor)
 
-*   Ramsey, G. and Aaby, B. (expected 2026) _Psychodiversity: Cognition and Sentience Beyond Humans_. Routledge.
+*   Meneganzin, A. and Ramsey, G. (expected 2027) _The Human Divided: Traits, Adaptations, and Evolutionary Transitions_. Johns Hopkins University Press.
 *   Ramsey, G. and Aaby, B. (expected 2026) _Psychodiversity: Cognition and Sentience Beyond Humans_. Routledge.
 *   Desmond, H. and Ramsey, G.  (2023)  _Human Success: Evolutionary Origins and Ethical Implications._  Oxford University Press. For more information, visit the [Oxford University Press website](https://global.oup.com/academic/product/human-success-9780190096168?cc=be&lang=en&) or purchase it via [Amazon](https://www.amazon.com/Human-Success-Evolutionary-Origins-Implications/dp/0190096160/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1679137920&sr=8-1)
 *   Ramsey, G. and De Block, A.  (2022)  _The Dynamics of Science: Computational Frontiers in History and Philosophy of Science._ University of Pittsburgh Press. For more information, visit the [University of Pittsburgh Press website](https://upittpress.org/books/9780822947370/) or purchase it via [Amazon](https://www.amazon.com/Dynamics-Science-Computational-Frontiers-Philosophy/dp/0822947374/ref=sr_1_1?crid=1UBNMDXIGMFQF&keywords=the+dynamics+of+science+ramsey&qid=1664952106&qu=eyJxc2MiOiIwLjczIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=the+dynamics+of+science+ramsey%2Caps%2C136&sr=8-1)

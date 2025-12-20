@@ -35,6 +35,7 @@ unique: people
 	  
 	   Lab publications:
 
+	  *   Meneganzin, A. and Ramsey, G. (expected 2027) _The Human Divided: Traits, Adaptations, and Evolutionary Transitions_. Johns Hopkins University Press.
 	  *   [download-icon](/papers/2025-ejps-innovativeness.pdf) Ramsey, G. and Meneganzin, A. (2025) “Multilevel innovativeness and cross-species comparisons” _European Journal for Philosophy of Science_ 15, 39. [DOI: 10.1007/s13194-025-00666-0](https://doi.org/10.1007/s13194-025-00666-0)
 	  *   [download-icon](/papers/2024-jez-chin.pdf) Meneganzin, A., Ramsey, G, and DiFrisco, J. (2024) “What is a Trait? Lessons from the Human Chin” _Journal of Experimental Zoology Part B: Molecular and Developmental Evolution_ 343(2): 65-75. [DOI: 10.1002/jez.b.23249](https://doi.org/10.1002/jez.b.23249)
 	  
