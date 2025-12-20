@@ -41,8 +41,8 @@ Central questions in this project are: How are concepts like culture, innovation
 
 ## Related publications:
 
-*   Dani, G. and Ramsey, G. (forthcoming) “Tool use beyond humans” _Philosophy of Science_. [DOI: 10.1017/psa.2025.21](https://doi.org/10.1017/psa.2025.21)
 *   Ramsey, G. and Aaby, B. (expected 2026) _Psychodiversity: Cognition and Sentience Beyond Humans_  Routledge.
+*   [download-icon](/papers/2025-ps-tool-use-beyond-humans.pdf) Dani, G. and Ramsey, G. (2025) “Tool use beyond humans” _Philosophy of Science_ 92: 883-899. [DOI: 10.1017/psa.2025.21](https://doi.org/10.1017/psa.2025.21)
 *   [download-icon](/papers/2025-ejps-innovativeness.pdf) Ramsey, G. and Meneganzin, A. (2025) “Multilevel innovativeness and cross-species comparisons” _European Journal for Philosophy of Science_ 15, 39. [DOI: 10.1007/s13194-025-00666-0](https://doi.org/10.1007/s13194-025-00666-0)
 *   [download-icon](/papers/2017-bjps-cultural-fitness.pdf) Ramsey, G. and De Block, A. (2017) "Is cultural fitness hopelessly confused?" _British Journal for the Philosophy of Science_ 68: 305-328. [DOI: 10.1093/bjps/axv047](http://dx.doi.org/10.1093/bjps/axv047)
 *   [download-icon](/papers/2017-animal-culture.pdf) Ramsey, G. (2017) "What is animal culture?" In: K. Andrews and J. Beck (eds.) _Routledge Companion to the Philosophy of Animal Minds._ Routledge Press, 345-353.
@@ -64,7 +64,7 @@ Central questions in this project are: Why do cells and the organisms they compo
 
 *   Ramsey, G. and Durand, P. (expected 2025) _Death and Taxa._ Cambridge University Press.
 *   Durand, P. and Ramsey, G. (expected 2026) _Evolution's End: Life, Death, and the Mortality Constraint._ Oxford University Press.
-*   Durand, P. and Ramsey, G. (forthcoming) “Conceptual Foundations of Cell Mortality” in J. M. Hardwick and P. Durand (eds.) _The New Era of Microbial Cell Death_ Springer.
+*   [download-icon](/papers/2025-sicdm-conceptual-foundations.pdf) Durand, P. and Ramsey, G. (2025) “Conceptual Foundations of Cell Mortality” in J. M. Hardwick and P. Durand (eds.) _The New Era of Microbial Cell Death_ Springer.
 *   [download-icon](/papers/2023-yjbm-cell-fate.pdf)Ramsey, G. and Durand, P. (2023) “Cell Fate: What's Evolution Got to do With It?” _Yale Journal of Biology and Medicine_ 96(4): 565-568. [DOI: 10.59249/FBHI3484](https://doi.org/10.59249/FBHI3484)
 *   [download-icon](/papers/2023-hpls-cell-mortality.pdf) Durand, P. and Ramsey, G. (2023) “The concepts and origins of cell mortality” _History and Philosophy of the Life Sciences_ 45:23. [DOI: 10.1007/s40656-023-00581-8](https://doi.org/10.1007/s40656-023-00581-8)
 *   [download-icon](/papers/2021-moleco-pdc-black-queen.pdf) Ndhlovu, A., Durand, P., and Ramsey, G. (2021) “Programmed cell death as a black queen in microbial communities” _Molecular Ecology_ 30: 1110-1119. [DOI: 10.1111/mec.15757](https://doi.org/10.1111/mec.15757)

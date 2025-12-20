@@ -16,6 +16,7 @@ unique: papers
 # Books (as editor)
 
 *   Ramsey, G. and Aaby, B. (expected 2026) _Psychodiversity: Cognition and Sentience Beyond Humans_. Routledge.
+*   Ramsey, G. and Aaby, B. (expected 2026) _Psychodiversity: Cognition and Sentience Beyond Humans_. Routledge.
 *   Desmond, H. and Ramsey, G.  (2023)  _Human Success: Evolutionary Origins and Ethical Implications._  Oxford University Press. For more information, visit the [Oxford University Press website](https://global.oup.com/academic/product/human-success-9780190096168?cc=be&lang=en&) or purchase it via [Amazon](https://www.amazon.com/Human-Success-Evolutionary-Origins-Implications/dp/0190096160/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1679137920&sr=8-1)
 *   Ramsey, G. and De Block, A.  (2022)  _The Dynamics of Science: Computational Frontiers in History and Philosophy of Science._ University of Pittsburgh Press. For more information, visit the [University of Pittsburgh Press website](https://upittpress.org/books/9780822947370/) or purchase it via [Amazon](https://www.amazon.com/Dynamics-Science-Computational-Frontiers-Philosophy/dp/0822947374/ref=sr_1_1?crid=1UBNMDXIGMFQF&keywords=the+dynamics+of+science+ramsey&qid=1664952106&qu=eyJxc2MiOiIwLjczIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=the+dynamics+of+science+ramsey%2Caps%2C136&sr=8-1)
 *   Ramsey, G. and Pence, C. H.  (2016)  _Chance in Evolution._  University of Chicago Press. For more information, visit the [University of Chicago Press website](http://press.uchicago.edu/ucp/books/book/chicago/C/bo24550500.html) or purchase it via [Amazon](https://www.amazon.com/Chance-Evolution-Grant-Ramsey/dp/022640188X)
@@ -24,8 +25,8 @@ unique: papers
 # Articles and book chapters
 
 *   Ramsey, G. (forthcoming) “Much ado about ‘n’othing” _The Journal of Philosophy_.
-*   Durand, P. and Ramsey, G. (forthcoming) “Conceptual Foundations of Cell Mortality” in J. M. Hardwick and P. Durand (eds.) _The New Era of Microbial Cell Death_ Springer.
-*   Dani, G. and Ramsey, G. (forthcoming) “Tool use beyond humans” _Philosophy of Science_. [DOI: 10.1017/psa.2025.21](https://doi.org/10.1017/psa.2025.21)
+*   [download-icon](/papers/2025-sicdm-conceptual-foundations.pdf) Durand, P. and Ramsey, G. (2025) “Conceptual Foundations of Cell Mortality” in J. M. Hardwick and P. Durand (eds.) _The New Era of Microbial Cell Death_ Springer.
+*   [download-icon](/papers/2025-ps-tool-use-beyond-humans.pdf) Dani, G. and Ramsey, G. (2025) “Tool use beyond humans” _Philosophy of Science_ 92: 883-899. [DOI: 10.1017/psa.2025.21](https://doi.org/10.1017/psa.2025.21)
 *   [download-icon](/papers/2025-bjps-levels-of-selection.pdf) Eronen, M. I. and Ramsey, G. (2025) “What are the ‘levels’ in levels of selection?” _The British Journal for the Philosophy of Science_ 76(2): 495-518. [DOI: 10.1086/718990.](https://doi.org/10.1086/718990)
 *   [download-icon](/papers/2025-ejps-innovativeness.pdf) Ramsey, G. and Meneganzin, A. (2025) “Multilevel innovativeness and cross-species comparisons” _European Journal for Philosophy of Science_ 15, 39. [DOI: 10.1007/s13194-025-00666-0](https://doi.org/10.1007/s13194-025-00666-0)
 *   [download-icon](/papers/2024-syn-driftability-niche-construction.pdf) Fábregas-Tejeda, A. and Ramsey, G. (2024) “Driftability and niche construction” _Synthese_ 204: 162. [DOI: 10.1007/s11229-024-04815-5](https://doi.org/10.1007/s11229-024-04815-5)
