@@ -26,6 +26,9 @@ unique: papers
 # Articles and book chapters
 
 *   Ramsey, G. (forthcoming) “Much ado about ‘n’othing” _The Journal of Philosophy_.
+*   [download-icon](/papers/2027-ps-selfish-ai.pdf) Ramsey, G. and Juncheng T. (2027) “Why selfishness is not the reason evolutionary AI is dangerous” Philosophy of Science.
+*   [download-icon](/papers/2027-ps-matrix-account-niche-construction.pdf) Ramsey, G. and Fábregas-Tejeda, A. (2027) “The matrix account of niche construction” Philosophy of Science.
+*   [download-icon](/papers/2027-ps-many-one.pdf) Meneganzin, A. and Ramsey, G. (2027) “The Many and The One: What Composite Traits Are and Why They Matter” Philosophy of Science.
 *   [download-icon](/papers/2025-sicdm-conceptual-foundations.pdf) Durand, P. and Ramsey, G. (2025) “Conceptual Foundations of Cell Mortality” in J. M. Hardwick and P. Durand (eds.) _The New Era of Microbial Cell Death_ Springer.
 *   [download-icon](/papers/2025-ps-tool-use-beyond-humans.pdf) Dani, G. and Ramsey, G. (2025) “Tool use beyond humans” _Philosophy of Science_ 92: 883-899. [DOI: 10.1017/psa.2025.21](https://doi.org/10.1017/psa.2025.21)
 *   [download-icon](/papers/2025-bjps-levels-of-selection.pdf) Eronen, M. I. and Ramsey, G. (2025) “What are the ‘levels’ in levels of selection?” _The British Journal for the Philosophy of Science_ 76(2): 495-518. [DOI: 10.1086/718990.](https://doi.org/10.1086/718990)
