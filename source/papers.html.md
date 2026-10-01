@@ -25,10 +25,10 @@ unique: papers
 
 # Articles and book chapters
 
-*   [download-icon](/papers/2027-ps-selfish-ai.pdf) Ramsey, G. and Juncheng T. (2027) “Why selfishness is not the reason evolutionary AI is dangerous” Philosophy of Science.
+*   [download-icon](/papers/2027-ps-selfish-ai.pdf) Ramsey, G. and Juncheng T. (2027) “Why selfishness is not the reason evolutionary AI is dangerous” _Philosophy of Science_.
 *   [download-icon](/papers/2027-ai-race.pdf) Roussel, E., Lauwaert, L., Swoboda, T., Ramsey, G., Uuk, R., Dung, L., and Aguirre, A. (2027) “Are we Doomed to an AI Race? Why Self-Interest Could Drive Countries Towards a Conditional Pause on Superintelligence.”
-*   [download-icon](/papers/2027-ps-matrix-account-niche-construction.pdf) Ramsey, G. and Fábregas-Tejeda, A. (2027) “The matrix account of niche construction” Philosophy of Science.
-*   [download-icon](/papers/2027-ps-many-one.pdf) Meneganzin, A. and Ramsey, G. (2027) “The Many and The One: What Composite Traits Are and Why They Matter” Philosophy of Science.
+*   [download-icon](/papers/2027-ps-matrix-account-niche-construction.pdf) Ramsey, G. and Fábregas-Tejeda, A. (2027) “The matrix account of niche construction” _Philosophy of Science_.
+*   [download-icon](/papers/2027-ps-many-one.pdf) Meneganzin, A. and Ramsey, G. (2027) “The Many and The One: What Composite Traits Are and Why They Matter” _Philosophy of Science_.
 *   [download-icon](/papers/2026-jop-nothing.pdf) Ramsey, G. (2026) “Much ado about ‘n’othing” _The Journal of Philosophy_.
 *   [download-icon](/papers/2025-sicdm-conceptual-foundations.pdf) Durand, P. and Ramsey, G. (2025) “Conceptual Foundations of Cell Mortality” in J. M. Hardwick and P. Durand (eds.) _The New Era of Microbial Cell Death_ Springer.
 *   [download-icon](/papers/2025-ps-tool-use-beyond-humans.pdf) Dani, G. and Ramsey, G. (2025) “Tool use beyond humans” _Philosophy of Science_ 92: 883-899. [DOI: 10.1017/psa.2025.21](https://doi.org/10.1017/psa.2025.21)

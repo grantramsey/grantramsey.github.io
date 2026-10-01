@@ -22,7 +22,7 @@ unique: people
 	   Lab publications:
 
 	  *   Fábregas-Tejeda, A. and Ramsey, G. (expected 2027) _Niche Construction and Evolutionary Theory_. Cambridge University Press.
-	  *   [download-icon](/papers/2027-ps-matrix-account-niche-construction.pdf) Ramsey, G. and Fábregas-Tejeda, A. (2027) “The matrix account of niche construction” Philosophy of Science.
+	  *   [download-icon](/papers/2027-ps-matrix-account-niche-construction.pdf) Ramsey, G. and Fábregas-Tejeda, A. (2027) “The matrix account of niche construction” _Philosophy of Science_.
 	  *   [download-icon](/papers/2024-syn-driftability-niche-construction.pdf) Fábregas-Tejeda, A. and Ramsey, G. (2024) “Driftability and niche construction” _Synthese_ 204: 162. [DOI: 10.1007/s11229-024-04815-5](https://doi.org/10.1007/s11229-024-04815-5)
 	  
 	  
@@ -37,7 +37,7 @@ unique: people
 	   Lab publications:
 
 	  *   Meneganzin, A. and Ramsey, G. (expected 2027) _The Human Divided: Traits, Adaptations, and Evolutionary Transitions_. Johns Hopkins University Press.
-	  *   [download-icon](/papers/2027-ps-many-one.pdf) Meneganzin, A. and Ramsey, G. (2027) “The Many and The One: What Composite Traits Are and Why They Matter” Philosophy of Science.
+	  *   [download-icon](/papers/2027-ps-many-one.pdf) Meneganzin, A. and Ramsey, G. (2027) “The Many and The One: What Composite Traits Are and Why They Matter” _Philosophy of Science_.
 	  *   [download-icon](/papers/2025-ejps-innovativeness.pdf) Ramsey, G. and Meneganzin, A. (2025) “Multilevel innovativeness and cross-species comparisons” _European Journal for Philosophy of Science_ 15, 39. [DOI: 10.1007/s13194-025-00666-0](https://doi.org/10.1007/s13194-025-00666-0)
 	  *   [download-icon](/papers/2024-jez-chin.pdf) Meneganzin, A., Ramsey, G, and DiFrisco, J. (2024) “What is a Trait? Lessons from the Human Chin” _Journal of Experimental Zoology Part B: Molecular and Developmental Evolution_ 343(2): 65-75. [DOI: 10.1002/jez.b.23249](https://doi.org/10.1002/jez.b.23249)
 	  
@@ -67,7 +67,7 @@ unique: people
 	  
       Lab publications:
 
-      *   [download-icon](/papers/2027-ps-selfish-ai.pdf) Ramsey, G. and Juncheng T. (2027) “Why selfishness is not the reason evolutionary AI is dangerous” Philosophy of Science.
+      *   [download-icon](/papers/2027-ps-selfish-ai.pdf) Ramsey, G. and Juncheng T. (2027) “Why selfishness is not the reason evolutionary AI is dangerous” _Philosophy of Science_.
 	
 # Alumni
 
