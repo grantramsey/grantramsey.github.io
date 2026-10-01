@@ -26,6 +26,7 @@ unique: papers
 # Articles and book chapters
 
 *   [download-icon](/papers/2027-ps-selfish-ai.pdf) Ramsey, G. and Juncheng T. (2027) “Why selfishness is not the reason evolutionary AI is dangerous” Philosophy of Science.
+*   [download-icon](/papers/2027-ai-race.pdf) Roussel, E., Lauwaert, L., Swoboda, T., Ramsey, G., Uuk, R., Dung, L., and Aguirre, A. (2027) “Are we Doomed to an AI Race? Why Self-Interest Could Drive Countries Towards a Conditional Pause on Superintelligence.”
 *   [download-icon](/papers/2027-ps-matrix-account-niche-construction.pdf) Ramsey, G. and Fábregas-Tejeda, A. (2027) “The matrix account of niche construction” Philosophy of Science.
 *   [download-icon](/papers/2027-ps-many-one.pdf) Meneganzin, A. and Ramsey, G. (2027) “The Many and The One: What Composite Traits Are and Why They Matter” Philosophy of Science.
 *   [download-icon](/papers/2026-jop-nothing.pdf) Ramsey, G. (2026) “Much ado about ‘n’othing” _The Journal of Philosophy_.

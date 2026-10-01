@@ -11,7 +11,9 @@ Central questions in this project are: What is the nature of key concepts in evo
 ## Related publications:
 
 
-*   Ramsey, G. (forthcoming) “Much ado about ‘n’othing” _The Journal of Philosophy_.
+*   [download-icon](/papers/2027-ps-many-one.pdf) Meneganzin, A. and Ramsey, G. (2027) “The Many and The One: What Composite Traits Are and Why They Matter” Philosophy of Science.
+*   [download-icon](/papers/2027-ps-matrix-account-niche-construction.pdf) Ramsey, G. and Fábregas-Tejeda, A. (2027) “The matrix account of niche construction” Philosophy of Science.
+*   [download-icon](/papers/2026-jop-nothing.pdf) Ramsey, G. (2026) “Much ado about ‘n’othing” _The Journal of Philosophy_.
 *   [download-icon](/papers/2025-bjps-levels-of-selection.pdf) Eronen, M. I. and Ramsey, G. (2025) “What are the ‘levels’ in levels of selection?” _The British Journal for the Philosophy of Science_ 76(2): 495-518. [DOI: 10.1086/718990.](https://doi.org/10.1086/718990)
 *   [download-icon](/papers/2024-syn-driftability-niche-construction.pdf) Fábregas-Tejeda, A. and Ramsey, G. (2024) “Driftability and niche construction” _Synthese_ 204: 162. [DOI: 10.1007/s11229-024-04815-5](https://doi.org/10.1007/s11229-024-04815-5)
 *   [download-icon](/papers/2023-ps-adaptationism-trait-individuation.pdf) DiFrisco, J. and Ramsey, G. (2023) “Adaptationism and trait individuation” _Philosophy of Science_  90(5): 1234-1243. [DOI: 10.1017/psa.2023.28](https://doi.org/10.1017/psa.2023.28)
@@ -34,6 +36,15 @@ Central questions in this project are: What is the nature of key concepts in evo
 *   [download-icon](/papers/2007-ccpb-emergentist-statistical-interpretation.pdf) Brandon, R. and Ramsey, G. (2007) "What's Wrong with the Emergentist Statistical Interpretation of Natural Selection and Random Drift?" In: D. Hull and M. Ruse (eds.) _Cambridge Companion to the Philosophy of Biology,_ Cambridge: Cambridge University Press.
 *   [download-icon](/papers/2006-shpbbs-block-fitness.pdf) Ramsey, G. (2006) "Block fitness." _Studies in History and Philosophy of Biological and Biomedical Sciences_ 37: 484-498. [DOI: 10.1016/j.shpsc.2006.06.009.](http://dx.doi.org/10.1016/j.shpsc.2006.06.009)
 
+
+# AI Evolution and Risks
+
+Central questions in this project are: What are the important risks related to the development of advanced AI? Can evolutionary theory help us to understand AI risks? If so, how should evolutionary theory be applied to AI?
+
+## Related publications:
+
+*   [download-icon](/papers/2027-ps-selfish-ai.pdf) Ramsey, G. and Juncheng T. (2027) “Why selfishness is not the reason evolutionary AI is dangerous” Philosophy of Science.
+*   [download-icon](/papers/2027-ai-race.pdf) Roussel, E., Lauwaert, L., Swoboda, T., Ramsey, G., Uuk, R., Dung, L., and Aguirre, A. (2027) “Are we Doomed to an AI Race? Why Self-Interest Could Drive Countries Towards a Conditional Pause on Superintelligence.”
 
 # Behavior in humans and other animals
 
